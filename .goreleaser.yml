@@ -60,15 +60,3 @@ release:
 
 signs:
   - artifacts: checksum
-
-brews:
-  - name: csvtools
-    homepage: "https://github.com/3-2-1-contact/csv-tools"
-    description: "Tools for working with CSV files"
-    license: "MIT"
-    tap:
-      owner: 3-2-1-contact
-      name: homebrew-tools
-    folder: Formula
-    install: |
-      bin.install "csvtools"
