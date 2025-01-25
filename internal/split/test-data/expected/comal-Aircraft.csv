@@ -1,0 +1,13 @@
+frequency output,frequency input,fcc callsign,agency/category,description,alpha tag,pl output tone,pl input tone,mode,class station code,tag,county
+119.325000,0.00000,,New Braunfels Airport (KBAZ) ATC,ATIS,KBAZ ATIS,CSQ,,AM,,Aircraft,comal
+120.175000,0.00000,,New Braunfels Airport (KBAZ) ATC,Ground,KBAZ Ground,CSQ,,AM,,Aircraft,comal
+120.825000,0.00000,,New Braunfels Airport (KBAZ) ATC,New Braunfels WX AWOA-3 (from KHYI),NB Wx AWOS,CSQ,,AM,,Aircraft,comal
+122.700000,0.00000,,New Braunfels Airport (KBAZ) ATC,Unicom,KBAZ Unicom,CSQ,,AM,,Aircraft,comal
+122.700000,0.00000,,New Braunfels Airport (KBAZ) Fixed Base Operators,Citi Flight Services,CitiFltServ,CSQ,,AM,,Aircraft,comal
+122.800000,0.00000,,Bulverde Air Park (1T8) CTAF/Unicom,Bulverde Airpark CTAF,Bulverde CTAF,CSQ,,AM,BM,Aircraft,comal
+122.975000,0.00000,,Kestrel Airpark (1T7) CTAF,Kestrel Airpark CTAF,Kestrel CTAF,CSQ,,AM,BM,Aircraft,comal
+124.450000,0.00000,,New Braunfels Airport (KBAZ) ATC,San Antonio Approach/Departure,SA Approach,CSQ,,AM,,Aircraft,comal
+127.050000,0.00000,,New Braunfels Airport (KBAZ) ATC,Tower,KBAZ Tower,CSQ,,AM,,Aircraft,comal
+128.050000,0.00000,,New Braunfels Airport (KBAZ) ATC,San Antonio Departure,NB Depart,CSQ,,AM,,Aircraft,comal
+134.750000,0.00000,,New Braunfels Airport (KBAZ) ATC,Clearance Delivery,KBAZ CD,CSQ,,AM,,Aircraft,comal
+285.400000,0.00000,,New Braunfels Airport (KBAZ) ATC,Tower,KBAZ Tower,CSQ,,AM,,Aircraft,comal

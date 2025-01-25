@@ -1,0 +1,1383 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Output Tone,PL Input Tone,Mode,Class Station Code,Tag,County
+119.325,0,,New Braunfels Airport (KBAZ) ATC,ATIS,KBAZ ATIS,CSQ,,AM,,Aircraft,comal
+120.175,0,,New Braunfels Airport (KBAZ) ATC,Ground,KBAZ Ground,CSQ,,AM,,Aircraft,comal
+120.825,0,,New Braunfels Airport (KBAZ) ATC,New Braunfels WX AWOA-3 (from KHYI),NB Wx AWOS,CSQ,,AM,,Aircraft,comal
+122.7,0,,New Braunfels Airport (KBAZ) ATC,Unicom,KBAZ Unicom,CSQ,,AM,,Aircraft,comal
+122.7,0,,New Braunfels Airport (KBAZ) Fixed Base Operators,Citi Flight Services,CitiFltServ,CSQ,,AM,,Aircraft,comal
+122.8,0,,Bulverde Air Park (1T8) CTAF/Unicom,Bulverde Airpark CTAF,Bulverde CTAF,CSQ,,AM,BM,Aircraft,comal
+122.975,0,,Kestrel Airpark (1T7) CTAF,Kestrel Airpark CTAF,Kestrel CTAF,CSQ,,AM,BM,Aircraft,comal
+124.45,0,,New Braunfels Airport (KBAZ) ATC,San Antonio Approach/Departure,SA Approach,CSQ,,AM,,Aircraft,comal
+127.05,0,,New Braunfels Airport (KBAZ) ATC,Tower,KBAZ Tower,CSQ,,AM,,Aircraft,comal
+128.05,0,,New Braunfels Airport (KBAZ) ATC,San Antonio Departure,NB Depart,CSQ,,AM,,Aircraft,comal
+134.75,0,,New Braunfels Airport (KBAZ) ATC,Clearance Delivery,KBAZ CD,CSQ,,AM,,Aircraft,comal
+285.4,0,,New Braunfels Airport (KBAZ) ATC,Tower,KBAZ Tower,CSQ,,AM,,Aircraft,comal
+150.935,153.5,WPMG416,Attractions Wildlife Ranch,Operations,NatBrdgCavrn,67.0 PL,,FM,RM,Business,comal
+151.535,0,WQRN733,Businesses Manufacturing,Western Railroad (Cement),Western Railroad,546 DPL,,FM,RM,Business,comal
+152.885,0,WQWM365,Businesses Manufacturing,Martin Marietta Cement,Martin Marietta,186.2 PL,,FM,RM,Business,comal
+451.4625,0,WQCI909,Attractions Operations,Blastenhoff Tower Operations,SCHLB 7,162 DPL,,FM,M,Business,comal
+451.6375,0,WPYJ553,Businesses Hotels,Holiday Inn Hills Country Resort (Canyon Lake),SLHCR 451.63,351 DPL,,FM,M,Business,comal
+451.825,456.825,WQZY802,Businesses Hotels,Capital Aggregrates - Solms Rd. Quarry,CapitalAgQry,,,FMN,BM,Business,comal
+451.9875,0,WQCI909,Attractions Operations,Channel 1 simplex backup,SCHLB 4,071 DPL,,FM,M,Business,comal
+452.0625,0,WPYJ553,Businesses Hotels,Holiday Inn Hill Country Resort (Canyon Lake),SLHCR 452.06,662 DPL,,FM,M,Business,comal
+452.125,457.125,WPSR340,Attractions Operations,Transportation and Parking,SCHLB 8,732 DPL,,FM,RM,Business,comal
+452.2375,457.2375,WQCI909,Attractions Operations,Food and Beverage,SCHLB 6,411 DPL,,FM,RM,Business,comal
+452.2375,0,WQCI909,Attractions Operations,Channel 6 simplex backup,SCHLB 3,411 DPL,,FM,M,Business,comal
+452.6625,0,WQCI909,Attractions Operations,Park Managers,SCHLB 5,546 DPL,,FM,M,Business,comal
+453.0125,458.0125,WQCI909,Attractions Operations,Maintenance,SCHLB 2,315 DPL,,FM,RM,Business,comal
+457.75,0,,Businesses Retail,HEB (New Braunfels Walnut),HEN NB Walnut,245 DPL,,FMN,M,Business,comal
+461.1125,0,,Businesses Retail,"Buc-ee's (2760 IH 35, North New Braunfels)",Buc-ee's 461.112,331 DPL,,FMN,M,Business,comal
+461.4,466.4,WQWM365,Businesses Manufacturing,Martin Marietta Ops,MartMarietta Ops,CC 9|TG 9001|SL 1,,DMR,RM,Business,comal
+461.4,466.4,WQWM365,Businesses Manufacturing,Martin Marietta Ops,MartMarietta Ops,CC 9|TG 9002|SL 2,,DMR,RM,Business,comal
+461.775,0,WPYJ553,Businesses Hotels,Holiday Innl Country Resort Maintenance,SLHCR Maint,465 DPL,,FM,M,Business,comal
+462.5625,0,,Businesses Retail,HEB 17460 IH-35 (North Schertz),HEB N Schert,,,FMN,M,Business,comal
+462.5875,0,,Businesses Retail,Buc-ee's (2760 IH 35 (North New Braunfels),Buc-ee's 462.487,77.0 PL,,FMN,M,Business,comal
+463.2375,0,WQOS662,Businesses Manufacturing,SYSCO Food Processing Plant,SYSCO Food Plant,516 DPL,,FM,RM,Business,comal
+463.9,0,WPYJ553,Businesses Hotels,Holiday Inn Hill Country Resort Housekeeping,SLHCR Hskpg,243 DPL,,FM,M,Business,comal
+464.1625,469.1625,WQWM365,Businesses Manufacturing,Martin Marietta Ops (Spanish Speaking),MartMarietta Ops,CC 2|TG 9003|SL 2,,DMR,RM,Business,comal
+464.325,0,WPUA416,Businesses Retail,Wal-Mart Ops-1 (3900 IH35N),Wal-Mart Ops-1,100.0 PL,,FMN,RM,Business,comal
+464.375,0,WPUA416,Businesses Retail,Wal-Mart Ops-2 (3900 IH35N),Wal-Mart Ops-2,100.0 PL,,FMN,RM,Business,comal
+464.6375,0,WQGQ913,Businesses Manufacturing,Chemical Lime Company,Chemical Lime Co,306 DPL,,FM,RM,Business,comal
+453.0875,0,WPRI300,Comal County Sheriff,Jail Control,Comal Co Jail 2,043 DPL,,FMN,BM,Corrections,comal
+453.4125,458.4125,WRUQ784,Comal County Sheriff,Jail Operations,Comal Co Jail,CC 8|TG 10|SL 1,,DMR,RM,Corrections,comal
+154.28,155.925,KNED326,Comal County Fire/EMS,Bulverde Spring Branch Fire Ops (South Repeater),BSB Fire South A,431 DPL,,FMN,RM,Fire Dispatch,comal
+154.28,155.925,KNED326,Comal County Fire/EMS,Bulverde Spring Branch Fire Ops (South Repeater),BSB Fire South B,300 NAC,,P25,RM,Fire Dispatch,comal
+154.295,153.83,KVF679,Comal County Fire/EMS,Fire/EMS Dispatch,Comal Co Fire 1,203.5 PL,,FMN,RM,Fire Dispatch,comal
+155.88,153.815,WPRI300,Comal County Fire/EMS,Fire/EMS Dispatch (Digital),Comal Co Fire 2,300 NAC,,P25,RM,Fire Dispatch,comal
+151.25,153.95,WPFC267,Comal County Fire/EMS,Canyon Lake Fire/EMS Ops (Digital),CanyonLk FD D,300 NAC,,P25,RM,Fire-Tac,comal
+151.25,153.95,WPFC267,Comal County Fire/EMS,Canyon Lake Fire/EMS Ops,CanyonLk FD A,100.0 PL,,FMN,RM,Fire-Tac,comal
+154.13,151.04,KKV500,New Braunfels,Fire (Tactical/Back-up/Mutual Aid),NBFD VHF,203.5 PL,,FMN,RM,Fire-Tac,comal
+154.205,156.045,WPKH510,Comal County Fire/EMS,Bulverde Spring Branch Fire Ops (North Repeater),BSB Fire North A,203.5 PL,,FMN,RM,Fire-Tac,comal
+154.205,156.045,WPKH510,Comal County Fire/EMS,Bulverde Spring Branch Fire Ops (North Repeater),BSB Fire North B,300 NAC,,P25,RM,Fire-Tac,comal
+154.445,153.89,KZT493,Comal County Fire/EMS,Bracken VFD Ops,Bracken VFD A,203.5 PL,,FMN,RM,Fire-Tac,comal
+154.445,153.89,KZT493,Comal County Fire/EMS,Bracken VFD Ops (Digital),Bracken VFD D,300 NAC,,P25,RM,Fire-Tac,comal
+145.13,144.53,W5DK,Amateur Radio,Anhalt,W5DK,,131.8 PL,FM,RM,Ham,comal
+146.44,0,WB5FNZ,Amateur Radio,New Braunfels- Southwest Lynx Repeater System (simplex repeater),WB5FNZ,,88.5 PL,FM,RM,Ham,comal
+147,146.4,WB5LVI,Amateur Radio,Guadalupe Valley Amateur Radio Club- New Braunfels,WB5LVI,,103.5 PL,FM,RM,Ham,comal
+147.14,147.74,K5PWX,Skywarn/RACES,San Antonio Repeater Organization Area Skywarn- Direct to NWS Office in New Braunfels,SARO-SkyWarn,179.9 PL,179.9 PL,FM,RM,Ham,comal
+443.5,448.5,WD5IEH,Amateur Radio,WD5IEH Link System (linked to EchoLink and IRLP).,WD5IEH,,146.2 PL,FM,RM,Ham,comal
+444.45,449.45,W5ERX,Amateur Radio,Canyon Lake,W5ERX,,114.8 PL,FM,RM,Ham,comal
+155.595,154.71,KVF679,Comal County Sheriff,Ch. 1 South (includes Garden Ridge Police),CCSO 1 South,300 NAC,,P25,RM,Law Dispatch,comal
+156,153.965,KVF679,Comal County Sheriff,Ch. 2 North (includes Bulverde Police),CCSO 2 North,300 NAC,,P25,RM,Law Dispatch,comal
+155.19,155.805,WQT639,New Braunfels,Solid Waste and Recycling (see note in Wiki),NB SldWste,203.5 PL,,FM,RM,Public Works,comal
+155.31,0,WQT639,New Braunfels,Streets 1,NB Street,203.5 PL,,FM,BM,Public Works,comal
+155.67,0,WQT639,New Braunfels,Streets 2,NB Streets,203.5 PL,,FM,M,Public Works,comal
+451.025,0,,New Braunfels I.S.D.,Oak Run M.S.,NBISD ORMS,346 DPL,,FMN,M,Schools,comal
+451.05,0,,New Braunfels I.S.D.,Memorial E.S.,NBISD MES,565 DPL,,FMN,M,Schools,comal
+451.25,0,,New Braunfels I.S.D.,County Line E.S.,NBISD CLES,143 DPL,,FMN,M,Schools,comal
+451.275,0,,New Braunfels I.S.D.,Carl Schurz E.S.,NBISD CSES,632 DPL,,FMN,M,Schools,comal
+451.5,0,,Comal I.S.D.,Canyon Lake High School Ch. 3,CLHS Ch 3,031 DPL,,FMN,M,Schools,comal
+451.5375,0,WQSX840,New Braunfels I.S.D.,Lamar E.S.,NBISD LES,532 DPL,,FMN,M,Schools,comal
+452.0875,0,WQSX840,New Braunfels I.S.D.,Seele E.S.,NBISD SES,155 DPL,,FMN,M,Schools,comal
+452.1125,0,WQSX840,New Braunfels I.S.D.,Walnut Springs E.S.,NBISD WSES,343 DPL,,FMN,M,Schools,comal
+452.125,0,,Comal I.S.D.,Canyon Lake High School Ch. 2,CLHS Ch 2,351 DPL,,FMN,M,Schools,comal
+452.475,457.475,WPRF965,Comal I.S.D.,Comal ISD Buses - East Dispatch,ComalISD Buses E,CC 6|TG 60003|SL 1,,DMR,RM,Schools,comal
+456.6375,0,WQSX840,New Braunfels I.S.D.,Long Creek H.S.,NBISD LCHS,731 DPL,,FMN,M,Schools,comal
+456.7625,0,WQSX840,New Braunfels I.S.D.,Klein Road E.S.,NBISD KRES,223 DPL,,FMN,M,Schools,comal
+457.0375,0,WQSX840,New Braunfels I.S.D.,Lone Star Early Childhood,NBISD LSES,412 DPL,,FMN,M,Schools,comal
+457.1125,0,WQSX840,New Braunfels I.S.D.,New Braunfels M.S.,NBISD NBMS,315 DPL,,FMN,M,Schools,comal
+457.275,0,,New Braunfels I.S.D.,Bus to Bus Digital,NBISD BUS-BUS,9 RAN,,NXDN48,M,Schools,comal
+457.4875,0,WQSX840,New Braunfels I.S.D.,Alternative Campus,NBISD DAEP,506 DPL,,FMN,M,Schools,comal
+457.4875,0,WQSX840,New Braunfels I.S.D.,Talk Around 1,NBISD TALK 1,506 DPL,,FMN,M,Schools,comal
+457.8375,0,WQSX840,New Braunfels I.S.D.,Talk Around 2,NBISD TALK 2,263 DPL,,FMN,M,Schools,comal
+459.1125,0,,New Braunfels I.S.D.,Tac Channel Analog,NBISD TAC A,432 DPL,,FMN,M,Schools,comal
+459.1125,0,,New Braunfels I.S.D.,Tac Channel Digital,NBISD TAC D,9 RAN,,NXDN48,M,Schools,comal
+461.1,466.1,WQZG208,Comal I.S.D.,Comal ISD - Danville MS 1 Ops,Danville MS 1,CC 3|TG 100|SL 1,,DMR,RM,Schools,comal
+461.575,466.575,WNRI438,Comal I.S.D.,Comal ISD Buses - West Dispatch,ComalISD Buses W,CC 8|TG 60001|SL 1,,DMR,RM,Schools,comal
+463.35,468.35,WPUI802,Comal I.S.D.,"Canyon High School - Administration, others",CHS Admin,,,FMN,BM,Schools,comal
+463.525,0,WQMR958,Comal I.S.D.,Canyon Lake High School Ch. 1,CLHS Ch 1,243 DPL,,FMN,M,Schools,comal
+463.725,0,WQMR958,Comal I.S.D.,Smithson Valley High School,SVHS 2,,,FMN,RM,Schools,comal
+464.5,0,,Comal I.S.D.,Canyon Lake High School Ch. 5,CLHS Ch 5,134 DPL,,FMN,M,Schools,comal
+464.525,0,,Comal I.S.D.,Canyon Lake High School Ch. 4,CLHS Ch 4,023 DPL,,FMN,M,Schools,comal
+464.8375,469.8375,WRJQ337,Comal I.S.D.,Comal ISD - Davenport HS 1 Ops,Davenport HS 1,CC 9|TG 6000|SL 1,,DMR,RM,Schools,comal
+464.8375,469.8375,WRJQ337,Comal I.S.D.,Comal ISD - Davenport HS 2 Open,Davenport HS 2,CC 9|TG 6000|SL 2,,DMR,RM,Schools,comal
+469.2625,0,,New Braunfels I.S.D.,New Braunfels H.S.,NBISD NBHS,172 DPL,,FMN,M,Schools,comal
+451.9875,456.9875,WQCI909,Attractions Operations,Park Operations,SCHLB 1,071 DPL,,FM,RM,Security,comal
+153.605,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 021 Comal County,,,,Project 25,,TRS,comal
+153.6725,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 021 Comal County,,,,Project 25,,TRS,comal
+161.8,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 021 Comal County,,,,Project 25,,TRS,comal
+161.8625,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 021 Comal County,,,,Project 25,,TRS,comal
+161.925,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 021 Comal County,,,,Project 25,,TRS,comal
+162,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 021 Comal County,,,,Project 25,,TRS,comal
+454.0125,0, ,BearCom (Central Texas NexEdge),Site 003 New Braunfels,,,,NXDN,,TRS,comal
+454.275,0, ,BearCom (Central Texas NexEdge),Site 003 New Braunfels,,,,NXDN,,TRS,comal
+461.8875,0, ,BearCom (Central Texas NexEdge),Site 003 New Braunfels,,,,NXDN,,TRS,comal
+462.15,0, ,BearCom (Central Texas NexEdge),Site 003 New Braunfels,,,,NXDN,,TRS,comal
+463.2125,0, ,Cemex Balcones Quarry and Cement Plant,Site 001 Plant,,,,DMR,,TRS,comal
+463.375,0, ,BearCom (Central Texas NexEdge),Site 003 New Braunfels,,,,NXDN,,TRS,comal
+464.1375,0, ,Cemex Balcones Quarry and Cement Plant,Site 001 Plant,,,,DMR,,TRS,comal
+769.20625,0, ,Lower Colorado River Authority (LCRA) P25,Site 003 New Braunfels,,,,Project 25,,TRS,comal
+769.66875,0, ,Lower Colorado River Authority (LCRA) P25,Site 003 New Braunfels,,,,Project 25,,TRS,comal
+769.95625,0, ,Lower Colorado River Authority (LCRA) P25,Site 003 New Braunfels,,,,Project 25,,TRS,comal
+770.41875,0, ,Lower Colorado River Authority (LCRA) P25,Site 003 New Braunfels,,,,Project 25,,TRS,comal
+770.70625,0, ,Lower Colorado River Authority (LCRA) P25,Site 003 New Braunfels,,,,Project 25,,TRS,comal
+771.13125,0, ,Lower Colorado River Authority (LCRA) P25,Site 003 New Braunfels,,,,Project 25,,TRS,comal
+772.20625,0, ,Lower Colorado River Authority (LCRA) P25,Site 003 New Braunfels,,,,Project 25,,TRS,comal
+772.73125,0, ,Lower Colorado River Authority (LCRA) P25,Site 003 New Braunfels,,,,Project 25,,TRS,comal
+773.04375,0, ,Lower Colorado River Authority (LCRA) P25,Site 023 Smithson Valley,,,,Project 25,,TRS,comal
+773.30625,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 056 New Braunfels,,,,Project 25,,TRS,comal
+773.33125,0, ,Lower Colorado River Authority (LCRA) P25,Site 023 Smithson Valley,,,,Project 25,,TRS,comal
+773.79375,0, ,Lower Colorado River Authority (LCRA) P25,Site 023 Smithson Valley,,,,Project 25,,TRS,comal
+774.05625,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 056 New Braunfels,,,,Project 25,,TRS,comal
+774.08125,0, ,Lower Colorado River Authority (LCRA) P25,Site 023 Smithson Valley,,,,Project 25,,TRS,comal
+774.34375,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 056 New Braunfels,,,,Project 25,,TRS,comal
+774.54375,0, ,Lower Colorado River Authority (LCRA) P25,Site 023 Smithson Valley,,,,Project 25,,TRS,comal
+774.80625,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 056 New Braunfels,,,,Project 25,,TRS,comal
+935.2,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 037 Spring Branch,,,,OpenSky,,TRS,comal
+936.45,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 038 New Braunfels,,,,OpenSky,,TRS,comal
+936.7,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 037 Spring Branch,,,,OpenSky,,TRS,comal
+936.95,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 037 Spring Branch,,,,OpenSky,,TRS,comal
+937.25,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 037 Spring Branch,,,,OpenSky,,TRS,comal
+937.725,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 037 Spring Branch,,,,OpenSky,,TRS,comal
+938.15,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 038 New Braunfels,,,,OpenSky,,TRS,comal
+938.4,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 038 New Braunfels,,,,OpenSky,,TRS,comal
+939.9375,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 037 Spring Branch,,,,OpenSky,,TRS,comal
+158.145,153.545,KNJS811,New Braunfels,NBU Utilities,NBU Utility,203.5 PL,,FM,RM,Utilities,comal
+158.205,153.515,KNJS811,New Braunfels,NBU Electric,NBU Electric,203.5 PL,,FM,RM,Utilities,comal
+158.25,153.575,KNJS811,New Braunfels,NBU Water,NBU Water,203.5 PL,,FM,RM,Utilities,comal
+122.97,0,,Randolph Air Force Base Auxiliary Field Aircraft Operations,Runway Supervisory Unit VHF,RAFB AUXFLD V,CSQ,,AM,BM,Aircraft,guadalupe
+146.76,146.16,WA5GC,Amateur Radio,Seguin,WA5GC Seguin,,141.3 PL,FM,RM,Ham,guadalupe
+151.655,0, ,Horizon Telecom (Seguin VHF),Site 001 Confirmed LCN,,,,LTR,,TRS,guadalupe
+152.9975,0, ,Commercial Metals Company,Site 001 One Steel Mill Road,,,,DMR,,TRS,guadalupe
+153.14,158.325,WNQB253,Guadalupe County Business Manufacturing,Commercial Metals Company 1,CMC Maint 1,141.3 PL,,FMN,RM,Business,guadalupe
+153.155,0, ,Horizon Telecom (Seguin VHF),Site 001 Confirmed LCN,,,,LTR,,TRS,guadalupe
+153.38,153.065,WNQB253,Guadalupe County Business Manufacturing,Commercial Metals Company 2,CMC Maint 2,141.3 PL,,FMN,BM,Business,guadalupe
+153.4025,0, ,Commercial Metals Company,Site 001 One Steel Mill Road,,,,DMR,,TRS,guadalupe
+153.725,0, ,Commercial Metals Company,Site 001 One Steel Mill Road,,,,DMR,,TRS,guadalupe
+154.31,0,KSZ964,Kingsbury,Fire,Kingsbury FD,27C NAC,,P25,BM,Fire-Tac,guadalupe
+154.43,156.03,WQGI741,Seguin,Fire/EMS Response,Seguin Fire Ops,366 NAC,,P25,RM,Fire Dispatch,guadalupe
+154.57,0,,Guadalupe County Business Retail,Walmart,Walmart Cibolo,,,FMN,M,Business,guadalupe
+154.785,156.21,WQGI741,Seguin,Police Dispatch,Seguin PD Disp,293 NAC,,P25,RM,Law Dispatch,guadalupe
+154.8525,151.28,WQGI741,Seguin,Utilities,Seguin Utilities,203.5 PL,,FMN,RM,Public Works,guadalupe
+155.07,158.94,WPRH499,Guadalupe County Fire,Fire Dispatch South (Digital),Guad Fire S Disp,2A5 NAC,,P25,RM,Fire Dispatch,guadalupe
+155.07,158.94,WPRH499,Guadalupe County Fire,Fire Dispatch South (Analog),Guad Fire S Disp,351 DPL,,FMN,RM,Fire Dispatch,guadalupe
+155.115,153.74,WPEY927,Texas Lutheran University,Police Dispatch,TLU Police Disp,203.5 PL,,FM,RM,Law Dispatch,guadalupe
+155.4375,158.7675,WPXW384,Guadalupe County Sheriff,"Law Enforcement Interoperability (DPS, Constables, TABC; patched with LCRA P25 talkgroup 6517; digital)",LE Interop Dig,351 NAC,,P25,RM,Interop,guadalupe
+155.4375,158.7675,WPXW384,Guadalupe County Sheriff,"Law Enforcement Interoperability (DPS, Constables, TABC; patched with LCRA P25 talkgroup 6517; analog)",LE Interop Ana,546 DPL,,FMN,RM,Interop,guadalupe
+155.52,157.665,WQGI741,Seguin,Animal Control (also used as SPD Tac 1),Seguin ACO,770 NAC,,P25,RM,Public Works,guadalupe
+155.55,0,KB30200,Guadalupe County Sheriff,Sheriff Talk-Around,Guad SO Talkarnd,203.5 PL,,FMN,M,Law Talk,guadalupe
+155.715,153.86,WQGI741,Seguin,Fire/EMS Dispatch,Seguin Fire/EMS,203.5 PL,,FM,RM,Fire Dispatch,guadalupe
+155.8275,153.8675,WPXW384,Guadalupe County Sheriff,East Interoperability,East Interop Dig,34F NAC,,P25,RM,Interop,guadalupe
+155.8275,153.8675,WPXW384,Guadalupe County Sheriff,East Interoperability,East Interop Ana,606 DPL,,FMN,RM,Interop,guadalupe
+155.9025,154.1225,WPXW384,Guadalupe County Sheriff,West Interoperability,West Interop,546 DPL,,FMN,RM,Interop,guadalupe
+155.94,153.59,WQGI741,Seguin,Public Works,Seguin Pub Works,203.5 PL,,FMN,RM,Utilities,guadalupe
+155.9625,0,KB30200,Guadalupe County Sheriff,Sheriff Jail Operations,Guad SO Jail,365 DPL,,FMN,BM,Corrections,guadalupe
+155.985,154.31,WNUN654,Guadalupe County Fire,Fire Dispatch North (Digital),Guad Fire N Disp,27C NAC,,P25,RM,Fire Dispatch,guadalupe
+155.985,154.31,WNUN654,Guadalupe County Fire,Fire Dispatch North (Analog),Guad Fire N Disp,351 DPL,,FMN,RM,Fire Dispatch,guadalupe
+156.015,153.935,KXA372,Schertz,Fire/EMS Dispatch (Patch to TRS),Schertz Fire/EMS,203.5 PL,,FMN,RM,EMS Dispatch,guadalupe
+158.265,153.485,WQXR664,Green Valley Special Utility District,Water,GVSUD Water,146.2 PL,,FMN,RM,Utilities,guadalupe
+158.265,0,KNCE272,Guadalupe County Business Utilities,Green Valley Special Utility District (some possible Nexedge,Green Valley SUD,146.2 PL,,FMN,BM,Utilities,guadalupe
+158.805,0,,Cibolo Creek Municipal Authority,Automated River Alarms,CCMA Alarms,074 DPL,,FM,BM,Public Works,guadalupe
+158.8425,0,WQGI741,Seguin,Fire Talk Around,Seguin Fire Tac1,203.5 PL,,FMN,M,Fire-Tac,guadalupe
+158.91,0,WPHW807,Guadalupe County Sheriff,Sheriff Court Security,Guad SO Court,141.3 PL,,FMN,BM,Law Tac,guadalupe
+159.78,0,WPYN367,Guadalupe County Fire,Fire Tactical 1,Guad Fire Tac 1,146.2 PL,,FMN,M,Fire-Tac,guadalupe
+159.81,0,WPYN367,Guadalupe County Fire,Fire Tactical 2,Guad Fire Tac 2,146.2 PL,,FMN,M,Fire-Tac,guadalupe
+159.84,0,WPYN367,Guadalupe County Fire,Fire Tactical 3,Guad Fire Tac 3,146.2 PL,,FMN,M,Fire-Tac,guadalupe
+160.065,0,WPYN367,Guadalupe County Fire,Fire Tactical 4,Guad Fire Tac 4,146.2 PL,,FMN,M,Fire-Tac,guadalupe
+160.17,0,WPYN367,Guadalupe County Fire,Fire Tactical 5,Guad Fire Tac 5,146.2 PL,,FMN,M,Fire-Tac,guadalupe
+271.2,0,,Randolph Air Force Base Auxiliary Field Aircraft Operations,Runway Supervisory Unit - Callsign CHARLIE BROWN,RAFB AUXFLD U,CSQ,,AM,BM,Military,guadalupe
+451.225,0, ,Guadalupe Valley Electric Cooperative,Site 007 Cibolo,,,,DMR,,TRS,guadalupe
+451.2875,0,WQIJ735,Schertz-Cibolo-Universal City Independent School District,Samuel Clemens High School Ch. 2,Clemens HS 2,131 DPL,,FMN,M,Schools,guadalupe
+451.325,0, ,Horizon Telecom (Seguin UHF),Site 001 Confirmed LCN,,,,LTR,,TRS,guadalupe
+451.7875,0, ,BearCom (Central Texas NexEdge),Site 007 Seguin,,,,NXDN,,TRS,guadalupe
+451.9125,0, ,Horizon Telecom (Seguin UHF),Site 002 Unconfirmed LCN,,,,LTR,,TRS,guadalupe
+452,0, ,Horizon Telecom (Seguin UHF),Site 001 Confirmed LCN,,,,LTR,,TRS,guadalupe
+452.0125,0, ,BearCom (Central Texas NexEdge),Site 007 Seguin,,,,NXDN,,TRS,guadalupe
+452.4625,457.4625,WQES928,Schertz-Cibolo-Universal City Independent School District,Maintenance and Facilities,SCUCISD Maint,031 DPL,,FMN,RM,Schools,guadalupe
+452.5625,0, ,Horizon Telecom (Guadalupe),Site 001 Un-confirmed LCN,,,,LTR,,TRS,guadalupe
+452.625,0, ,Horizon Telecom (Seguin UHF),Site 001 Confirmed LCN,,,,LTR,,TRS,guadalupe
+453.475,458.475,WNDZ217,Schertz,Public Works,Schertz Pub Wrks,151.4 PL,,FMN,RM,Public Works,guadalupe
+454.0375,0, ,BearCom (Central Texas NexEdge),Site 007 Seguin,,,,NXDN,,TRS,guadalupe
+454.65,0, ,BearCom (Central Texas NexEdge),Site 007 Seguin,,,,NXDN,,TRS,guadalupe
+456.1875,0,WQIJ735,Schertz-Cibolo-Universal City Independent School District,Green Valley Elementary,GreenValley Elem,131 DPL,,FMN,M,Schools,guadalupe
+461.225,466.225,WPSN426,Seguin ISD,School busses,SISD Buses,77.0 PL,,FM,RM,Schools,guadalupe
+461.475,466.475,WQSW204,Guadalupe County Business Amazon Fulfillment Center (SAT1),Dock Operations,AMZ SAT1 DockOps,CC 8|TG 16777215|SL 1,,DMR,RM,Business,guadalupe
+461.475,466.475,WQSW204,Guadalupe County Business Amazon Fulfillment Center (SAT1),Inventory,AMZ SAT1 Invento,CC 8|TG 16777215|SL 2,,DMR,RM,Business,guadalupe
+461.65,466.65,WPPT223,Schertz-Cibolo-Universal City Independent School District,Transportation,SCUCISD Buses,CC 1|TG 300|SL 1,,DMR,RM,Schools,guadalupe
+461.8125,0, ,Caterpillar,Site 001 Confirmed LCN,,,,DMR,,TRS,guadalupe
+461.9625,0, ,Guadalupe Valley Electric Cooperative,Site 007 Cibolo,,,,DMR,,TRS,guadalupe
+462.0625,467.0625,WQSW204,Guadalupe County Business Amazon Fulfillment Center (SAT1),Loading Ops,AMZ SAT1 Loading,CC 9|TG 16777215|SL 1,,DMR,RM,Business,guadalupe
+462.2,467.2,WQSW204,Guadalupe County Business Amazon Fulfillment Center (SAT1),Security Systems/Radio Maintenance,AMZ SAT1 SecSyst,CC 10|TG 16777215|SL 2,,DMR,RM,Business,guadalupe
+462.425,467.425,WQTM324,Schertz-Cibolo-Universal City Independent School District,Byron P. Steele II High School,BP Steele HS,503 DPL,,FMN,RM,Schools,guadalupe
+462.425,467.425,WQTM324,Schertz-Cibolo-Universal City Independent School District,Steele High School - Primary,Steele HS Primry,CC 9|TG 10101|SL 1,,DMR,RM,Schools,guadalupe
+462.425,467.425,WQTM324,Schertz-Cibolo-Universal City Independent School District,Steele High School,Steele HS 2,CC 9|TG *|SL 2,,DMR,RM,Schools,guadalupe
+463.25,468.25,WQZC682,Schertz-Cibolo-Universal City Independent School District,Samuel Clemens High School Ch. 1 Backup,Clemens HS 1A,445 DPL,,FMN,RM,Schools,guadalupe
+463.25,468.25,WQZC682,Schertz-Cibolo-Universal City Independent School District,Samuel Clemens High School Ch. 1 Primary,Clemens HS 1D,CC 7|TG 7001|SL 1,,DMR,RM,Schools,guadalupe
+463.25,468.25,WQZC682,Schertz-Cibolo-Universal City Independent School District,Samuel Clemens High School,Clemens HS,CC 7|TG 2000|SL 2,,DMR,RM,Schools,guadalupe
+463.3625,0, ,Caterpillar,Site 001 Confirmed LCN,,,,DMR,,TRS,guadalupe
+463.375,0, ,Horizon Telecom (Seguin UHF),Site 002 Unconfirmed LCN,,,,LTR,,TRS,guadalupe
+463.4125,0, ,Guadalupe Valley Electric Cooperative,Site 001 Seguin,,,,DMR,,TRS,guadalupe
+463.525,468.525,WPPT223,Schertz-Cibolo-Universal City Independent School District,Transportation,SCUCISD Buses,503 DPL,,FMN,RM,Schools,guadalupe
+463.65,468.65,WQSW204,Guadalupe County Business Amazon Fulfillment Center (SAT1),Floor Ops,AMZ SAT1 FloorOp,CC 12|TG 16777215|SL 1,,DMR,RM,Business,guadalupe
+463.875,468.875,WQSW204,Guadalupe County Business Amazon Fulfillment Center (SAT1),Truck Yard Line Maintenance,AMZ SAT1 YardMnt,CC 11|TG 16777215|SL 1,,DMR,RM,Business,guadalupe
+463.875,468.875,WQSW204,Guadalupe County Business Amazon Fulfillment Center (SAT1),Truck Yard Operations,AMZ SAT1 YardOps,CC 11|TG 16777215|SL 2,,DMR,RM,Business,guadalupe
+463.9125,0, ,Caterpillar,Site 001 Confirmed LCN,,,,DMR,,TRS,guadalupe
+463.9375,0, ,Horizon Telecom (Guadalupe),Site 001 Un-confirmed LCN,,,,LTR,,TRS,guadalupe
+464.0875,469.0875,,Guadalupe County Business Entertainment,Santikos Entertainment,Santikos Enterta,CC 6|TG *|SL 1,,DMR,RM,Business,guadalupe
+464.1,469.1,WQSW204,Guadalupe County Business Amazon Fulfillment Center (SAT1),General Maintenance,AMZ SAT1 Maint,CC 14|TG 16777215|SL 1,,DMR,RM,Business,guadalupe
+464.175,469.175,WQZN928,Schertz-Cibolo-Universal City Independent School District,Corbett Junior Middle School - Operations,Corbett JMS Ops,CC 13|TG 1301|SL 1,,DMR,RM,Schools,guadalupe
+464.175,469.175,WQZN928,Schertz-Cibolo-Universal City Independent School District,Corbett Junior Middle School - Custodians,Corbett JMS Cust,CC 13|TG *|SL 2,,DMR,RM,Schools,guadalupe
+464.225,469.225,WNFC375,Seguin ISD,School Maintenance,SISD MAINT,77.0 PL,,FM,RM,Schools,guadalupe
+464.325,469.325,,Schertz-Cibolo-Universal City Independent School District,Elaine Schlather Intermediate School - Primary,ESIS Primary,CC 3|TG 3001|SL 1,,DMR,RM,Schools,guadalupe
+464.35,469.35,WPUB887,Guadalupe County Business Manufacturing,Hexel,Hexel Ops,131.8 PL,,FMN,RM,Business,guadalupe
+464.3875,0, ,Guadalupe Valley Electric Cooperative,Site 001 Seguin,,,,DMR,,TRS,guadalupe
+464.4,469.4,WQSW204,Guadalupe County Business Amazon Fulfillment Center (SAT1),Information Technology,AMZ SAT1 InfoTec,CC 13|TG 16777215|SL 2,,DMR,RM,Business,guadalupe
+464.4125,0, ,Caterpillar,Site 001 Confirmed LCN,,,,DMR,,TRS,guadalupe
+464.5,0,,Attractions San Antonio Speedway,Operations,Speedway Ops,103.5 PL,,FM,,Business,guadalupe
+464.8,469.8,WNAW454,Guadalupe County Business Utilities,Seguin Electric Co INC,Seguin Elec Co,114.8 PL,,FM,RM,Utilities,guadalupe
+469.55,0,,Schertz-Cibolo-Universal City Independent School District,Schertz Elementary,Schertz Elem,CSQ,,FMN,M,Schools,guadalupe
+769.26875,0, ,Lower Colorado River Authority (LCRA) P25,Site 032 Seguin,,,,Project 25,,TRS,guadalupe
+769.69375,0, ,Lower Colorado River Authority (LCRA) P25,Site 030 Hickory Forest,,,,Project 25,,TRS,guadalupe
+770.06875,0, ,Lower Colorado River Authority (LCRA) P25,Site 031 Cibolo,,,,Project 25,,TRS,guadalupe
+770.15625,0, ,Lower Colorado River Authority (LCRA) P25,Site 032 Seguin,,,,Project 25,,TRS,guadalupe
+770.44375,0, ,Lower Colorado River Authority (LCRA) P25,Site 032 Seguin,,,,Project 25,,TRS,guadalupe
+770.46875,0, ,Lower Colorado River Authority (LCRA) P25,Site 007 Kingsbury,,,,Project 25,,TRS,guadalupe
+770.90625,0, ,Lower Colorado River Authority (LCRA) P25,Site 030 Hickory Forest,,,,Project 25,,TRS,guadalupe
+770.93125,0, ,Lower Colorado River Authority (LCRA) P25,Site 007 Kingsbury,,,,Project 25,,TRS,guadalupe
+770.94375,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 058 Seguin,,,,Project 25,,TRS,guadalupe
+771.03125,0, ,Lower Colorado River Authority (LCRA) P25,Site 007 Kingsbury,,,,Project 25,,TRS,guadalupe
+771.04375,0, ,Lower Colorado River Authority (LCRA) P25,Site 031 Cibolo,,,,Project 25,,TRS,guadalupe
+771.34375,0, ,Lower Colorado River Authority (LCRA) P25,Site 032 Seguin,,,,Project 25,,TRS,guadalupe
+771.61875,0, ,Lower Colorado River Authority (LCRA) P25,Site 031 Cibolo,,,,Project 25,,TRS,guadalupe
+772.15625,0, ,Lower Colorado River Authority (LCRA) P25,Site 007 Kingsbury,,,,Project 25,,TRS,guadalupe
+772.16875,0, ,Lower Colorado River Authority (LCRA) P25,Site 032 Seguin,,,,Project 25,,TRS,guadalupe
+772.41875,0, ,Lower Colorado River Authority (LCRA) P25,Site 031 Cibolo,,,,Project 25,,TRS,guadalupe
+772.81875,0, ,Lower Colorado River Authority (LCRA) P25,Site 032 Seguin,,,,Project 25,,TRS,guadalupe
+773.06875,0, ,Lower Colorado River Authority (LCRA) P25,Site 030 Hickory Forest,,,,Project 25,,TRS,guadalupe
+773.09375,0, ,Lower Colorado River Authority (LCRA) P25,Site 007 Kingsbury,,,,Project 25,,TRS,guadalupe
+773.21875,0, ,Lower Colorado River Authority (LCRA) P25,Site 031 Cibolo,,,,Project 25,,TRS,guadalupe
+773.53125,0, ,Lower Colorado River Authority (LCRA) P25,Site 030 Hickory Forest,,,,Project 25,,TRS,guadalupe
+773.55625,0, ,Lower Colorado River Authority (LCRA) P25,Site 007 Kingsbury,,,,Project 25,,TRS,guadalupe
+773.56875,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 058 Seguin,,,,Project 25,,TRS,guadalupe
+773.81875,0, ,Lower Colorado River Authority (LCRA) P25,Site 030 Hickory Forest,,,,Project 25,,TRS,guadalupe
+773.84375,0, ,Lower Colorado River Authority (LCRA) P25,Site 007 Kingsbury,,,,Project 25,,TRS,guadalupe
+773.88125,0, ,Lower Colorado River Authority (LCRA) P25,Site 032 Seguin,,,,Project 25,,TRS,guadalupe
+774.03125,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 058 Seguin,,,,Project 25,,TRS,guadalupe
+774.16875,0, ,Lower Colorado River Authority (LCRA) P25,Site 031 Cibolo,,,,Project 25,,TRS,guadalupe
+774.28125,0, ,Lower Colorado River Authority (LCRA) P25,Site 030 Hickory Forest,,,,Project 25,,TRS,guadalupe
+774.30625,0, ,Lower Colorado River Authority (LCRA) P25,Site 007 Kingsbury,,,,Project 25,,TRS,guadalupe
+774.31875,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 058 Seguin,,,,Project 25,,TRS,guadalupe
+774.56875,0, ,Lower Colorado River Authority (LCRA) P25,Site 030 Hickory Forest,,,,Project 25,,TRS,guadalupe
+774.59375,0, ,Lower Colorado River Authority (LCRA) P25,Site 007 Kingsbury,,,,Project 25,,TRS,guadalupe
+774.74375,0, ,Lower Colorado River Authority (LCRA) P25,Site 031 Cibolo,,,,Project 25,,TRS,guadalupe
+774.78125,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 058 Seguin,,,,Project 25,,TRS,guadalupe
+854.8625,0, ,Alamo Area Regional Radio System (AARRS),Site 009 Seguin,,,,Project 25,,TRS,guadalupe
+855.0125,0, ,Alamo Area Regional Radio System (AARRS),Site 009 Seguin,,,,Project 25,,TRS,guadalupe
+855.2125,0, ,Alamo Area Regional Radio System (AARRS),Site 009 Seguin,,,,Project 25,,TRS,guadalupe
+857.5875,0, ,Alamo Area Regional Radio System (AARRS),Site 009 Seguin,,,,Project 25,,TRS,guadalupe
+935.4875,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 071 Kingsbury,,,,OpenSky,,TRS,guadalupe
+936.75,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 071 Kingsbury,,,,OpenSky,,TRS,guadalupe
+937.4375,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 071 Kingsbury,,,,OpenSky,,TRS,guadalupe
+939.45,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 071 Kingsbury,,,,OpenSky,,TRS,guadalupe
+939.9625,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 071 Kingsbury,,,,OpenSky,,TRS,guadalupe
+119,0,,San Marcos Airport (KHYI) ATC,Austin Approach/Departure,Appr/Depart,CSQ,,AM,,Aircraft,hays
+120.125,0,,San Marcos Airport (KHYI) ATC,San Marcos Ground/CTAF,SM Ground,CSQ,,AM,,Aircraft,hays
+120.825,0,,San Marcos Airport (KHYI) ATC,San Marcos AWOS-WX,SM AWOS-WX,CSQ,,AM,,Aircraft,hays
+121.35,0,,San Marcos Airport (KHYI) ATC,San Marcos Clearance/Delivery (when KHYI ATC is closed),Clr/Delivery,CSQ,,AM,,Aircraft,hays
+126.825,0,,San Marcos Airport (KHYI) ATC,San Marcos Tower/AWOS,SM Twr/CTAF,CSQ,,AM,,Aircraft,hays
+131.15,0,,San Marcos Airport (KHYI) Fixed Base Operators,Berry Aviation Inc.,Berry Avtn,CSQ,,AM,,Aircraft,hays
+131.725,0,,San Marcos Airport (KHYI) Fixed Base Operators,Skyport,Skyport,CSQ,,AM,,Aircraft,hays
+146.74,146.14,KA5AMP,Amateur Radio,Dripping Springs,KA5AMP,,162.2 PL,FM,RM,Ham,hays
+147.1,147.7,,Skywarn/RACES,Wimberley,147.1 Wimberley,,141.3 PL,FM,RM,Ham,hays
+150.875,0,,Hays Consolidated Independent School District,Hays ISD Buses,HAYS ISD BUS,,,FM,RM,Schools,hays
+151.835,0,,Businesses Retail,Banana Republic (Tanger Outlet),Banana Repub,74.4 PL,,FM,M,Business,hays
+152.9,0,WPSR842,Businesses Miscellaneous,Gary Job Corps Center,GaryJobCorps,143 DPL,,FM,RM,Business,hays
+154.01,154.34,WPVV925,Hays County Fire,Wimberley VFD Dispatch,Wimberley VFD,151.4 PL,,FM,RM,Fire Dispatch,hays
+154.25,159.045,WPBG523,Hays County Fire,North Dispatch (Patch to LCRA),North Hays Fire,127.3 PL,,FM,RM,Fire Dispatch,hays
+154.355,153.89,WNAG548,Hays County Fire,South Dispatch (Patch to LCRA),South Hays Fire,351 DPL,,FM,RM,Fire Dispatch,hays
+154.385,153.77,WQU379,Hays County Fire,East Dispatch (Patch to LCRA),East Hays Fire,151.4 PL,,FM,RM,Fire Dispatch,hays
+154.57,0,,Businesses Retail,Sam's Club (San Marcos),Sams Club SM,CSQ,,FMN,M,Business,hays
+154.995,158.88,WPMN437,Hays County Fire,North Hays EMS,North Hays EMS,151.4 PL,,FM,RM,EMS-Tac,hays
+155.415,154.65,KVN676,Texas State University,"Student Escorts (""Bobcat Bobbies"")",TXSU StEscrt,151.4 PL,,FM,RM,Security,hays
+155.865,154.8,KVN674,Hays County Sheriff/Constable,Sheriff Repeater,Hays Co SO VHF1,151.4 PL,,FMN,RM,Law Dispatch,hays
+155.895,153.875,KGU911,Hays County Fire,Wimberley Fire/EMS Dispatch(Patch to LCRA),Wimberley FD/EMS,151.4 PL,,FM,RM,Fire Dispatch,hays
+155.97,155.61,KVN674,Hays County Sheriff/Constable,Sheriff Repeater,Hays Co SO VHF2,151.4 PL,,FMN,RM,Law Tac,hays
+158.175,0,,Hays Consolidated Independent School District,Hays ISD Buses,HAYS ISD BUS,,,FM,RM,Schools,hays
+442.7,447.2,KG5PVG,Amateur Radio,"Bobcat Amateur Radio Club (""BARC1"") - Texas State University",BARC1,123.0 PL,,FM,RM,Ham,hays
+444.15,449.15,WA5PAX,Skywarn/RACES,Hays/Caldwell County ARC- ARES (closed autopatch),WA5PAX,,114.8 PL,FM,RM,Ham,hays
+451.3375,0,,Businesses Retail,Neiman Marcus,NeimanMarcus,074 DPL,,FM,M,Business,hays
+451.7,456.7,WQDH345,Dripping Springs ISD,DSISD Buses,Drip Springs Bus,173.8 PL,,FM,RM,Schools,hays
+451.7375,0,WQCK803,Businesses Retail,Cabela's (Buda),Cabelas Buda,,,FM,M,Business,hays
+451.9,456.9,WQXM221,Businesses Miscellaneous,Amazon Fulfillment Center (San Marcos) - Security,Amazon Sec,CC 7|TG 6100|SL 1,,DMR,RM,Security,hays
+452.15,0, ,Dripping Springs Independent School District,Site 001 Dripping Springs,,,,DMR,,TRS,hays
+452.275,457.275,WQXM221,Businesses Miscellaneous,Amazon Fulfillment Center (San Marcos),Amazon 6400,CC 8|TG 6400|SL 2,,DMR,RM,Business,hays
+452.975,457.975,WQXM221,Businesses Miscellaneous,Amazon Fulfillment Center (San Marcos),Amazon 6500,CC 9|TG 6500|SL 1,,DMR,RM,Business,hays
+452.975,457.975,WQXM221,Businesses Miscellaneous,Amazon Fulfillment Center (San Marcos),Amazon 6600,CC 9|TG 6600|SL 2,,DMR,RM,Business,hays
+461.05,466.05,WNYZ424,Businesses Hospitals,"Central Texas Medical Center Maintenance, Security, Admin",CenTxMedCntr,205 DPL,,FMN,RM,Hospital,hays
+461.225,466.225,WQXM221,Businesses Miscellaneous,Amazon Fulfillment Center (San Marcos),Amazon 6800,CC 10|TG 6800|SL 2,,DMR,RM,Business,hays
+461.3875,466.3875,,Businesses Retail,Prime Outlets - Management/Maintenance/Security,PrimeOutlets,125 DPL,,FM,RM,Business,hays
+461.6875,0, ,Dripping Springs Independent School District,Site 001 Dripping Springs,,,,DMR,,TRS,hays
+462.025,467.025,WQIR734,Texas State University,Buses,TXSU Buses,141.3 PL,,FM,RM,Schools,hays
+462.375,467.375,WQXM221,Businesses Miscellaneous,Amazon Fulfillment Center (San Marcos),Amazon 7100,CC 12|TG 7100|SL 1,,DMR,RM,Business,hays
+464.4375,0,,Businesses Miscellaneous,Embassy Suites (San Marcos) - Maintenance/Housekeeping,EmbassySuite,723 DPL,,FM,,Business,hays
+464.5,0,,Hays Consolidated Independent School District,John C Hays High School Maintenance,HAYS HS MAIN,023 DPL,,FM,M,Schools,hays
+464.55,0,,Hays Consolidated Independent School District,Lehman HS-Band,LEHMAN BAND,67.0 PL,,FM,M,Schools,hays
+464.55,0,,Businesses Retail,Chili's Restaurant (San Marcos),Chili's SanM,67.0 PL,,FM,M,Business,hays
+464.575,469.575,WQBP643,Businesses Miscellaneous,Boy Scouts of America - El Ranco Cima,BSA El Ranco,,,FM,RM,Business,hays
+466.025,0,,Businesses Retail,Nike Shoe Store,NikeShoeStor,118.8 PL,,FM,M,Business,hays
+467.5125,0,,Businesses Retail,Target (San Marcos),Target SanMa,115 DPL,,FM,M,Business,hays
+467.85,0,,Hays County Sheriff/Constable,Juvenile Detention Center,Hays Co Juvenile,67.0 PL,,FM,M,Public Works,hays
+467.85,0,,Businesses Retail,Cabela's (Buda),Cabelas 2,654 DPL,,FM,M,Business,hays
+468.825,0,,Businesses Miscellaneous,HEB Distribution Center,HEB Dist Ctr,136.5 PL,,FM,,Business,hays
+769.19375,0, ,Lower Colorado River Authority (LCRA) P25,Site 050 Dripping Springs,,,,Project 25,,TRS,hays
+769.21875,0, ,Lower Colorado River Authority (LCRA) P25,Site 026 Wimberley,,,,Project 25,,TRS,hays
+769.45625,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+769.46875,0, ,Lower Colorado River Authority (LCRA) P25,Site 026 Wimberley,,,,Project 25,,TRS,hays
+769.53125,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+769.65625,0, ,Lower Colorado River Authority (LCRA) P25,Site 050 Dripping Springs,,,,Project 25,,TRS,hays
+769.91875,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+769.93125,0, ,Lower Colorado River Authority (LCRA) P25,Site 026 Wimberley,,,,Project 25,,TRS,hays
+769.94375,0, ,Lower Colorado River Authority (LCRA) P25,Site 050 Dripping Springs,,,,Project 25,,TRS,hays
+770.20625,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+770.21875,0, ,Lower Colorado River Authority (LCRA) P25,Site 026 Wimberley,,,,Project 25,,TRS,hays
+770.30625,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+770.40625,0, ,Lower Colorado River Authority (LCRA) P25,Site 050 Dripping Springs,,,,Project 25,,TRS,hays
+770.45625,0, ,Lower Colorado River Authority (LCRA) P25,Site 026 Wimberley,,,,Project 25,,TRS,hays
+770.66875,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+770.68125,0, ,Lower Colorado River Authority (LCRA) P25,Site 026 Wimberley,,,,Project 25,,TRS,hays
+770.69375,0, ,Lower Colorado River Authority (LCRA) P25,Site 050 Dripping Springs,,,,Project 25,,TRS,hays
+770.95625,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+770.96875,0, ,Lower Colorado River Authority (LCRA) P25,Site 026 Wimberley,,,,Project 25,,TRS,hays
+771.50625,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+772.03125,0, ,Lower Colorado River Authority (LCRA) P25,Site 050 Dripping Springs,,,,Project 25,,TRS,hays
+772.28125,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+772.85625,0, ,Lower Colorado River Authority (LCRA) P25,Site 050 Dripping Springs,,,,Project 25,,TRS,hays
+773.29375,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+773.30625,0, ,Lower Colorado River Authority (LCRA) P25,Site 014 West Hays,,,,Project 25,,TRS,hays
+773.58125,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+773.59375,0, ,Lower Colorado River Authority (LCRA) P25,Site 014 West Hays,,,,Project 25,,TRS,hays
+774.04375,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+774.05625,0, ,Lower Colorado River Authority (LCRA) P25,Site 014 West Hays,,,,Project 25,,TRS,hays
+774.20625,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+774.33125,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+774.34375,0, ,Lower Colorado River Authority (LCRA) P25,Site 014 West Hays,,,,Project 25,,TRS,hays
+774.79375,0, ,Lower Colorado River Authority (LCRA) P25,Site 004 San Marcos,,,,Project 25,,TRS,hays
+774.80625,0, ,Lower Colorado River Authority (LCRA) P25,Site 014 West Hays,,,,Project 25,,TRS,hays
+855.7375,810.7375,WNPA614,Hays County Fire,Fire Marshals,Hays Co FM,023 DPL,,FM,RM,Fire-Tac,hays
+935.3875,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 077 San Marcos,,,,OpenSky,,TRS,hays
+935.4625,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 078 West Hays,,,,OpenSky,,TRS,hays
+935.925,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 078 West Hays,,,,OpenSky,,TRS,hays
+935.95,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 077 San Marcos,,,,OpenSky,,TRS,hays
+935.9625,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 076 Cedar Valley,,,,OpenSky,,TRS,hays
+935.975,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 077 San Marcos,,,,OpenSky,,TRS,hays
+936.2375,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 079 Wimberely,,,,OpenSky,,TRS,hays
+936.4,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 076 Cedar Valley,,,,OpenSky,,TRS,hays
+936.6125,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 076 Cedar Valley,,,,OpenSky,,TRS,hays
+937.425,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 076 Cedar Valley,,,,OpenSky,,TRS,hays
+937.9375,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 076 Cedar Valley,,,,OpenSky,,TRS,hays
+937.975,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 077 San Marcos,,,,OpenSky,,TRS,hays
+938.3875,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 077 San Marcos,,,,OpenSky,,TRS,hays
+938.95,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 077 San Marcos,,,,OpenSky,,TRS,hays
+939.15,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 078 West Hays,,,,OpenSky,,TRS,hays
+939.25,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 079 Wimberely,,,,OpenSky,,TRS,hays
+939.3875,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 079 Wimberely,,,,OpenSky,,TRS,hays
+939.4625,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 076 Cedar Valley,,,,OpenSky,,TRS,hays
+939.4875,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 078 West Hays,,,,OpenSky,,TRS,hays
+939.5,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 077 San Marcos,,,,OpenSky,,TRS,hays
+34.2,0,,Camp Bullis Range Control,Camp Bullis Range Control (Bullis Control),CB Range,,,FM,BM,Military,bexar
+36.9,0,,Martindale AAF Operations,Martindale AAF Operations,M AAF Ops V1,150.0 PL,,FM,BM,Military,bexar
+40,0,,Camp Bullis Range Control,Medivac Training Net,CB Training,,,FM,BM,Military,bexar
+41,0,,Camp Bullis Range Control,Camp Bullis Range Operations,CB Ops,,,FM,BM,Military,bexar
+50.025,0,,Camp Bullis Range Control,Camp Bullis Medical Net,CB Med Net,,,FM,BM,Military,bexar
+53.13,52.13,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (6m),SARO 6m SATX,179.9 PL,179.9 PL,FM,RM,Ham,bexar
+58.5,0,,Martindale AAF Operations,Martindale AAF Operations,M AAF Ops V2,,,FM,BM,Military,bexar
+72.12,0,WPXK601,Randolph Field Independent School District,Elementary Paging,RFISD ES Pag,,,FM,B,Schools,bexar
+72.2,0,WPXK601,Randolph Field Independent School District,Middle School Paging,RFISD MS Pag,,,FM,B,Schools,bexar
+72.36,0,WPXK601,Randolph Field Independent School District,High School Paging,RFISD HS Pag,,,FM,B,Schools,bexar
+118.05,0,,San Antonio International Airport (SAT) Air Traffic Control,Tower VHF,Tower 118.05,CSQ,,AM,BM,Aircraft,bexar
+118.05,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep (141-270),App/Dep (141-270,CSQ,,AM,BM,Aircraft,bexar
+118.2,0,WRDE227,Stinson Field Air Traffic Control,Stinson Tower,StinsonTower,CSQ,,AM,,Aircraft,bexar
+118.9,0,,San Antonio International Airport (SAT) Air Traffic Control,Automatic Terminal Information Service (ATIS),ATIS,CSQ,,AM,B,Aircraft,bexar
+119.65,0,,Randolph Air Force Base ATC - Randolph,Randolph Ground Control,RAFB GND,CSQ,,AM,BM,Aircraft,bexar
+119.8,0,,San Antonio International Airport (SAT) Air Traffic Control,Tower VHF,Tower 119.8,CSQ,,AM,BM,Aircraft,bexar
+120.45,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Automatic Terminal Information Service (ATIS) VHF,ATIS VHF,CSQ,,AM,B,Aircraft,bexar
+120.5,0,,Randolph Air Force Base ATC - Randolph,Hangover Tower,RAFB TOWER,CSQ,,AM,BM,Aircraft,bexar
+120.55,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+121.2,0,,San Antonio International Airport (SAT) Air Traffic Control,Ground VHF Backup,Ground 121.2,CSQ,,AM,BM,Aircraft,bexar
+121.7,0,WRDE227,Stinson Field Air Traffic Control,Stinson Ground,Stinson Gnd,CSQ,,AM,,Aircraft,bexar
+121.8,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Ground VHF,Ground VHF,CSQ,,AM,BM,Aircraft,bexar
+121.9,0,,San Antonio International Airport (SAT) Air Traffic Control,Ground VHF,Ground 121.9,CSQ,,AM,BM,Aircraft,bexar
+123,0,,Boerne Stage Airport (5C1) Air Traffic,CTAF/Unicom,5C1 CTAF/Unicom,CSQ,,AM,BM,Aircraft,bexar
+123.025,0,,Public Safety,"Police Air-to-Air with DPS (""Victor"")",Police Air-Air,CSQ,,AM,BM,Law Tac,bexar
+123.55,0,KGF57,Lackland Air Force Base/Kelly Field Contractors,Boeing,Boeing,CSQ,,AM,BM,Business,bexar
+124.3,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Tower VHF,Tower VHF,CSQ,,AM,BM,Aircraft,bexar
+124.45,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (360-090),App/Dev (360-090,CSQ,,AM,BM,Aircraft,bexar
+124.75,0,,Randolph Air Force Base ATC - Randolph,Hangover Ground Control,RAFB GND,CSQ,,AM,BM,Aircraft,bexar
+125.1,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (271-359),App/Dev (271-359,CSQ,,AM,BM,Aircraft,bexar
+125.7,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+126.2,0,,Lackland Air Force Base/Kelly Field Military Operations,PTD/Dispatcher (paired with 372.2),PTD 126.2,CSQ,,AM,BM,Military,bexar
+126.7,0,,San Antonio International Airport (SAT) Air Traffic Control,Clearance Delivery,Clearance VHF,CSQ,,AM,BM,Aircraft,bexar
+127.1,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+128.05,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (091-140),App/Dev (091-140,CSQ,,AM,BM,Aircraft,bexar
+128.25,0,,Randolph Air Force Base ATC - Randolph,Randolph Tower,RAFB TOWER,CSQ,,AM,BM,Aircraft,bexar
+128.8,0,WRDE227,Stinson Field Air Traffic Control,Stinson ATIS,Stinson ATIS,CSQ,,AM,,Aircraft,bexar
+129.05,0,WQQP412,San Antonio International Airport (SAT) Aviation - Airlines,"Allegiant, Sun Country",Alleg/SunCountry,CSQ,,AM,BM,Business,bexar
+129.2,0,KIC9,San Antonio International Airport (SAT) Aviation - Airlines,American,AAL,CSQ,,AM,BM,Business,bexar
+129.25,0,WQE5,San Antonio International Airport (SAT) Aviation - Airlines,Southwest,SWA,CSQ,,AM,BM,Business,bexar
+129.425,0,KGI9,San Antonio International Airport (SAT) Aviation - Airlines,UPS Air Terminal (ASRI),UPS Air Ops,CSQ,,AM,BM,Business,bexar
+129.5,0,WGY8,San Antonio International Airport (SAT) Aviation - Airlines,Delta - Operations,DAL Ops,CSQ,,AM,BM,Business,bexar
+129.55,0,WFB9,San Antonio International Airport (SAT) Aviation - Airlines,Delta - Maintenance,DAL Maint,CSQ,,AM,BM,Business,bexar
+129.625,0,WQU4,San Antonio International Airport (SAT) Aviation - Fixed Base Operators,Hallmark Jet Center/Million Air,Hallmark JetCntr,CSQ,,AM,BM,Business,bexar
+129.85,0,WQPQ210,San Antonio International Airport (SAT) Aviation - Fixed Base Operators,Skyplace FBO - KSAT,Skyplace FBO,CSQ,,AM,BM,Business,bexar
+129.925,0,KKJ3,San Antonio International Airport (SAT) Aviation - Airlines,United,United,CSQ,,AM,BM,Business,bexar
+130,0,WEM3,San Antonio International Airport (SAT) Aviation - Fixed Base Operators,Signature Flight Support - North,Signature North,CSQ,,AM,BM,Business,bexar
+130.175,0,KVB4,San Antonio International Airport (SAT) Aviation - Airlines,US Airways,US Airways,CSQ,,AM,BM,Business,bexar
+130.575,0,KMG8,San Antonio International Airport (SAT) Aviation - Fixed Base Operators,Signature Flight Support - South,Signature South,CSQ,,AM,BM,Business,bexar
+130.65,0,,Lackland Air Force Base/Kelly Field Military Operations,PTD/Dispatcher,PTD 130.65,CSQ,,AM,BM,Military,bexar
+131.175,0,WDM3,San Antonio International Airport (SAT) Aviation - Airlines,ARINC San Francisco Radio,ARINC SF RADIO,CSQ,,AM,BM,Aircraft,bexar
+131.9,0,WQWD266,San Antonio International Airport (SAT) Aviation - Fixed Base Operators,AT&A Services,AT&A Services,CSQ,,AM,BM,Business,bexar
+131.925,0,KCJ2,San Antonio International Airport (SAT) Aviation - Airlines,FedEx,FedEx,CSQ,,AM,BM,Business,bexar
+134.1,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 134.1,CSQ,,AM,BM,Aircraft,bexar
+134.1,0,,Randolph Air Force Base ATC - Randolph,Radar Approach,RAFB Radar,CSQ,,AM,BM,Aircraft,bexar
+134.1,0,,Martindale AAF Operations,Martindale AAF CTAF,M AAF CTAF,CSQ,,AM,BM,Military,bexar
+136.475,0,,Federal Customs and Border Protection,Victor Air Operations,CBP Victor,CSQ,,AM,BM,Federal,bexar
+138.1,0,,Lackland Air Force Base/Kelly Field AETC 149th Fighter Wing,"182nd Fighter Squadron ""Lone Star Gunfighters"" Air-to-Air",182 FS 138.1,CSQ,,AM,M,Military,bexar
+138.15,0,,Randolph Air Force Base Operations,TEXAN OPS,TEXAN OPS,,,AM,RM,Military,bexar
+138.275,0,,Lackland Air Force Base/Kelly Field AETC 149th Fighter Wing,"182nd Fighter Squadron ""Lone Star Gunfighters"" Air-to-Air",182 FS 138.2,CSQ,,AM,M,Military,bexar
+138.6,0,,Lackland Air Force Base/Kelly Field Military Operations,Air Force Reserve Command Post (433 AW),433AW VHF,CSQ,,FMN,BM,Military,bexar
+139.275,0,,Lackland Air Force Base/Kelly Field AETC 149th Fighter Wing,"182nd Fighter Squadron ""Lone Star Gunfighters"" Air-to-Air",182 FS 139.275,CSQ,,AM,M,Military,bexar
+139.4,0,,Randolph Air Force Base Operations,12FTW/559FTS Ops,559FTS Ops,,,AM,BM,Military,bexar
+139.8,0,,Lackland Air Force Base/Kelly Field AETC 149th Fighter Wing,"182nd Fighter Squadron ""Lone Star Gunfighters"" Air-to-Air",182 FS 139.8,CSQ,,AM,M,Military,bexar
+139.9,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 139.9,CSQ,,AM,BM,Aircraft,bexar
+140.15,0,,Lackland Air Force Base/Kelly Field AETC 149th Fighter Wing,"182nd Fighter Squadron ""Lone Star Gunfighters"" Air-to-Air",182 FS 140.1,CSQ,,AM,M,Military,bexar
+140.4,0,,Lackland Air Force Base/Kelly Field AETC 149th Fighter Wing,"182nd Fighter Squadron ""Lone Star Gunfighters"" Air-to-Air",182 FS 140.4,CSQ,,AM,M,Military,bexar
+141.075,0,,Randolph Air Force Base Operations,558FTS Ops to 559FTS Ops,558FTS Ops,,,AM,BM,Military,bexar
+141.1875,0,,Randolph Air Force Base Operations,Giant Talk Public Address System,Giant Talk PA,186.2 PL,,FMN,BM,Military,bexar
+141.475,0,,Randolph Air Force Base Operations,12FTW/99FTS Ops,Tonto Ops V,,,AM,BM,Military,bexar
+141.6,0,,Lackland Air Force Base/Kelly Field Military Operations,Kelly Supervisor of Flying (SOF),KellySOF VHF,CSQ,,AM,BM,Military,bexar
+141.625,0,,Randolph Air Force Base Operations,"12FTW/560FTS Ops ""Cheetah Ops""",560FTS Ops,,,AM,BM,Military,bexar
+141.7,0,,Randolph Air Force Base Operations,"12FTW/99FTS ""Panther Ops""",PANTH OPS,,,AM,BM,Military,bexar
+142.3,0,,Lackland Air Force Base/Kelly Field Military Operations,PTD/Dispatcher,PTD 142.3,CSQ,,AM,BM,Military,bexar
+143.725,0,,Randolph Air Force Base Operations,Randy SOF VHF,RA SOF VHF,,,AM,BM,Military,bexar
+143.975,0,,Lackland Air Force Base/Kelly Field AETC 149th Fighter Wing,"182nd Fighter Squadron ""Lone Star Gunfighters"" Air-to-Air",182 FS 143.9,CSQ,,AM,M,Military,bexar
+145.01,0,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (2m DSTAR),SARO 2m D-STAR,CSQ,CSQ,FM,BM,Ham,bexar
+145.35,144.75,N5XO,General Amateur Radio,N5XO Repeater,N5XO 2m SATX,114.8 PL,114.8 PL,FM,RM,Ham,bexar
+145.37,144.77,KE5HBB,General Amateur Radio,KE5HBB Repeater Live Oak,KE5HBB 2m LiveOk,114.8 PL,114.8 PL,FM,RM,Ham,bexar
+145.39,144.79,M5MRM,General Amateur Radio,San Antonio Repeater Club (2m),SARC 2m SATX,100.0 PL,100.0 PL,FM,RM,Ham,bexar
+145.45,144.85,N5UAP,General Amateur Radio,N5UAP Bulverde Area Repeater (2m),N5UAP Bulverde,141.3 PL,141.3 PL,FM,RM,Ham,bexar
+145.47,144.87,KD5GSS,General Amateur Radio,KD5GSS Repeater,KD5GSS 2m SATX,CSQ,110.9 PL,FM,RM,Ham,bexar
+146.565,0,,General Amateur Radio,"""Unusual Suspects"" simplex",146.565,CSQ,CSQ,FM,M,Ham,bexar
+146.66,146.06,AF5D,General Amateur Radio,AF5D Repeater,AF5D 2m SATX,CSQ,110.9 PL,FM,RM,Ham,bexar
+146.78,146.18,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (2m),SARO 2m SATX,179.9 PL,179.9 PL,FM,RM,Ham,bexar
+146.78,146.18,WS5DRC,General Amateur Radio,"Wires X Link SADRC Repeater 40324 (Node ID: WS5DRC-2M, DTMF ID: 36585)",WS5DRC 2M WXL,,,YSF,RM,Ham,bexar
+146.82,146.22,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (2m),SARO 2m SATX,179.9 PL,179.9 PL,FM,RM,Ham,bexar
+146.86,146.26,W5ROS,General Amateur Radio,W5ROS Roost Club (South Bexar Co),W5ROS 2m Roost,CSQ,123.0 PL,FM,RM,Ham,bexar
+146.94,146.34,WB5FWI,Skywarn/RACES,San Antonio Repeater Organization - Skywarn/ARES,SA SKYWARN,,179.9 PL,FM,RM,Ham,bexar
+146.96,146.36,WB5FNZ,General Amateur Radio,WB5FNZ Repeater,WB5FNZ 2m,CSQ,162.2 PL,FM,RM,Ham,bexar
+147.14,147.74,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (2m),SARO 2m SATX,179.9 PL,179.9 PL,FM,RM,Ham,bexar
+147.18,147.78,K5EOC,Skywarn/RACES,San Antonio Emergency Management - RACES,SA RACES OEM,,103.5 PL,FM,RM,Ham,bexar
+147.3,147.9,W5XW,General Amateur Radio,W5XW Repeater,W5XW 2m SATX,CSQ,107.2 PL,FM,RM,Ham,bexar
+147.32,147.92,AA5RO,General Amateur Radio,Alamo Area Radio Organization (C4FM/D-Star/DMR),AARO NW Digital,CC 1|TG *|SL *,,DMR,RM,Ham,bexar
+147.36,147.96,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (2m),SARO 2m SATX,179.9 PL,179.9 PL,FM,RM,Ham,bexar
+147.38,147.98,AA5RO,General Amateur Radio,Alamo Area Radio Organization (XBR to 443.875),AARO MC VHF-XBR,162.2 PL,162.2 PL,FM,RM,Ham,bexar
+147.53,0,N5WSU,General Amateur Radio,N5WSU San Antonio Simplex Repeater (2m),N5WSU 2m SATX,100.0 PL,100.0 PL,FM,BM,Ham,bexar
+148.675,0,,Randolph Air Force Base Operations,BLACK EAGLE OPS VHF - T38 Squadron,EAGLE OPS V,,,AM,BM,Military,bexar
+148.75,0,,Randolph Air Force Base Operations,560th FTS Air-to-Air,560 FTS Air 148,,,AM,M,Military,bexar
+149.4,0,,Randolph Air Force Base Operations,BLACK EAGLE Air-to-Air,Eagle Air,,,AM,RM,Military,bexar
+149.675,0,,Randolph Air Force Base Operations,560th FTS Air-to-Air,560 FTS Air149.6,,,AM,M,Military,bexar
+149.875,0,,Randolph Air Force Base Operations,560th FTS Air-to-Air,560 FTS Air149.8,,,AM,M,Military,bexar
+150.935,0,WPMG416,Businesses Entertainment,Natural Bridge Caverns,Nat-Brdg Caverns,67.0 PL,,FM,RM,Business,bexar
+151.145,0,WQQG864,Bexar County Fire Alarm,Dispatch (Repeater in Fair Oaks),BCFA DISP,032 DPL,,FMN,RM,Fire Dispatch,bexar
+151.1525,159.2375,KKW980,Bexar County Fire Alarm,BCFA P25 VHF 1,BCFA P25 VHF 1,61F NAC,,P25,RM,Fire-Tac,bexar
+151.3025,159.3675,KKW980,Bexar County Fire Alarm,BCFA P25 VHF 2,BCFA P25 VHF 2,61F NAC,,P25,RM,Fire-Tac,bexar
+151.4225,0,,Media Television,760 AM MARTI Microphone Link for Live Events,760AM Remote,CSQ,,FM,M,Media,bexar
+151.49,0,WQCZ787,North East Independent School District,Lee High School,NEISD Lee HS 151,152 DPL,,FMN,RM,Schools,bexar
+151.6025,159.5325,WQMC473,North East Independent School District,Bradley Middle School Ch. 1 (Administration Staff),NEISD Bradley 1,412 DPL,,FMN,RM,Schools,bexar
+151.715,0,WQRF287,Businesses Retail,Costco - Various tones at all locations,Costco Ops,,,FMN,BM,Business,bexar
+151.865,0,WNSI243,North East Independent School District,Bradley Middle School Ch. 2 (Custodians),NEISD Bradley 2,167.9 PL,,FMN,M,Schools,bexar
+152.27,0,WQJQ357,Businesses Transportation,UP San Antonio Intermodal Terminal,UP SAIT 2103,CC 11|TG 103|SL 2,,DMR,RM,Business,bexar
+152.27,0,WQJQ357,Businesses Transportation,UP San Antonio Intermodal Terminal,UP SAIT 1102,CC 11|TG 102|SL 1,,DMR,RM,Business,bexar
+152.27,0,WQVB586,Businesses Miscellaneous,Animal Defense League,Animal Def Lg SA,503 DPL,,FMN,RM,Business,bexar
+152.2925,0,WQXK796,North East Independent School District,Windcrest Elementary School Ch. 1 (Administration Staff),NEISD Windcrest,192.8 PL,,FMN,RM,Schools,bexar
+152.3,0,WQIJ737,Lackland Independent School District,Bus Dispatch,LISD Bus,,,FMN,BM,Schools,bexar
+152.33,157.59,WRHX526,Southside Independent School District,Buses,SISD Buses,CC 12|TG 200000|SL 1,,DMR,RM,Schools,bexar
+152.375,157.635,WQSV343,Businesses Transportation,Road and Rail Service - Toyota Plant Rail Ops,Toyota Plnt Rail,065 DPL,,FMN,RM,Business,bexar
+152.9,0,WQIJ737,Lackland Independent School District,Bus Cleaning,LISD Bus Cln,,,FMN,M,Schools,bexar
+153.005,0,WQIJ737,Lackland Independent School District,School Security,LISD Sch Sec,,,FMN,RM,Security,bexar
+153.02,0,WQIJ737,Lackland Independent School District,Crossing Guards,LISD CrosGrd,,,FMN,RM,Security,bexar
+153.0575,160.0875,WQLV800,Businesses Hospitals & Healthcare,Bexar County Family Services - Shelter,BCFS Shelter,151.4 PL,,FMN,RM,Business,bexar
+153.125,158.415,WQWM585,Businesses Construction,Capitol Aggregates - 11551 Nacogdoches,Capitol Aggreg,85.4 PL,,FMN,RM,Business,bexar
+153.2975,0,WQUA753,North East Independent School District,Jackson Middle School,NEISD Jacksn,371 DPL,,FMN,RM,Schools,bexar
+153.56,160.125,WPXW284,Southside Independent School District,School Ops,SSISD School Ops,CC 2|TG 101|SL 1,,DMR,RM,Schools,bexar
+153.6875,158.2425,WREM503,North East Independent School District,Olmos Elementary,NEISD Olmos,152 DPL,,FMN,RM,Schools,bexar
+153.77,0,KKW980,Bexar County Fire Alarm,Tactical 3,BCFA TAC3,156.7 PL,,FMN,RM,Fire Dispatch,bexar
+153.83,0,,Bexar County Fire Alarm,Gardendale FD (Station 164) Talkaround,GardendaleTA,203.5 PL,,FMN,BM,Fire-Tac,bexar
+154.025,150.805,KUX416,Helotes,Fire Tac 7,Helotes FireTac7,203.5 PL,,FMN,RM,Fire-Tac,bexar
+154.07,159.195,WNJI201,Kirby,Fire Dispatch,KIRBY FIRE,203.5 PL,,FMN,RM,Fire Dispatch,bexar
+154.145,151.1,KBQ204,Leon Valley,Fire Dispatch (Pager Calls Only),LVFD Disp145,203.5 PL,,FMN,RM,Fire Dispatch,bexar
+154.25,0,KKW980,Bexar County Fire Alarm,Dispatch,BCFA DISP,156.7 PL,,FMN,RM,Fire Dispatch,bexar
+154.28,0,WNLY370,Bexar County Fire Alarm,Bexar Bulverde FD (103/104) Talkaround,Bexar/Blv TA,203.5 PL,,FMN,BM,Fire-Tac,bexar
+154.4825,0,WQGI442,North East Independent School District,Roosevelt High School,NEISD Roosev,162.2 PL,,FMN,RM,Schools,bexar
+154.49,0,WQUT401,Businesses Construction,Tindall Corp Concrete Products,Tindall Corp,CC 8|TG 100|SL 1,,DMR,RM,Business,bexar
+154.505,0,WQVV523,North East Independent School District,Coker Elementary School Ch. 1 (Administration Staff),NEISD Coker 1,192.8 PL,,FMN,RM,Schools,bexar
+154.54,0,WRCC368,North East Independent School District,Wilshire Elementary School Ch. 1 (Administration Staff),NEISD Wilshire 1,173.8 PL,,FMN,RM,Schools,bexar
+154.54,0,WRCC368,North East Independent School District,Wilshire Elementary School Ch. 2 (Custodians),NEISD Wilshire 2,186.2 PL,,FMN,RM,Schools,bexar
+154.57,0,KD6542,Businesses Retail,Walmart - Most locations (PL/DPL tones vary),Walmart Ops,,,FMN,M,Business,bexar
+154.6,0,,Businesses Retail,Walmart - Many locations around San Antonio,Walmart Ops,67.0 PL,,FMN,M,Business,bexar
+154.725,155.58,KYU874,Leon Valley,Fire Dispatch (Pager Calls Only),LVFD Disp725,203.5 PL,,FMN,RM,Fire Dispatch,bexar
+154.98,0,KNBN642,Kirby,Public Works,KIRBY PW,,,FMN,BM,Public Works,bexar
+154.995,158.775,KTE615,Balcones Heights,Fire Dispatch,BHFD Disp,192.8 PL,,FMN,RM,Fire Dispatch,bexar
+155.1,0,KCU269,Alamo Heights Independent School District,Truancy,AHISD Truanc,,,DMR,RM,Law Dispatch,bexar
+155.145,0,KVX747,Windcrest,Animal Control,Windcrest AC,CSQ,,FMN,BM,Public Works,bexar
+155.22,150.79,WPMD975,Bexar County Services,Juvenile Detention Center,BC JDC,218.1 PL,,FMN,RM,Corrections,bexar
+155.2275,159.4425,KKW980,Bexar County Fire Alarm,BCFA P25 VHF 3,BCFA P25 VHF 3,61F NAC,,P25,RM,Fire-Tac,bexar
+155.295,151.22,WQDT237,Bexar County Services,Juvenile Detention Center (3621 Farm Road),BC JDC 2,107.2 PL,,FMN,RM,Corrections,bexar
+155.34,0,KUY460,Southwest Texas Regional Advisory Council (STRAC),MOU,STRAC MOU,156.7 PL,,FMN,B,EMS-Tac,bexar
+155.3475,0,,Southwest Texas Regional Advisory Council (STRAC),MOU,STRAC MOU,156.7 PL,,FMN,BM,EMS-Tac,bexar
+155.7525,0,,Bexar County Fire Alarm,Emergency Comm Net,Bexar EMER-COM,CSQ,,FMN,BM,Emergency Ops,bexar
+155.8875,151.235,WQTN934,Bexar County Services,CSCD Jail (10975 Applewhite Road Jail/Drug Rehab),BC CSCD Jail,205 DPL,,FMN,RM,Corrections,bexar
+155.9775,153.7925,WPVV788,Shavano Park,Public Works,SP PubWorks,074 DPL,,FMN,RM,Public Works,bexar
+156.15,154.085,KVT866,Grey Forest,Grey Forest Public Works,GF PubWorks,136.5 PL,,FM,RM,Public Works,bexar
+156.195,154.4,KNIR927,Leon Valley,Public Works,LV PW,,,FMN,RM,Public Works,bexar
+157.56,0,WQIJ737,Lackland Independent School District,Elementary,LISD ElemSch,,,FMN,RM,Schools,bexar
+158.3475,0,WQIM225,Somerset Independent School District,Somerset ISD Bus Dispatch,SmrstISD Bus,,,FMN,RM,Schools,bexar
+158.4075,0,WQLV800,Businesses Hospitals & Healthcare,Bexar County Family Services - ICT,BCFS ICT,151.4 PL,,FMN,RM,Business,bexar
+158.985,154.25,WPRU873,Helotes,Fire Bexar Dispatch Relay,Bexar Fire Relay,203.5 PL,,FMN,RM,Fire Dispatch,bexar
+159.465,154.83,WNDG924,Hill Country Village,Police Tactical,HCV PD TAC,203.5 PL,,FMN,RM,Law Tac,bexar
+159.99,0,WQIJ737,Lackland Independent School District,Junior-Senior High,LISD Stacey,,,FMN,RM,Schools,bexar
+160.11,0,WQIJ737,Lackland Independent School District,Maintenance,LISD Maint,051 DPL,,FMN,RM,Schools,bexar
+162.7125,0,,Federal US Marshals Service,San Antonio 1,USMS SanAnt 1,293 NAC,,P25e,RM,Federal,bexar
+162.7875,0,,Federal US Marshals Service,Operations,USMS Ops,293 NAC,,P25,BM,Federal,bexar
+162.8875,0,,Federal Customs and Border Protection,DNET 67,CBP DNET 67,326 NAC,,P25,RM,Federal,bexar
+163,0,,Federal Misc / Unid,DES/XL Encryption,Unid DES,,,FMN,,Federal,bexar
+163.025,0,,Federal United States Fish and Wildlife Service,Tracking Birds,USFWS SA WTT,293 NAC,,P25,RM,Federal,bexar
+163.1,0,,Camp Bullis Range Control,Camp Bullis Operations Repeater,CB Ops Rptr,136.5 PL,,FM,RM,Military,bexar
+163.1,0,,Federal Federal Bureau of Investigation,Surveillance,FBI Surv 163.1,167 NAC,,P25,M,Federal,bexar
+163.1125,0,,Federal Immigration and Customs Enforcement,National Tactical 3,ICE Nat Tac 3,169 NAC,,P25,RM,Federal,bexar
+163.625,0,,Federal Border Patrol,Operations,BP Operations,,,FMNE,RM,Federal,bexar
+163.675,0,,Federal Border Patrol,Somerset Tower,BP Sommerst,151.4 PL,,FMN,RM,Federal,bexar
+163.7,0,,Federal Immigration and Customs Enforcement,National Tactical 1 (Surveillance),ICE Nat Tac 1,169 NAC,,P25,M,Federal,bexar
+163.725,162.925,,Federal Border Patrol,Pearsall Tower,BP Pearsall,123.0 PL,,FMN,RM,Federal,bexar
+163.75,0,,Federal Customs and Border Protection,CBP Ops,CBP 163.750,208 NAC,,P25,RM,Federal,bexar
+163.775,162.975,,Federal Border Patrol,Judson Tower,BP Judson,151.4 PL,,FMN,RM,Federal,bexar
+163.8125,0,,Federal US Marshals Service,ICE Fugitive Warrants,USMS ICE FUG WAR,864 NAC,,P25,RM,Federal,bexar
+164.1,0,,Federal United States Secret Service,Field Office Simplex,USSS San Antonio,,,FMN,M,Federal,bexar
+164.5375,0,,Federal Misc / Unid,ASTRO Digital Operations (Repeater),Unid,,,P25,,Federal,bexar
+164.7875,0,,Federal Immigration and Customs Enforcement,National Tactical 4,ICE Nat Tac 4,169 NAC,,P25,M,Federal,bexar
+164.8875,0,,Federal United States Secret Service,Oscar - PPD,05 USSS OSCAR,001 NAC,,P25,M,Federal,bexar
+164.9625,0,,Federal Misc / Unid,APCO-25 Digital Simplex Encrypted,Unid Encrypt,,,P25E,,Federal,bexar
+165.2125,0,,Federal United States Secret Service,Mike - Foreign head of state / Counterfeiting,03 USSS MIKE,001 NAC,,P25,M,Federal,bexar
+165.2875,0,,Federal Bureau of Alcohol Tobacco Firearms and Explosives,Operations,ATF SA Ops,650 NAC,,P25,RM,Federal,bexar
+165.375,0,,Federal United States Secret Service,Charlie - Former POTUS-PD,02 USSS CHARLIE,001 NAC,,P25,M,Federal,bexar
+165.825,169.55,,Federal Customs and Border Protection,CBP Ops,CBP 165.825,C01 NAC,,P25,RM,Federal,bexar
+165.9125,0,,Federal Bureau of Alcohol Tobacco Firearms and Explosives,Tactical 5 Evidence Collection,ATF SA Tac 5,650 NAC,,P25e,M,Federal,bexar
+166.4375,0,,Federal Customs and Border Protection,Texas Alpha 40 (local to Bexar Co),CBP TX Alpha 40,325 NAC,,P25,RM,Federal,bexar
+166.4625,0,,Federal Customs and Border Protection,Treasury Common,CBP A-3,CSQ,,FMN,M,Federal,bexar
+166.4625,0,,Federal Department of Homeland Security,Common,DHS Common,001 NAC,,P25,BM,Federal,bexar
+166.5125,0,,Federal United States Secret Service,Sierra - WHCA,USSS SIERRA,001 NAC,,P25,M,Federal,bexar
+166.5625,0,,Federal Misc / Unid,USDA Local Rabies Vaccinations,USDA Local Vacc,192.8 PL,,FMN,BM,Federal,bexar
+167,0,,Federal Internal Revenue Service,Regional Inspector CID,IRS 02-REG INSP ,010 NAC,,P25,M,Federal,bexar
+167.2125,0,,Federal Federal Bureau of Investigation,Evidence Response Team,FBI 05-ERT,167 NAC,,P25E,BM,Federal,bexar
+167.3375,0,,Federal Federal Bureau of Investigation,Simplex (167.3375),FBI Simplex 3375,167 NAC,,P25,M,Federal,bexar
+167.5375,0,,Federal Federal Bureau of Investigation,D5 National Emergency,FBI D5,167.9 PL,,FMN,BM,Federal,bexar
+167.5625,0,,Federal Federal Bureau of Investigation,Local RA-Teams,FBI D4 Local,167 NAC,,P25,RM,Federal,bexar
+167.7125,0,,Federal Federal Bureau of Investigation,Simplex (167.7125),FBI Simplex 7125,167 NAC,,P25E,M,Federal,bexar
+167.8625,0,,Fort Sam Houston BAMC,BAMC Medical Paging,BAMC Paging,,,FM,,Data,bexar
+168.35,0,,Federal Bureau of Alcohol Tobacco Firearms and Explosives,Tactical 4,ATF SA Tac 4,300 NAC,,P25,M,Federal,bexar
+168.525,0,,Federal Department of Veterans Affairs,Hospital Transportation Ops,VA Transport,141.3 PL,,FMN,RM,Federal,bexar
+168.525,0,,Fort Sam Houston National Cemetary,Operations,FSH CEM OPS,,,FM,RM,Military,bexar
+168.5875,0,,Federal Immigration and Customs Enforcement,National Tactical 2 (Surveillance),ICE Nat Tac 2,169 NAC,,P25,M,Federal,bexar
+168.9875,0,,Federal Federal Bureau of Investigation,Fugitive Apprehension Unit,FBI FAU,167 NAC,,P25,BM,Federal,bexar
+169.505,0,,Media Television,KABB 29 Newsroom Lapel Mics,KABB 29 News,CSQ,,FM,M,Media,bexar
+169.55,165.825,,Federal Customs and Border Protection,CBP Ops,CBP Ops,C00 NAC,,P25,RM,Federal,bexar
+169.55,0,,Federal Immigration and Customs Enforcement,San Antonio,ICE San Antonio,C00 NAC,,P25,RM,Federal,bexar
+169.8875,0,,Federal Customs and Border Protection,Marfa Sector/San Antonio Sector,CBP Marfa/SA,304 NAC,,P25E,RM,Federal,bexar
+170.1,166.2875,,Federal Customs and Border Protection,D-NET 200 San Antonio International Airport,CBP DNET 200,301 NAC,,P25,RM,Federal,bexar
+170.245,0,,Media Television,WOAI 4 Newsroom Lapel Mics,WOAI 4 News,CSQ,,FM,M,Media,bexar
+170.5875,0, ,US Immigration and Customs Enforcement (ICE),"Site 099 San Antonio, TX",,,,Project 25,,TRS,bexar
+170.6625,0,,Federal Federal Bureau of Investigation,Operations,FBI Operations,167 NAC,,P25E,BM,Federal,bexar
+170.75,0,,Federal US Marshals Service,John H. Wood Federal Courthouse - Security,USMS JHW Court,293 NAC,,P25e,RM,Federal,bexar
+170.8,0,,Federal US Marshals Service,San Antonio 2,USMS SanAnt 2,293 NAC,,P25,RM,Federal,bexar
+170.8125,0,,Federal Federal Bureau of Investigation,Criminal Response Unit,FBI CRU,167 NAC,,P25,M,Federal,bexar
+170.825,163.9625,,Federal Federal Bureau of Investigation,A2 Special Operations Group,FBI A2 SOG,293 NAC,,P25,RM,Federal,bexar
+170.825,0,,Federal Federal Bureau of Investigation,Special Operations Simplex,FBI SOG,167 NAC,,P25,M,Federal,bexar
+170.85,0,,Federal US Marshals Service,Lone Star Fugitive Task Force,USMS LS-FTF,864 NAC,,P25e,M,Federal,bexar
+170.8625,0,,Federal Customs and Border Protection,CBP Ops,CBP Ops,301 NAC,,P25,RM,Federal,bexar
+170.9,163.9125,,Federal Federal Bureau of Investigation,A1 Field Operations,FBI A1 Field Ops,167.9 PL,,FMN,RM,Federal,bexar
+170.925,0,,Federal Federal Bureau of Investigation,Local Zone,FBI Local Zone,601 NAC,,P25,M,Federal,bexar
+170.925,0,,Federal Federal Bureau of Investigation,D08 D-Zone Multi Office Operations,FBI D-Zone,167 NAC,,P25,BM,Federal,bexar
+170.9625,0,,Federal Bureau of Alcohol Tobacco Firearms and Explosives,Tactical 2,ATF SA Tac 2,650 NAC,,P25,M,Federal,bexar
+171.1875,0,,Federal Customs and Border Protection,Somerset Tower,CBP Somerset,301 NAC,,P25e,RM,Federal,bexar
+171.3875,0,,Federal Customs and Border Protection,D-NET xxx,CBP DNET xxx,301 NAC,,P25,BM,Federal,bexar
+171.5375,0, ,US Immigration and Customs Enforcement (ICE),"Site 099 San Antonio, TX",,,,Project 25,,TRS,bexar
+172.0625,165.2375,,Federal Customs and Border Protection,D-NET 202,CBP DNET 202,301 NAC,,P25e,RM,Federal,bexar
+172.075,0, ,US Immigration and Customs Enforcement (ICE),"Site 099 San Antonio, TX",,,,Project 25,,TRS,bexar
+172.175,0,,Federal Federal Aviation Administration,San Antonio Operations (Ch. 11),FAA SAT CH-11,293 NAC,,P25,RM,Federal,bexar
+172.2875,0,,Federal Federal Bureau of Investigation,Repeater 3,FBI Repeater 3,167 NAC,,P25,M,Federal,bexar
+172.8625,166.4375,,Federal Customs and Border Protection,C100 Center (communications and electronics),CBP C100 CTR,301 NAC,,P25,RM,Federal,bexar
+172.9625,0,,Federal Bureau of Alcohol Tobacco Firearms and Explosives,SWAT,ATF SA SWAT,650 NAC,,P25,RM,Federal,bexar
+172.9875,0, ,US Immigration and Customs Enforcement (ICE),"Site 099 San Antonio, TX",,,,Project 25,,TRS,bexar
+173.1625,0, ,US Immigration and Customs Enforcement (ICE),"Site 099 San Antonio, TX",,,,Project 25,,TRS,bexar
+173.7375,0,,Federal Misc / Unid,DES/XL Encryption,Unid DES,,,FMN,,Federal,bexar
+173.8875,0, ,US Immigration and Customs Enforcement (ICE),"Site 099 San Antonio, TX",,,,Project 25,,TRS,bexar
+216.98,0,,Media Television,KSAT 12 Storm Chaser (syncs on-scene audio to live broadcast),KSAT Storm Link,,,FM,M,Media,bexar
+223.5,221.9,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (1.25m),SARO 1.25m DSTAR,,,D-STAR,RM,Ham,bexar
+224.38,222.78,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (1.25m),SARO 1.25m SATX,179.9 PL,179.9 PL,FM,RM,Ham,bexar
+228.2,0,,Lackland Air Force Base/Kelly Field AETC 149th Fighter Wing,"182nd Fighter Squadron ""Lone Star Gunfighters"" Air-to-Air",182 FS 228.2,CSQ,,AM,M,Military,bexar
+239.025,0,,San Antonio International Airport (SAT) Air Traffic Control,Clearance Delivery,Clearance UHF,CSQ,,AM,BM,Aircraft,bexar
+239.8,0,,Lackland Air Force Base/Kelly Field Military Operations,Weather (PMSV),PMSV WX,CSQ,,AM,BM,Military,bexar
+239.8,0,,Randolph Air Force Base ATC - Randolph,PMSV,RAFB PMSV,CSQ,,AM,BM,Aircraft,bexar
+251.125,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+252.1,0,,Lackland Air Force Base/Kelly Field Military Operations,Air Force Reserve Command Post (433 AW),433AW UHF,CSQ,,AM,BM,Military,bexar
+257.625,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (115-154/35-56),App/Dev (115-154,CSQ,,AM,BM,Aircraft,bexar
+257.8,0,,San Antonio International Airport (SAT) Air Traffic Control,Tower UHF,Tower 257.8,CSQ,,AM,BM,Aircraft,bexar
+260.2,0,,Randolph Air Force Base Operations,12FTW/99FTS Ops UHF,Tonto Ops U,,,AM,BM,Military,bexar
+266.3,0,,Lackland Air Force Base/Kelly Field Military Operations,Kelly Supervisor of Flying (SOF)/182nd Air-to-Air,KellySOF UHF,CSQ,,AM,RM,Military,bexar
+269.1,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep CRP Transition,App/Dep CRP Tran,CSQ,,AM,BM,Aircraft,bexar
+273.5,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Automatic Terminal Information Service (ATIS) UHF,ATIS UHF,CSQ,,AM,B,Aircraft,bexar
+273.8,0,,Randolph Air Force Base Operations,BLACK EAGLE OPS UHF - T38 Squadron,EAGLE OPS U,,,AM,BM,Military,bexar
+275.8,0,,Randolph Air Force Base ATC - Randolph,Randolph Ground Control,RAFB GND,CSQ,,AM,BM,Aircraft,bexar
+289.2,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,Mil Cat VI Training Area,Mil Cat VI Train,CSQ,,AM,BM,Aircraft,bexar
+289.4,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Ground UHF,Ground UHF,CSQ,,AM,BM,Aircraft,bexar
+290.225,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+290.525,0,,Randolph Air Force Base ATC - Randolph,Randolph ATIS,RAFB ATIS,CSQ,,AM,BM,Aircraft,bexar
+291.1,0,,Randolph Air Force Base ATC - Randolph,Hangover Tower,RAFB TOWER,CSQ,,AM,BM,Aircraft,bexar
+294.7,0,,Randolph Air Force Base ATC - Randolph,Randolph Tower,RAFB TOWER,CSQ,,AM,BM,Aircraft,bexar
+299.9,0,,Camp Bullis Range Control,Camp Bullis Range Control (Bullis Control),CB Range,,,AM,BM,Military,bexar
+307,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (271-359),App/Dev (271-359,CSQ,,AM,BM,Aircraft,bexar
+311.3,0,,Randolph Air Force Base Operations,Hangover Tower SOF,HO SOF UHF,,,AM,BM,Military,bexar
+318.1,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (091-140),App/Dev (091-140,CSQ,,AM,BM,Aircraft,bexar
+322.35,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Tower UHF,Tower UHF,CSQ,,AM,BM,Aircraft,bexar
+326.45,0,,Martindale AAF Operations,Martindale AAF Operations UHF,M AAF Ops U,,,AM,BM,Military,bexar
+327.5,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 327.5,CSQ,,AM,BM,Aircraft,bexar
+327.8,0,,Randolph Air Force Base ATC - Randolph,Hangover ATIS,RAFB ATIS,CSQ,,AM,BM,Aircraft,bexar
+335.625,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (360-090),App/Dev (360-090,CSQ,,AM,BM,Aircraft,bexar
+338.35,0,,Randolph Air Force Base ATC - Randolph,Clearance Delivery,RAFB CD,CSQ,,AM,BM,Aircraft,bexar
+338.6,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 338.6,CSQ,,AM,BM,Aircraft,bexar
+343,0,,Randolph Air Force Base Operations,"12FTW/560FTS Ops ""Cheetah Ops""",560FTS Ops,,,AM,RM,Military,bexar
+348.4,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,Mil Cat VI Training Area,Mil Cat VI Train,CSQ,,AM,BM,Aircraft,bexar
+348.6,0,,San Antonio International Airport (SAT) Air Traffic Control,Ground UHF,Ground 348.6,CSQ,,AM,BM,Aircraft,bexar
+350.025,0,,Federal Customs and Border Protection,Blue-3 Aircraft Operations,CBP BLUE-3,CSQ,,AM,M,Federal,bexar
+353.5,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep (141-270),App/Dep (141-270,CSQ,,AM,BM,Aircraft,bexar
+353.75,0,,Randolph Air Force Base ATC - Randolph,Hangover Ground Control,RAFB GND,CSQ,,AM,BM,Aircraft,bexar
+364.35,0,,Randolph Air Force Base Operations,Randy SOF UHF,RA SOF UHF,,,AM,BM,Military,bexar
+372.2,0,,Lackland Air Force Base/Kelly Field Military Operations,PTD/Dispatcher (paired with 126.2),PTD 372.2,CSQ,,AM,BM,Military,bexar
+372.2,0,,Randolph Air Force Base ATC - Randolph,PTD,RAFB PTD,CSQ,,AM,BM,Aircraft,bexar
+379.9,0,WRDE227,Stinson Field Air Traffic Control,Stinson Tower,StinsonTower,,,AM,,Aircraft,bexar
+385.0125,0, ,National Security Agency Data Centers,Site 001 San Antonio,,,,Project 25,,TRS,bexar
+385.95,0, ,National Security Agency Data Centers,Site 001 San Antonio,,,,Project 25,,TRS,bexar
+386.2,0, ,National Security Agency Data Centers,Site 001 San Antonio,,,,Project 25,,TRS,bexar
+387.175,0, ,National Security Agency Data Centers,Site 001 San Antonio,,,,Project 25,,TRS,bexar
+387.45,0, ,National Security Agency Data Centers,Site 001 San Antonio,,,,Project 25,,TRS,bexar
+389.9,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 389.9,CSQ,,AM,BM,Aircraft,bexar
+396.1,0,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 396.1,CSQ,,AM,BM,Aircraft,bexar
+397,0,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,Mil Cat VI Training Area,Mil Cat VI Train,CSQ,,AM,BM,Aircraft,bexar
+406.1125,0, ,United States Air Force (3D6),Site 005 Camp Bullis,,,,Project 25,,TRS,bexar
+406.15,0, ,United States Air Force (3D6),Site 002 Medina Annex,,,,Project 25,,TRS,bexar
+406.1625,0, ,United States Air Force (3D6),Site 006 Central San Antonio,,,,Project 25,,TRS,bexar
+406.3625,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+406.5,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+406.55,0, ,United States Air Force (3D6),Site 007 San Antonio VA Hospital,,,,Project 25,,TRS,bexar
+406.5625,0, ,United States Air Force (3D6),Site 004 Fort Sam Houston,,,,Project 25,,TRS,bexar
+406.7375,0,,Federal Transportation Security Administration,SAT Airport Security 1,TSA KSAT SEC-1,0DB NAC,,P25e,RM,Federal,bexar
+406.9625,0, ,United States Air Force (3D6),Site 004 Fort Sam Houston,,,,Project 25,,TRS,bexar
+407.1625,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+407.175,0, ,United States Air Force (3D6),Site 007 San Antonio VA Hospital,,,,Project 25,,TRS,bexar
+407.25,0, ,United States Air Force (3D6),Site 004 Fort Sam Houston,,,,Project 25,,TRS,bexar
+407.3625,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+407.7625,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+407.8125,0, ,United States Air Force (3D6),Site 003 Randolph Air Force Base,,,,Project 25,,TRS,bexar
+407.8375,0, ,United States Air Force (3D6),Site 007 San Antonio VA Hospital,,,,Project 25,,TRS,bexar
+407.8625,0, ,United States Air Force (3D6),Site 004 Fort Sam Houston,,,,Project 25,,TRS,bexar
+407.8875,0, ,United States Air Force (3D6),Site 002 Medina Annex,,,,Project 25,,TRS,bexar
+407.9375,0,,Federal United States Postal Service,North Station Sorting Facility,USPS North Sta,CC 1|TG 1|SL 1,,DMR,RM,Federal,bexar
+407.9625,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+408,0, ,United States Air Force (3D6),Site 007 San Antonio VA Hospital,,,,Project 25,,TRS,bexar
+408.0875,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+408.1,0, ,United States Air Force (3D6),Site 004 Fort Sam Houston,,,,Project 25,,TRS,bexar
+408.125,0, ,United States Air Force (3D6),Site 003 Randolph Air Force Base,,,,Project 25,,TRS,bexar
+408.15,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+408.3625,0, ,United States Air Force (3D6),Site 005 Camp Bullis,,,,Project 25,,TRS,bexar
+408.425,0, ,United States Air Force (3D6),Site 006 Central San Antonio,,,,Project 25,,TRS,bexar
+408.5625,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+408.7625,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+408.9625,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+409.025,0, ,United States Air Force (3D6),Site 003 Randolph Air Force Base,,,,Project 25,,TRS,bexar
+409.1,418.1,,Federal United States Postal Service,San Antonio Operations,USPS 409.1,411 DPL,,FMN,RM,Federal,bexar
+409.1625,0, ,United States Air Force (3D6),Site 002 Medina Annex,,,,Project 25,,TRS,bexar
+409.3,0, ,United States Air Force (3D6),Site 007 San Antonio VA Hospital,,,,Project 25,,TRS,bexar
+409.3125,0, ,United States Air Force (3D6),Site 003 Randolph Air Force Base,,,,Project 25,,TRS,bexar
+409.3625,0, ,United States Air Force (3D6),Site 002 Medina Annex,,,,Project 25,,TRS,bexar
+409.5625,0, ,United States Air Force (3D6),Site 005 Camp Bullis,,,,Project 25,,TRS,bexar
+409.6375,0, ,United States Air Force (3D6),Site 004 Fort Sam Houston,,,,Project 25,,TRS,bexar
+409.7375,0,,Federal United States Postal Service,South Station Sorting Facility,USPS South Sta,CC 1|TG 7|SL 1,,DMR,RM,Federal,bexar
+409.7625,0, ,United States Air Force (3D6),Site 005 Camp Bullis,,,,Project 25,,TRS,bexar
+409.8125,418.8125,,Federal Drug Enforcement Agency,Ch 7 Zone 1 San Antonio/Kendall County,DEA Z1 CH-7,156 NAC,,P25,RM,Federal,bexar
+409.8875,0, ,United States Air Force (3D6),Site 004 Fort Sam Houston,,,,Project 25,,TRS,bexar
+409.9,0,,Federal Drug Enforcement Agency,Ch 10 San Antonio,DEA Ch 10,156 NAC,,P25,RM,Federal,bexar
+409.95,418.95,,Federal Drug Enforcement Agency,DEA 409.95,DEA 409.95,156 NAC,,P25,RM,Federal,bexar
+409.9625,0, ,United States Air Force (3D6),Site 002 Medina Annex,,,,Project 25,,TRS,bexar
+410.1625,0, ,United States Air Force (3D6),Site 005 Camp Bullis,,,,Project 25,,TRS,bexar
+410.325,0, ,United States Air Force (3D6),Site 006 Central San Antonio,,,,Project 25,,TRS,bexar
+410.3625,0, ,United States Air Force (3D6),Site 001 Lackland Air Force Base,,,,Project 25,,TRS,bexar
+410.55,0, ,United States Air Force (3D6),Site 005 Camp Bullis,,,,Project 25,,TRS,bexar
+410.5625,0, ,United States Air Force (3D6),Site 003 Randolph Air Force Base,,,,Project 25,,TRS,bexar
+410.65,0, ,United States Air Force (3D6),Site 006 Central San Antonio,,,,Project 25,,TRS,bexar
+410.7,0, ,United States Air Force (3D6),Site 005 Camp Bullis,,,,Project 25,,TRS,bexar
+410.7625,0, ,United States Air Force (3D6),Site 003 Randolph Air Force Base,,,,Project 25,,TRS,bexar
+410.8,0,,Federal Federal Protective Service,FPS Operations - Denver Mega Center,FPS San Anto,201 NAC,,P25,RM,Federal,bexar
+410.8,0,,Federal Federal Protective Service,FPS Operations - Denver Mega Center,FPS San Anto,715 NAC,,P25,RM,Federal,bexar
+413.95,0,,Federal Federal Protective Service,FPS Talkaround,FPS Talkaround,103.5 PL,,FMN,M,Federal,bexar
+413.975,0,,Federal Drug Enforcement Agency,San Antonio Ops,DEA SA Ops,156 NAC,,P25,M,Federal,bexar
+414.45,0,,Federal Drug Enforcement Agency,Ch 5 Bexar County,DEA Ch 5,156 NAC,,P25,RM,Federal,bexar
+414.725,409.45,,Federal United States Postal Service,San Antonio Operations,USPS 414.725,131.8 PL,,FMN,RM,Federal,bexar
+415.05,0,,Federal United States Postal Service,Postal Inspection Service,USPIS 415.05,293 NAC,,P25,RM,Federal,bexar
+415.575,410.2,,Federal United States Postal Service,San Antonio Operations,USPS 415.575,218.1 PL,,FMN,RM,Federal,bexar
+416.725,407.725,,Federal United States Postal Service,Postal Inspection Service,USPIS 416.725,482 NAC,,P25E,RM,Federal,bexar
+418.625,416.05,,Federal Drug Enforcement Agency,Ch 1 Zone 2 Operations,DEA Ch 1D,156 NAC,,P25,RM,Federal,bexar
+418.675,0,,Federal Drug Enforcement Agency,Ch 4 Zone 2 Surveillance,DEA Ch 4D,156 NAC,,P25,M,Federal,bexar
+418.75,0,,Federal Drug Enforcement Agency,Ch 3 Zone 2 Surveillance,DEA Ch 3D,156 NAC,,P25,M,Federal,bexar
+418.825,415.6,,Federal Drug Enforcement Agency,Ch 5 Zone 2,DEA Ch 5D,156 NAC,,P25,RM,Federal,bexar
+418.9,416.325,,Federal Drug Enforcement Agency,Ch 2 Zone 2 Operations,DEA Ch 2D,156 NAC,,P25e,RM,Federal,bexar
+418.95,416.2,,Federal Drug Enforcement Agency,Ch 6 Zone 2,DEA Ch 6D,156 NAC,,P25,RM,Federal,bexar
+418.975,417.025,,Federal Drug Enforcement Agency,Ch 7 Zone 2,DEA Ch 7D,156 NAC,,P25,RM,Federal,bexar
+418.975,0,,Federal Drug Enforcement Agency,Ch 8 Zone 2,DEA Ch 8D,156 NAC,,P25,M,Federal,bexar
+419.1125,0,,Federal Misc / Unid,Data,Unid Data,,,FM,,Data,bexar
+440.7,445.7,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (70cm DSTAR),SARO 70cm DSTAR,,,D-STAR,RM,Ham,bexar
+441.7625,0, ,BrandMeister Texas,Site 001 San Antonio,,,,DMR,,TRS,bexar
+442.575,0, ,BrandMeister Texas,Site 001 San Antonio,,,,DMR,,TRS,bexar
+443.025,448.025,N5XO,General Amateur Radio,N5XO (SA Red Cross),N5XO SA RedCross,82.5 PL,82.5 PL,FM,RM,Ham,bexar
+443.25,448.25,WA5KBQ,General Amateur Radio,WA5KBQ Bulverde Repeater (70cm),WA5KBQ Bulverde,103.5 PL,103.5 PL,FM,RM,Ham,bexar
+443.4,448.3,KD5GAT,General Amateur Radio,KD5GAT Repeater,KD5GAT SATX,88.5 PL,88.5 PL,FM,RM,Ham,bexar
+443.475,448.475,WB5FNZ,General Amateur Radio,WB5FNZ Southwest Link System (70cm),WB5FNZ 70cm SWL,162.2 PL,162.2 PL,FM,BM,Ham,bexar
+443.575,448.575,WD5IEH,General Amateur Radio,"San Antonio North, Linked, IRLP & Echolink",SA N 443.575,141.3 PL,141.3 PL,FM,RM,Ham,bexar
+443.875,448.875,AA5RO,General Amateur Radio,Alamo Area Radio Organization (XBR to 147.380),AARO MC UHF-XBR,162.2 PL,162.2 PL,FM,RM,Ham,bexar
+444.025,449.025,K5NKK,General Amateur Radio,"Live Oak Repeater, D-Star Mode",444.025 LO DStar,,,D-STAR,RM,Ham,bexar
+444.025,449.025,K5NKK,General Amateur Radio,"Live Oak Repeater, System Fusion Mode",444.025 LO Fusio,,,YSF,RM,Ham,bexar
+444.1,449.1,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (70cm),SARO 70cm SATX,179.9 PL,179.9 PL,FM,RM,Ham,bexar
+444.125,449.125,WA5UNH,General Amateur Radio,San Antonio Repeater Organization (70cm),SARO 70cm SATX,179.9 PL,179.9 PL,FM,RM,Ham,bexar
+444.575,449.575,WB5UGT,Skywarn/RACES,Saltgrass Link System,SA SALTGRASS,,141.3 PL,FM,RM,Ham,bexar
+444.625,449.625,WD5IEH,General Amateur Radio,"San Antonio South (Linked, IRLP & Echolink)",SA-S Echolink,141.3 PL,141.3 PL,FM,RM,Ham,bexar
+444.85,449.85,AA5RO,General Amateur Radio,Alamo Area Radio Organization (FM & C4FM/YSF),AARO NW Mix-Mode,162.2 PL,162.2 PL,FM,RM,Ham,bexar
+450.5125,455.5125,KDF993,Media Television,KSAT Security/Maintenance at Station (F3/4),KSAT Sec/Mt F3-4,151.4 PL,,FMN,RM,Media,bexar
+450.6125,455.6125,,Media Television,Feeds both KENS Sky 5 and KSAT Sky 12,News 1 Media,151.4 PL,,FM,RM,Media,bexar
+451.0875,0, ,BearCom (South Texas NexEdge),Site 001 North Central San Antonio,,,,NXDN,,TRS,bexar
+451.10625,0, ,BearCom (South Texas NexEdge),Site 001 North Central San Antonio,,,,NXDN,,TRS,bexar
+451.125,0, ,BearCom (South Texas NexEdge),Site 001 North Central San Antonio,,,,NXDN,,TRS,bexar
+451.1625,0, ,BearCom (Central Texas NexEdge),Site 006 North East San Antonio,,,,NXDN,,TRS,bexar
+451.2625,0, ,Communications Etc. (DMR West),Site 001 Confirmed LCN,,,,DMR,,TRS,bexar
+451.3,0, ,Industrial Communications (North Central San Antonio),Site 001 NW Military Hwy,,,,LTR,,TRS,bexar
+451.3375,0, ,La Cantera Resort and Spa,Site 001 La Cantera Parkway,,,,DMR,,TRS,bexar
+451.3875,0,WQ0A563,Businesses Entertainment,Top Golf USA Operations,Top Golf,731 DPL,,FMN,M,Business,bexar
+451.3875,0, ,JW Marriott Hill Country Resort and Spa,Site 001 TPC Parkway,,,,DMR,,TRS,bexar
+451.4625,0, ,La Cantera Resort and Spa,Site 001 La Cantera Parkway,,,,DMR,,TRS,bexar
+451.475,0, ,Industrial Communications (North Central San Antonio),Site 001 NW Military Hwy,,,,LTR,,TRS,bexar
+451.5,0, ,United Parcel Service (San Antonio),Site 001 Seven States,,,,DMR,,TRS,bexar
+451.5375,0,WQ0A563,Businesses Entertainment,Top Golf USA Operations,Top Golf,731 DPL,,FMN,M,Business,bexar
+451.5875,0, ,La Cantera Resort and Spa,Site 001 La Cantera Parkway,,,,DMR,,TRS,bexar
+451.625,0, ,Industrial Communications (North Central San Antonio),Site 001 NW Military Hwy,,,,LTR,,TRS,bexar
+451.6625,0,WQTT872,Cornerstone Christian Church and School,Channel 3,CCS Ch. 3,662 DPL,,FMN,M,Schools,bexar
+451.775,0, ,Boeing (Lackland Air Force Base),Site 001 Airlift Drive,,,,LTR,,TRS,bexar
+451.8,0,,Businesses Construction,Clark Construction Group,Clark Cnst 451.8,173.8 PL,,FMN,M,Business,bexar
+451.825,0, ,Boeing (Lackland Air Force Base),Site 001 Airlift Drive,,,,LTR,,TRS,bexar
+451.825,0, ,United Parcel Service (San Antonio),Site 001 Seven States,,,,DMR,,TRS,bexar
+451.875,456.875,WQUR299,San Antonio International Airport (SAT) Airline Ground Operations,Spirit Airlines (G2 Secure Staff),Spirit Airlines,CC 5|TG 101|SL 1,,DMR,RM,Business,bexar
+451.8875,456.8875,WQHK507,Southwest Independent School District,SWISD Security Dispatch,SWISD Sec,423 DPL,,FMN,RM,Security,bexar
+451.9,456.9,WPOZ930,Businesses Hospitals & Healthcare,Southwest Biomedical Research Foundation- Security,SwBRF Sec,523 DPL,,FM,RM,Security,bexar
+451.925,0, ,Omni La Mansion del Rio Hotel (San Antonio),Site 001 College St.,,,,DMR,,TRS,bexar
+451.95,456.95,WPPW415,Businesses Construction,Alamo Concrete ReadyMix,Alamo Concrete,179.9 PL,,FMN,RM,Business,bexar
+451.975,0, ,Industrial Communications (Northeast San Antonio),Site 001 NE Loop 1604,,,,LTR,,TRS,bexar
+451.9875,456.9875,WQRA221 ,Businesses Retail,Rivercenter Mall - Mall Security,RCMall Sec,CC 11|TG 16777199|SL 1,,DMR,RM,Security,bexar
+451.9875,0, ,Microsoft Data Center,Site 001 Rogers Rd,,,,DMR,,TRS,bexar
+452,457,WQXR492 ,Businesses Retail,Crossroads Mall - Security (has phone patch),Crsrds Mall Sec,16 RAN,,NXDN48,RM,Security,bexar
+452.05,457.05,WQWY607,Businesses Construction,"Zachry Industrial, Inc (SA Security)",Zachry Security,CC 4|TG 1|SL 1,,DMR,RM,Security,bexar
+452.05,0, ,United Parcel Service (San Antonio),Site 001 Seven States,,,,DMR,,TRS,bexar
+452.0625,457.0625,WQZU966,Businesses Industry,Pearl Brewery Operations,Pearl Brew Ops,CC 1|TG 1001|SL 1,,DMR,RM,Business,bexar
+452.0875,457.0875,WRCJ245,Businesses Hotels,Embassy Suites Airport Front Desk,Embassy AP FDesk,CC 3|TG 101|SL 1,,DMR,RM,Business,bexar
+452.125,457.125,WRDS497,Southwest Independent School District,SWISD Bus Dispatch,SWISD Bus Disp D,CC 3|TG *|SL 1,,DMR,RM,Schools,bexar
+452.125,0, ,Coca Cola Bottling Plant (San Antonio),Site 001 Coca Cola,,,,LTR,,TRS,bexar
+452.125,0, ,United Parcel Service (San Antonio),Site 001 Seven States,,,,DMR,,TRS,bexar
+452.1375,0,WQZG705,Businesses Hospitals & Healthcare,Legend Oak Nursing Home South,LegendOakNHSouth,103.5 PL,,FMN,M,Business,bexar
+452.1375,457.1375,WQWH631,Businesses Hotels,Hotel Emma - Guest Services,Emma Guest Svcs,CC 1|TG 3|SL 1,,DMR,RM,Business,bexar
+452.1875,0,WQTT872,Cornerstone Christian Church and School,Channel 4,CCS Ch. 4,465 DPL,,FMN,M,Schools,bexar
+452.2,457.2,,San Antonio International Airport (SAT) Airline Ground Operations,Southwest Airlines - Ch. 13 Baggage Claim,SWA 13 Baggage,032 DPL,,FMN,RM,Business,bexar
+452.2375,457.2375,WQXJ247,North East Independent School District,Garner Middle School Ch. 1 (Administration Staff),NEISD Garner 1,192.8 PL,,FMN,RM,Schools,bexar
+452.25,0, ,BearCom (Passport),Site 100 Military Hwy (NC-SA),,,,LTR,,TRS,bexar
+452.275,0, ,Communications Etc. (DMR West),Site 001 Confirmed LCN,,,,DMR,,TRS,bexar
+452.2875,457.2875,WQJV833,Bexar County Services,Haven for Hope Operations,Haven4Hope Ops,155 DPL,,FMN,RM,Business,bexar
+452.2875,0,WQJV833,Public Services Haven for Hope,Haven for Hope Security,Hvn4Hp Sec,155 DPL,,FM,M,Security,bexar
+452.3375,0, ,Industrial Communications (Downtown San Antonio),Site 001 Bowie Street,,,,LTR,,TRS,bexar
+452.375,0, ,BearCom (Central Texas NexEdge),Site 004 North Central San Antonio,,,,NXDN,,TRS,bexar
+452.3875,0, ,BearCom (Central Texas NexEdge),Site 005 Downtown San Antonio,,,,NXDN,,TRS,bexar
+452.4,457.4,WPVZ979,Businesses Corporate,Valero Corporate Security,Valero Security,CC 9|TG 3|SL 1,,DMR,RM,Security,bexar
+452.4125,457.4125,WPMR695,San Antonio International Airport (SAT) Airline Ground Operations,UPS Air Freight (Wetmore Terminal),UPS Freight Ops,612 DPL,,FMN,RM,Business,bexar
+452.45,0, ,Sea World San Antonio,Site 001 Sea World,,,,DMR,,TRS,bexar
+452.475,457.475,WPNS273,Businesses Hotels,Menger/Crockett Hotel,Menger/Crk Hotel,CC 5|TG 1001|SL 1,,DMR,RM,Business,bexar
+452.5125,0,WQTT872,Cornerstone Christian Church and School,Channel 11,CCS Ch. 11,6 RAN,,NXDN48,M,Schools,bexar
+452.625,0,WNZB204,Six Flags Fiesta Texas Six Flags Fiesta Texas,Maintenance,FstaTX Maint,346 DPL,,FM,BM,Business,bexar
+452.625,0, ,Microsoft Data Center,Site 001 Rogers Rd,,,,DMR,,TRS,bexar
+452.65,457.65,WQYV845,San Antonio Independent School District,Brackenridge High School,Brackenridge HS,162.2 PL,,FMN,RM,Schools,bexar
+452.6625,457.6625,WQZW211,Businesses Religious,Blessed Sacrament Catholic School,BSC School,CC 1|TG 1|SL 1,,DMR,RM,Schools,bexar
+452.725,0, ,Boeing (Lackland Air Force Base),Site 001 Airlift Drive,,,,LTR,,TRS,bexar
+452.7375,0, ,Airwave Radio (Leon Springs),Site 001 Heuerman Road,,,,LTR,,TRS,bexar
+452.75,0, ,Sea World San Antonio,Site 001 Sea World,,,,DMR,,TRS,bexar
+452.8,0, ,BearCom (Passport),Site 052 Randolph Blvd (NE-SA),,,,LTR,,TRS,bexar
+452.825,0, ,JW Marriott Hill Country Resort and Spa,Site 001 TPC Parkway,,,,DMR,,TRS,bexar
+452.85,0, ,BearCom (Passport),Site 997 Unknown Location,,,,LTR,,TRS,bexar
+452.875,0, ,BearCom (North Central),Site 001 NW Military Hwy,,,,LTR,,TRS,bexar
+452.975,0, ,Industrial Communications (Downtown San Antonio),Site 001 Bowie Street,,,,LTR,,TRS,bexar
+452.975,0, ,USAA San Antonio,Site 001 Fredericksburg Rd,,,,DMR,,TRS,bexar
+453.0125,458.0125,WQHK507,Southwest Independent School District,SWISD Bus Dispatch,SWISD Bus Disp A,351 DPL,,FMN,RM,Schools,bexar
+453.0875,458.0875,WNZE790,Northside Independent School District,Northside Learning Center,NISD LCTR,,,DMR,RM,Security,bexar
+453.0875,0, ,Northside Independent School District,Site 067 Medio Creek Tower,,,,LTR,,TRS,bexar
+453.1,458.1,WQEN984,University of Texas - Health Science Center,UTHSC Brady Green,UTHSC BG,77.0 PL,,FMN,BM,Schools,bexar
+453.1,458.1,WQEN984,Businesses Hospitals & Healthcare,University Health System Protective Services,UHS Protect,210.7 PL,,FM,RM,Security,bexar
+453.125,458.125,WQNX759,South San Antonio Independent School District,Police Dispatch,SSAISD PD-1,CC 2|TG 6000|SL 2,,DMR,RM,Law Dispatch,bexar
+453.2,458.2,KNFL953,University of Texas - Health Science Center,UTHSC,UTHSC TG 11000,CC 10|TG 11000|SL 1,,DMR,RM,Schools,bexar
+453.2,458.2,KNFL953,University of Texas - Health Science Center,UTHSC,UTHSC TG 12000,CC 10|TG 12000|SL 2,,DMR,RM,Schools,bexar
+453.225,0, ,Northside Independent School District,Site 062 Grass Hill Water Tower,,,,LTR,,TRS,bexar
+453.25,458.25,KNGX632,Businesses Entertainment,San Antonio Zoo - Security,SA Zoo Security,CC 13|TG 100001|SL 1,,DMR,RM,Security,bexar
+453.35,458.35,WQQQ898,South San Antonio Independent School District,SAPD South Link,SSAISD SAPD,CC 4|TG 16777184|SL 2,,DMR,RM,Interop,bexar
+453.5125,458.5125,WPUP339,University of Texas - Health Science Center,UTHSC,UTHSC TG 13000,CC 11|TG 13000|SL 1,,DMR,RM,Schools,bexar
+453.5125,458.5125,WPUP339,University of Texas - Health Science Center,UTHSC Maintenance,UTHSC TG 14000,CC 11|TG 14000|SL 2,,DMR,RM,Schools,bexar
+453.625,0, ,Northside Independent School District,Site 062 Grass Hill Water Tower,,,,LTR,,TRS,bexar
+453.775,458.775,WXP369,Windcrest,Public Works,Windcrest PW,91.5 PL,,FMN,RM,Public Works,bexar
+453.8,458.8,KVR712,University of Texas - Health Science Center,UTHSC Tactical 3,UTHSC TAC-3,162.2 PL,,FMN,RM,Law Tac,bexar
+453.8875,458.8875,WQES265,VIA Metropolitan Transit Authority,"Security Ch. 1 - Madla TC, Randolph Blvd. PR, Crossroads PR, South Texas Medical Center TC",VIA Sec GP1,91.5 PL,,FMN,RM,Security,bexar
+453.8875,458.8875,WQES265,VIA Metropolitan Transit Authority,Security Ch. 2 - KEL-LAC Transit Center,VIA Sec GP2,179.9 PL,,FMN,RM,Security,bexar
+453.8875,458.8875,WQES265,VIA Metropolitan Transit Authority,"Security Ch. 3 - Downtown Info Center, North Star Transit Center",VIA Sec GP3,192.8 PL,,FMN,RM,Security,bexar
+453.8875,458.8875,WQES265,VIA Metropolitan Transit Authority,Security Ch. 4 - Ellis Alley Park & Ride,VIA Sec GP4,250.3 PL,,FMN,RM,Security,bexar
+453.925,458.925,WQEN984,University of Texas - Health Science Center,UTHSC Hospital,UTHSC HOSP,114.8 PL,,FMN,RM,Schools,bexar
+454.0125,0, ,USAA San Antonio,Site 001 Fredericksburg Rd,,,,DMR,,TRS,bexar
+454.025,0, ,BearCom (Central Texas NexEdge),Site 005 Downtown San Antonio,,,,NXDN,,TRS,bexar
+454.075,0, ,BearCom (Central Texas NexEdge),Site 006 North East San Antonio,,,,NXDN,,TRS,bexar
+454.1375,0, ,BearCom (Central Texas NexEdge),Site 006 North East San Antonio,,,,NXDN,,TRS,bexar
+454.1625,0, ,JW Marriott Hill Country Resort and Spa,Site 001 TPC Parkway,,,,DMR,,TRS,bexar
+454.2125,0, ,BearCom (Central Texas NexEdge),Site 006 North East San Antonio,,,,NXDN,,TRS,bexar
+454.225,0, ,USAA San Antonio,Site 001 Fredericksburg Rd,,,,DMR,,TRS,bexar
+454.2375,0, ,BearCom (Central Texas NexEdge),Site 004 North Central San Antonio,,,,NXDN,,TRS,bexar
+454.325,0, ,Retama Park,Site 001 Retama Park,,,,DMR,,TRS,bexar
+454.3375,0, ,BearCom (Central Texas NexEdge),Site 005 Downtown San Antonio,,,,NXDN,,TRS,bexar
+454.3625,0, ,BearCom (Central Texas NexEdge),Site 006 North East San Antonio,,,,NXDN,,TRS,bexar
+454.3875,0, ,JW Marriott Hill Country Resort and Spa,Site 001 TPC Parkway,,,,DMR,,TRS,bexar
+454.425,0, ,USAA San Antonio,Site 001 Fredericksburg Rd,,,,DMR,,TRS,bexar
+454.475,459.475,,Businesses Construction,White Construction Company SA (linked to S,White Const SA,3 RAN,,NXDN48,RM,Business,bexar
+454.525,0, ,Retama Park,Site 001 Retama Park,,,,DMR,,TRS,bexar
+454.6125,0, ,JW Marriott Hill Country Resort and Spa,Site 001 TPC Parkway,,,,DMR,,TRS,bexar
+454.625,0, ,USAA Insurance Agency,Site 001 Fredericksburg Rd,,,,LTR,,TRS,bexar
+454.625,0, ,USAA San Antonio,Site 001 Fredericksburg Rd,,,,DMR,,TRS,bexar
+454.6375,0, ,BearCom (Downtown),Site 001 Bowie,,,,LTR,,TRS,bexar
+454.6625,0, ,BearCom (Northeast),Site 001 Randolph,,,,LTR,,TRS,bexar
+455.15,0,,Media Television,WOAI 1200 AM Onsite Remote Production Feed,WOAI 1200AM,CSQ,,FM,BM,Media,bexar
+455.2125,0,,Media Television,WOAI Newsfeed with talkover cueing,WOAI 4 News,CSQ,,FM,BM,Media,bexar
+455.55,0,,Media Television,Backup to News 1 Media (KENS 5 + KSAT 12),News 1 bk/up,146.2 PL,,FM,RM,Media,bexar
+456.4125,0,WQJV833,Bexar County Services,Haven for Hope Security Life and Safety Teams,Haven4Hope Sec,155 DPL,,FMN,BM,Security,bexar
+456.4625,0,WQTT872,Cornerstone Christian Church and School,Channel 9,CCS Ch. 9,9 RAN,,NXDN48,M,Schools,bexar
+456.5,0,WQEU626,Businesses Hotels,Residence Inn by Marriott Alamo Plaza,ResInn AlPlz,,,FM,M,Business,bexar
+456.6625,0,WQTT872,Cornerstone Christian Church and School,Channel 5,CCS Ch. 5,371 DPL,,FMN,M,Schools,bexar
+456.7375,0,WRCJ245,Businesses Hotels,Embassy Suites Airport Maintenance,Embassy AP Maint,CC 3|TG 101|SL 1,,DMR,M,Business,bexar
+457.0625,0,WQTT872,Cornerstone Christian Church and School,Channel 10,CCS Ch. 10,12 RAN,,NXDN48,M,Schools,bexar
+457.525,0,,Businesses Miscellaneous,Caliber Collision - 4906 Blanco,CaliberColl4906,743 DPL,,FMN,M,Business,bexar
+457.6625,0,WQTT872,Cornerstone Christian Church and School,Channel 6,CCS Ch. 6,244 DPL,,FMN,M,Schools,bexar
+457.6875,0,WQTT872,Cornerstone Christian Church and School,Channel 7,CCS Ch. 7,115 DPL,,FMN,M,Schools,bexar
+457.8625,0,WQTT872,Cornerstone Christian Church and School,Channel 8,CCS Ch. 8,7 RAN,,NXDN48,M,Schools,bexar
+458.9625,0,WQGD926,Northside Independent School District,Blattman Elementary School,Blattman,,,FMN,BM,Schools,bexar
+460.025,0, ,Northside Independent School District,Site 067 Medio Creek Tower,,,,LTR,,TRS,bexar
+460.05,0, ,Northside Independent School District,Site 054 City View Building Bant,,,,LTR,,TRS,bexar
+460.125,0, ,Northside Independent School District,Site 062 Grass Hill Water Tower,,,,LTR,,TRS,bexar
+460.175,0, ,Northside Independent School District,Site 054 City View Building Bant,,,,LTR,,TRS,bexar
+460.25,0, ,Northside Independent School District,Site 054 City View Building Bant,,,,LTR,,TRS,bexar
+460.2625,465.2625,WQBJ724,Edgewood Independent School District,Police Dispatch,EISD PD-1,210.7 PL,,FMN,RM,Law Dispatch,bexar
+460.325,0, ,Northside Independent School District,Site 062 Grass Hill Water Tower,,,,LTR,,TRS,bexar
+460.375,0, ,Northside Independent School District,Site 054 City View Building Bant,,,,LTR,,TRS,bexar
+460.3875,465.3875,WQBJ724,Edgewood Independent School District,Police Special Events,EISD PD-2,132 DPL,,FMN,RM,Law Tac,bexar
+460.45,0, ,Northside Independent School District,Site 067 Medio Creek Tower,,,,LTR,,TRS,bexar
+460.475,0, ,Northside Independent School District,Site 054 City View Building Bant,,,,LTR,,TRS,bexar
+460.575,0, ,Northside Independent School District,Site 062 Grass Hill Water Tower,,,,LTR,,TRS,bexar
+460.5875,0, ,Northside Independent School District,Site 054 City View Building Bant,,,,LTR,,TRS,bexar
+460.6625,465.6625,,San Antonio International Airport (SAT) Airline Ground Operations,Southwest Airlines - Ch. 12,SWA 12,371 DPL,,FMN,RM,Business,bexar
+460.6875,465.6875,WRPF886,San Antonio International Airport (SAT) Airline Ground Operations,Unifi Service,Unifi Service,CC 12|TG 2|SL 2,,DMR,RM,Business,bexar
+460.775,466.775,WNXY709,San Antonio International Airport (SAT) Airline Ground Operations,United - Inside Baggage,UAL SAT Baggage,CC 2|TG 1|SL 1,,DMR,RM,Business,bexar
+460.775,465.775,WNXY709,San Antonio International Airport (SAT) Airline Ground Operations,United - Tarmac Ground Crews,UAL SAT Tarmac,114.8 PL,,FMN,RM,Business,bexar
+460.825,465.825,WNKF917,San Antonio International Airport (SAT) Airline Ground Operations,Delta,Delta 1,CC 2|TG 1|SL 1,,DMR,RM,Business,bexar
+460.825,465.825,WNKF917,San Antonio International Airport (SAT) Airline Ground Operations,Delta,Delta 2,CC 2|TG 2|SL 2,,DMR,RM,Business,bexar
+460.875,0, ,Northside Independent School District,Site 067 Medio Creek Tower,,,,LTR,,TRS,bexar
+461.025,0, ,Boeing Center at Tech Port,Site 001 Arena,,,,DMR,,TRS,bexar
+461.05,0,,Businesses Entertainment,McNay Art Museum - Maintenance,McNay Art Maint,114 DPL,,FMN,BM,Business,bexar
+461.05,0, ,BearCom (Central Texas NexEdge),Site 006 North East San Antonio,,,,NXDN,,TRS,bexar
+461.0625,0,,Businesses Hospitals & Healthcare,"ER triage Methodist Metro/1310 McCullough Ave,",Meth Met ER Trig,67.0 PL,,FMN,M,Business,bexar
+461.1,466.1,WNZB204,Six Flags Fiesta Texas Six Flags Fiesta Texas,Ch 1 Ride Ops/Maintenance,FstaTX 1 Ops/Mnt,546 DPL,,FM,RM,Business,bexar
+461.125,466.125,WQZZ468,Businesses Entertainment,Alamo Dome Security (Spare Radios for Contractors),AlamoDome CT Sec,136.5 PL,,FMN,RM,Security,bexar
+461.125,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+461.1375,0,,Businesses Entertainment,"Cowboys Dancehall- Operations, Security",CwbysDH Ops,218.1 PL,,FM,RM,Business,bexar
+461.15,0, ,Sea World San Antonio,Site 001 Sea World,,,,DMR,,TRS,bexar
+461.1875,466.1875,WQOS876,Alamo Heights Independent School District,High School Band,AHISD Band,,,FMN,RM,Schools,bexar
+461.2,0, ,North East Independent School District,Site 001 10333 Broadway,,,,DMR,,TRS,bexar
+461.225,0, ,USAA San Antonio,Site 002 Downtown (700 St. Mary's St),,,,DMR,,TRS,bexar
+461.25,0, ,Communications Etc. (DMR West),Site 001 Confirmed LCN,,,,DMR,,TRS,bexar
+461.2625,0,,Businesses Hospitals & Healthcare,ER Triage Methodist MST HOSPITAL/8026 Floyd Curl,Meth ST ER Triag,88.5 PL,,FMN,M,Business,bexar
+461.275,0,,Businesses Entertainment,McNay Art Museum - Security,McNay Art Sec,114 DPL,,FMN,BM,Security,bexar
+461.2875,466.2875,KD46700,Businesses Hotels,Marriott River Center Housekeeping,Marriot RC House,071 DPL,,FM,RM,Business,bexar
+461.3,0, ,Sea World San Antonio,Site 001 Sea World,,,,DMR,,TRS,bexar
+461.325,466.325,WRAJ915,Businesses Entertainment,Go RIO Boats,GO RIO Boats,CC 6|TG 177|SL 2,,DMR,RM,Business,bexar
+461.3375,0,,Businesses Hotels,El Tropicano Holiday Inn,El Tropicano,,,FM,BM,Business,bexar
+461.35,466.35,WQXC854,The Alamo The Alamo,Alamo Security (Alamo Rangers),Alamo Security,CC 4|TG 11001|SL 1,,DMR,RM,Security,bexar
+461.35,466.35,WQXC854,The Alamo The Alamo,Grounds,Alamo Grounds,CC 4|TG 11002|SL 2,,DMR,RM,Business,bexar
+461.375,466.375,WPPD533,Businesses Hotels,Westin Riverwalk Hotel Operations,WestinRivWlk,306 DPL,,FM,RM,Business,bexar
+461.375,0, ,BearCom (North Central),Site 001 NW Military Hwy,,,,LTR,,TRS,bexar
+461.375,0, ,BearCom (Passport),Site 100 Military Hwy (NC-SA),,,,LTR,,TRS,bexar
+461.3875,0, ,BearCom (Central Texas NexEdge),Site 005 Downtown San Antonio,,,,NXDN,,TRS,bexar
+461.3875,0, ,HEB Retail Support Center Warehouse,Site 001 N PanAm Expw,,,,LTR,,TRS,bexar
+461.4125,466.4125,WQHF780,Businesses Hotels,Hyatt Hotel Downtown Primary,Hyatt DT Pri,CC 1|TG 100|SL 1,,DMR,RM,Business,bexar
+461.4125,466.4125,WQHF780,Businesses Hotels,Hyatt Hotel Downtown Maintenance,Hyatt DT Mnt,CC 1|TG 200|SL 2,,DMR,RM,Business,bexar
+461.4125,0, ,San Antonio Independent School District,Site 009 Longfellow M.S.,,,,DMR,,TRS,bexar
+461.425,0, ,North East Independent School District,Site 007 Churchill H.S.,,,,DMR,,TRS,bexar
+461.4375,466.4375,WRCK598,Businesses Hotels,Hyatt Residence Club Wild Oak Ranch Ch 1,Hyatt WO 1,431 DPL,,FMN,RM,Business,bexar
+461.4375,466.4375,WPLE212,Businesses Retail,North Star Mall Security (Contracted to PSC),North Star Sec,CC 13|TG 13101|SL 1,,DMR,RM,Security,bexar
+461.45,0,WPLH467,Bexar County Hospital District,University Hospital Physical Plant Maintenance,BCHD UHS Maint,532 DPL,,FM,RM,Business,bexar
+461.45,466.45,WQUI361,Businesses Entertainment,Tobin Center Ch. 1,Tobin Cent Ch 1,CC 4|TG 10011|SL 1,,DMR,RM,Business,bexar
+461.45,466.45,WQUI361,Businesses Entertainment,Tobin Center Ch. 2,Tobin Cent Ch 2,CC 4|TG 10000|SL 2,,DMR,RM,Business,bexar
+461.4625,0, ,Industrial Communications (North Central San Antonio),Site 001 NW Military Hwy,,,,LTR,,TRS,bexar
+461.475,0, ,Hyatt Regency Hill Country Resort and Spa,Site 001 Hyatt Resort Dr,,,,DMR,,TRS,bexar
+461.5,0, ,San Antonio Independent School District,Site 002 Alamo Stadium,,,,DMR,,TRS,bexar
+461.5125,0, ,"Frost Bank Center, Spurs Sports and Entertainment Arena",Site 001 Arena,,,,LTR,,TRS,bexar
+461.5375,0, ,Industrial Communications (Downtown San Antonio),Site 001 Bowie Street,,,,LTR,,TRS,bexar
+461.5625,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+461.575,466.575,WQZQ437,Businesses Hotels,St. Anthony Hotel,St Anth 461.575,311 DPL,,FMN,RM,Business,bexar
+461.5875,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+461.6125,0,WNZB204,Six Flags Fiesta Texas Six Flags Fiesta Texas,Ch 2 Talkaround,FstaTX 2 Talk,465 DPL,,FM,M,Business,bexar
+461.6125,0, ,Calumet San Antonio Refining,Site 001 S Presa St,,,,DMR,,TRS,bexar
+461.65,466.65,WQUM790,South San Antonio Independent School District,Police Tactical,SSAISD PD-2,91.5 PL,,FMN,RM,Law Tac,bexar
+461.65,0, ,Sea World San Antonio,Site 001 Sea World,,,,DMR,,TRS,bexar
+461.6625,466.6625,WQZQ437,Businesses Hotels,St. Anthony Hotel,St Anth 461.6625,315 DPL,,FMN,RM,Business,bexar
+461.6625,0, ,Hyatt Regency Hill Country Resort and Spa,Site 001 Hyatt Resort Dr,,,,DMR,,TRS,bexar
+461.6625,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+461.675,466.675,WQJY912,Businesses Hospitals & Healthcare,Southwest General Hospital - Ch. 1 ER Triage,SGH 1 ER Triage,343 DPL,,FMN,RM,Business,bexar
+461.675,0, ,North East Independent School District,Site 005 Lee High School,,,,DMR,,TRS,bexar
+461.7,0, ,BearCom (Central Texas NexEdge),Site 004 North Central San Antonio,,,,NXDN,,TRS,bexar
+461.7375,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+461.75,0, ,North East Independent School District,Site 006 Johnson H.S.,,,,DMR,,TRS,bexar
+461.775,0, ,North East Independent School District,Site 003 Roosevelt H.S.,,,,DMR,,TRS,bexar
+461.8,0, ,North East Independent School District,Site 001 10333 Broadway,,,,DMR,,TRS,bexar
+461.8125,466.8125,WQOD470,Businesses Corporate,Southwest Research Institute Security,SWRI Sec,CC 6|TG 100|SL 1,,DMRE,RM,Security,bexar
+461.8125,0, ,San Antonio Independent School District,Site 003 Will Rodgers Academy,,,,DMR,,TRS,bexar
+461.825,0, ,BearCom (Passport),Site 052 Randolph Blvd (NE-SA),,,,LTR,,TRS,bexar
+461.825,0, ,BearCom (Northeast),Site 001 Randolph,,,,LTR,,TRS,bexar
+461.875,0, ,BearCom (Central Texas NexEdge),Site 004 North Central San Antonio,,,,NXDN,,TRS,bexar
+461.8875,0, ,BearCom (Central Texas NexEdge),Site 011 South San Antonio,,,,NXDN,,TRS,bexar
+461.8875,0, ,BearCom (Passport),Site 998 Unknown Location,,,,LTR,,TRS,bexar
+461.9,466.9,WPXE761,Businesses Hotels,Holiday Inn Riverwalk,Holiday Inn RW,445 DPL,,FMN,RM,Business,bexar
+461.9,0,WPWG298,San Antonio International Airport (SAT) Airline Ground Operations,Southwest Airlines - Baggage,SWA Baggage,311 DPL,,FM,BM,Business,bexar
+461.9375,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+461.95,0, ,BearCom (Central Texas NexEdge),Site 004 North Central San Antonio,,,,NXDN,,TRS,bexar
+461.975,0, ,BearCom (North Central),Site 001 NW Military Hwy,,,,LTR,,TRS,bexar
+461.975,0, ,BearCom (Passport),Site 100 Military Hwy (NC-SA),,,,LTR,,TRS,bexar
+461.9875,0, ,BearCom (Passport),Site 102 Bowie St (DT-SA),,,,LTR,,TRS,bexar
+462,467,WQTP600,Businesses Hospitals & Healthcare,Christus Santa Rosa Hospital Security - IP Linked to all CSR in San Antonio,CSR AlamoHts Sec,CC 1|TG 2011|SL 2,,DMR,RM,Security,bexar
+462.025,0, ,Boeing (Lackland Air Force Base),Site 001 Airlift Drive,,,,LTR,,TRS,bexar
+462.0375,467.0375,WRDC594,San Antonio International Airport (SAT) Airport Operations,Elite Line Services - Maintenance,ELS Maintenance,CC 1|TG 1|SL 1,,DMR,RM,Business,bexar
+462.0625,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+462.075,467.075,WQZU966,Businesses Industry,Pearl Brewery Security,Pearl Brew Secur,CC 11|TG 10000|SL 1,,DMR,RM,Security,bexar
+462.0875,0, ,Hyatt Regency Hill Country Resort and Spa,Site 001 Hyatt Resort Dr,,,,DMR,,TRS,bexar
+462.1,0,WPYV362,Businesses Hotels,Hyatt Regency - Maintenance/Security,HyattRegency,412 DPL,,FMN,RM,Business,bexar
+462.125,0,,Businesses Entertainment,Sparks Pub Security,Sparks Pub Sec,69.3 PL,,FMN,M,Security,bexar
+462.125,467.125,WQTN494,Businesses Hotels,Marriott River Center Hotel Security,Marriot RC Sec D,CC 1|TG 100|SL 1,,DMR,RM,Business,bexar
+462.125,467.125,WQOD514,Businesses Construction,Alamo Cement Company,Alamo Cement Co,141.3 PL,,FMN,RM,Business,bexar
+462.15,467.15,WPOD826,Fort Sam Houston Independent School District,Bus Dispatch,FtSHISD Bus,CC 14|TG 13001|SL 2,,DMR,RM,Schools,bexar
+462.15,467.15,WPOD826,Fort Sam Houston Independent School District,Operations,FtSHISD Ops,CC 11|TG *|SL 2,,DMR,RM,Schools,bexar
+462.15,0, ,Microsoft Data Center,Site 001 Rogers Rd,,,,DMR,,TRS,bexar
+462.1625,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+462.1875,0,WQTT872,Cornerstone Christian Church and School,Channel 12,CCS Ch. 12,8 RAN,,NXDN48,M,Schools,bexar
+462.2125,0,WQJQ382,Businesses Religious,Mount Sacred Heart Catholic School,MSHCS 462.2125,365 DPL,,FMN,M,Schools,bexar
+462.225,0, ,Industrial Communications (Northeast San Antonio),Site 001 NE Loop 1604,,,,LTR,,TRS,bexar
+462.25,467.25,WQTL601,North East Independent School District,Churchill High School,NEISD Chrchl,156 DPL,,FMN,RM,Schools,bexar
+462.25,0, ,Boeing (Lackland Air Force Base),Site 001 Airlift Drive,,,,LTR,,TRS,bexar
+462.275,0, ,Communications Etc. (DMR West),Site 001 Confirmed LCN,,,,DMR,,TRS,bexar
+462.35,467.35,WQTP600,Businesses Hospitals & Healthcare,Christus Santa Rosa Hospital Security - IP Linked to all CSR in San Antonio,CSR CHOSA Sec,CC 1|TG 2011|SL 2,,DMR,RM,Security,bexar
+462.375,467.375,WQQG486,Alamo Heights Independent School District,High School,AHISD Staff,,,FMN,RM,Schools,bexar
+462.4,0, ,Saint Mary's University,Site 001 One Camino Santa Maria,,,,LTR,,TRS,bexar
+462.425,467.425,WQJY912,Businesses Hospitals & Healthcare,Southwest General Hospital - Security,SGH Security,CC 6|TG 16777184|SL 1,,DMR,RM,Security,bexar
+462.425,467.425,WQJY912,Businesses Hospitals & Healthcare,Southwest General Hospital - Maintenance,SGH MAint,CC 6|TG 16777184|SL 2,,DMR,RM,Business,bexar
+462.425,467.425,WQVJ609,Businesses Retail,La Cantera Mall Security (Contracted to PSC),La Cantera Sec,CC 3|TG 10|SL 1,,DMR,RM,Security,bexar
+462.425,0, ,Coca Cola Bottling Plant (San Antonio),Site 001 Coca Cola,,,,LTR,,TRS,bexar
+462.4875,0,WQNZ543,North East Independent School District,Wood Middle School,NEISD WoodMS,071 DPL,,FMN,M,Schools,bexar
+462.5,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+462.5875,0,,Businesses Restaurants/Hospitality,Chicken N Pickle - 5215 UTSA Blvd,ChickenNPickle,025 DPL,,FMN,M,Business,bexar
+462.625,0,,Businesses Entertainment,Hard Rock Cafe - Hosting 111 W. Crockett,HardRock Cafe SA,532 DPL,,FMN,M,Business,bexar
+462.625,0,,Media Newspapers,Express-News Press Room,SA EN Press Room,445 DPL,,FMN,BM,Business,bexar
+462.725,0,,Businesses Retail,HEB Lincoln Heights Market,HEB Lincoln Hght,252 DPL,,FMN,M,Business,bexar
+462.725,0,,Businesses Retail,HEB Plus Blanco/1604 - Maintenance,HEB 1604/Blan Mt,136.5 PL,,FMN,M,Business,bexar
+462.825,0,WQNV998,The Alamo The Alamo,Voice Paging/Public Address System,Alamo Paging,CSQ,,FMN,B,Business,bexar
+463.2125,468.2125,WQWF887,North East Independent School District,Driscoll Middle School,NEISD DriscollMS,CC 7|TG *|SL 1,,DMR,RM,Schools,bexar
+463.2125,0,WNZB204,Six Flags Fiesta Texas Six Flags Fiesta Texas,Ch 4 Ride Ops Talkaround,FstaTX 4 Ride TA,465 DPL,,FMN,M,Business,bexar
+463.2375,468.2375,WQRF287,North East Independent School District,MacArthur High School,NEISD MacArt,346 DPL,,FMN,RM,Schools,bexar
+463.25,0, ,Northside Independent School District,Site 067 Medio Creek Tower,,,,LTR,,TRS,bexar
+463.2625,0,WQIF463,Businesses Hospitals & Healthcare,Laurel Ridge Treatment Center,Laurel Ridge TC,,,FMN,BM,Business,bexar
+463.2625,468.2625,,Businesses Religious,Mount Sacred Heart Catholic School Ch. 122,MSHCS Ch. 122,CC 3|TG 22|SL 1,,DMR,RM,Schools,bexar
+463.2625,468.2625,,Businesses Religious,Mount Sacred Heart Catholic School Ch. 222,MSHCS Ch. 222,CC 3|TG 22|SL 2,,DMR,RM,Schools,bexar
+463.275,468.275,WPOE491,North East Independent School District,Reagan High School,NEISD Reagan,703 DPL,,FMN,RM,Schools,bexar
+463.3125,468.3125,WRFL555,Businesses Entertainment,San Antonio Zoo - Information Technology,SA Zoo IT,CC 11|TG 100002|SL 1,,DMR,RM,Business,bexar
+463.3125,468.3125,WRFL555,Businesses Entertainment,San Antonio Zoo - Animal Care Services,SA Zoo ACS,CC 11|TG 100003|SL 2,,DMR,RM,Business,bexar
+463.3375,0,WQYY569,Businesses Hospitals & Healthcare,North Central Baptist Patient Transfers,NCB PxTransf,306 DPL,,FMN,M,Business,bexar
+463.3375,468.3375,WRCK598,Businesses Hotels,Hyatt Residence Club Wild Oak Ranch Ch 2,Hyatt WO 2,516 DPL,,FMN,RM,Business,bexar
+463.3375,0, ,Calumet San Antonio Refining,Site 001 S Presa St,,,,DMR,,TRS,bexar
+463.3625,468.3625,WQSI438,Businesses Corporate,Whatabrands Security - Whataburger Main Offices,Whatabrands Secu,CC 9|TG 5|SL 2,,DMR,RM,Security,bexar
+463.3875,0, ,University Health System,Site 001 Medical Drive,,,,LTR,,TRS,bexar
+463.4,468.4,WQJB485,North East Independent School District,Johnson High School - Admin,NEISD JohnHS Adm,CC 3|TG 16777199|SL 1,,DMR,RM,Schools,bexar
+463.4,468.4,WQJB485,North East Independent School District,Johnson High School - Custodians,NEISD JohnHS Cus,CC 3|TG 16777199|SL 2,,DMR,RM,Schools,bexar
+463.4125,0, ,Boeing Center at Tech Port,Site 001 Arena,,,,DMR,,TRS,bexar
+463.4375,0, ,Toyota Vehicle Assembly Plant,Site 002 Applewhite Rd.,,,,DMR,,TRS,bexar
+463.45,468.45,WPGP358,Fort Sam Houston Independent School District,Maintenance,FtSHISD Mntc,,,FMN,RM,Schools,bexar
+463.4625,0, ,University Health System,Site 001 Medical Drive,,,,LTR,,TRS,bexar
+463.475,468.475,WPEK570,Businesses Security,Bexar County Protective Services - Security (Encrypted),Bex Co Prot Svcs,CC 6|TG 1599|SL 1,,DMRE,RM,Security,bexar
+463.4875,0,,Businesses Retail,The Forum Mall Security,Forum Security,167.9 PL,,FM,RM,Security,bexar
+463.5,0, ,Northside Independent School District,Site 067 Medio Creek Tower,,,,LTR,,TRS,bexar
+463.5125,0,WQXC854,The Alamo The Alamo,Visitor's Information,AlamoVisitorInfo,CC 4|TG 11003|SL 1,,DMR,BM,Business,bexar
+463.5125,0,WQXC854,The Alamo The Alamo,Security Ch 3,Alamo Security,CC 4|TG 11003|SL 2,,DMR,BM,Security,bexar
+463.525,468.525,WPVZ979,Businesses Corporate,Valero Corporate Security,Valero Security,CC 5|TG 3|SL 1,,DMR,RM,Security,bexar
+463.55,468.55,WQTT872,Cornerstone Christian Church and School,Channel 1 Security,CCS Ch. 1 Secur,2 RAN,,NXDN48,RM,Security,bexar
+463.575,468.575,WQTP600,Businesses Hospitals & Healthcare,Christus Santa Rosa - Security,Christus SR Sec,131.8 PL,,FMN,RM,Security,bexar
+463.5875,0, ,BearCom (Downtown),Site 001 Bowie,,,,LTR,,TRS,bexar
+463.6,0, ,Airwave Radio (Northeast San Antonio),Site 001 Queens Crown,,,,LTR,,TRS,bexar
+463.625,468.625,KD4487,Our Lady of the Lake University,Police Dispatch,OLLU PD-1 Disp,CC 11|TG 2|SL 1,,DMR,RM,Law Dispatch,bexar
+463.625,468.625,KD4487,Our Lady of the Lake University,Police Ch. 2 Campus Tac,OLLU PD2 CampTac,CC 11|TG 2|SL 2,,DMR,RM,Law Tac,bexar
+463.6375,0,WQOC547,Businesses Hospitals & Healthcare,Northeast Methodist Hospital - Security,NEMthHosp,218.1 PL,,FMN,M,Security,bexar
+463.6375,468.6375,WQQS890,Businesses Hotels,Marriott Residence Inn Alamo Plaza,Marriott RI AP,203.5 PL,,FMN,RM,Business,bexar
+463.6375,468.6375,WQSR507,Businesses Retail,South Park Mall Security Ch. 2,SP Mall Sec Ch 2,162.2 PL,,FMN,RM,Security,bexar
+463.65,0, ,North East Independent School District,Site 007 Churchill H.S.,,,,DMR,,TRS,bexar
+463.675,468.675,WQTP600,Businesses Hospitals & Healthcare,Christus Santa Rosa Hospital Security - IP Linked to all CSR in San Antonio,CSR NW Sec,CC 1|TG 2011|SL 2,,DMR,RM,Security,bexar
+463.675,0, ,BearCom (Central Texas NexEdge),Site 011 South San Antonio,,,,NXDN,,TRS,bexar
+463.6875,0, ,Saint Mary's University,Site 001 One Camino Santa Maria,,,,LTR,,TRS,bexar
+463.7,468.75,WNZB204,Six Flags Fiesta Texas Six Flags Fiesta Texas,Ch 3 Park Services,FstaTX 3 Service,627 DPL,,FM,RM,Business,bexar
+463.75,0, ,North East Independent School District,Site 005 Lee High School,,,,DMR,,TRS,bexar
+463.7625,468.7625,,Businesses Industry,Refresco Beverage Ops,Refresco Bevrg,CC 8|TG 14|SL 2,,DMR,RM,Business,bexar
+463.7875,0, ,Communications Etc. (DMR West),Site 001 Confirmed LCN,,,,DMR,,TRS,bexar
+463.8,0, ,North East Independent School District,Site 004 Madison H.S.,,,,DMR,,TRS,bexar
+463.9125,468.9125,WPLE212,Businesses Retail,North Star Mall Maintenance and Housekeeping,North Star Maint,627 DPL,,FM,RM,Business,bexar
+463.9375,0, ,Sea World San Antonio,Site 001 Sea World,,,,DMR,,TRS,bexar
+463.975,0, ,Airwave Radio (Leon Springs),Site 001 Heuerman Road,,,,LTR,,TRS,bexar
+463.9875,0, ,Industrial Communications (North Central San Antonio),Site 001 NW Military Hwy,,,,LTR,,TRS,bexar
+464.0125,469.0125,,Businesses Entertainment,Witte Museum - Security/Operations,Witte Museum Sec,CC 4|TG *|SL 1,,DMR,RM,Security,bexar
+464.0125,469.0125,,Businesses Entertainment,Witte Museum - Talk-Around,Witte Museum TA,CC 4|TG *|SL 2,,DMR,RM,Business,bexar
+464.025,0, ,Airwave Radio (Leon Springs),Site 001 Heuerman Road,,,,LTR,,TRS,bexar
+464.05,469.05,WRJ855,Businesses Hotels,Marriott Riverwalk Hotel,MarrRvrwkRpt,123.0 PL,,FMN,RM,Business,bexar
+464.075,0, ,Airwave Radio (Northeast San Antonio),Site 001 Queens Crown,,,,LTR,,TRS,bexar
+464.0875,469.0875,WPOY364,North East Independent School District,Madison High School,NEISD Madison,325 DPL,,FMN,RM,Schools,bexar
+464.0875,469.0875,WQCK259,Businesses Hospitals & Healthcare,Downtown Baptist - Security,DTB Sec Dsp,072 DPL,,FMN,RM,Security,bexar
+464.125,0, ,Airwave Radio (Northeast San Antonio),Site 001 Queens Crown,,,,LTR,,TRS,bexar
+464.125,0, ,USAA San Antonio,Site 002 Downtown (700 St. Mary's St),,,,DMR,,TRS,bexar
+464.1375,0,WQYY569,Businesses Hospitals & Healthcare,North Central Baptist Security/Operations,NCB Sec/Ops,031 DPL,,FMN,M,Security,bexar
+464.15,0, ,BearCom (Central Texas NexEdge),Site 005 Downtown San Antonio,,,,NXDN,,TRS,bexar
+464.1625,469.1625,WRAK830,Businesses Retail,The RIM Shopping Center Security,RIM Security,CC 10|TG 10001|SL 1,,DMR,RM,Security,bexar
+464.1625,0, ,San Antonio Independent School District,Site 004 Fox Tech H.S.,,,,DMR,,TRS,bexar
+464.175,469.175,WQZS398,North East Independent School District,Eisenhower Middle School,NEISD Eisenhower,244 DPL,,FMN,RM,Schools,bexar
+464.2125,0, ,BearCom (Central Texas NexEdge),Site 011 South San Antonio,,,,NXDN,,TRS,bexar
+464.275,0, ,North East Independent School District,Site 006 Johnson H.S.,,,,DMR,,TRS,bexar
+464.3,0,WPLI523,Six Flags Fiesta Texas Six Flags Fiesta Texas,Ride Operations Talk-Around,FstaTX OpT/A,,,FM,RM,Business,bexar
+464.3,469.3,WQUM790,South San Antonio Independent School District,High School Campus,SouthSanHS Ops,043 DPL,,FMN,RM,Schools,bexar
+464.3,0, ,Airwave Radio (Northeast San Antonio),Site 001 Queens Crown,,,,LTR,,TRS,bexar
+464.325,469.325,WRFL555,Businesses Entertainment,San Antonio Zoo - Operations,SA Zoo Ops,CC 9|TG 100004|SL 1,,DMR,RM,Business,bexar
+464.325,469.325,WNYL613,Businesses Hotels,Sheraton Gunter Hotel,Gunter Hotel,031 DPL,,FMN,RM,Business,bexar
+464.325,0, ,Sea World San Antonio,Site 001 Sea World,,,,DMR,,TRS,bexar
+464.3375,0,WQEZ237,Businesses Entertainment,Tower of the Americas - Chart House Restaurant,Chart House TOA,156 DPL,,FMN,RM,Business,bexar
+464.3625,469.3625,WQCK259,Businesses Hospitals & Healthcare,Downtown Baptist - Maintenance,DTB Maint,306 DPL,,FMN,RM,Business,bexar
+464.375,469.375,,Downtown Public Improvement District,Centro San Antonio - Ambassadors/Maintenance,Centro SA,423 DPL,,FM,RM,Public Works,bexar
+464.3875,0,,Businesses Religious,Community Bible College 1604,CommBibleCol,346 DPL,,FMN,BM,Schools,bexar
+464.3875,0, ,BearCom (Passport),Site 999 Unknown Location,,,,LTR,,TRS,bexar
+464.4125,469.4125,WRMU313,San Antonio International Airport (SAT) Airline Ground Operations,Signature Flight Support North,Signature North,CC 14|TG 1000|SL 1,,DMR,RM,Business,bexar
+464.4125,469.4125,WRMU313,San Antonio International Airport (SAT) Airline Ground Operations,Signature Flight Support South,Signature South,CC 14|TG 2000|SL 2,,DMR,RM,Business,bexar
+464.425,0, ,North East Independent School District,Site 003 Roosevelt H.S.,,,,DMR,,TRS,bexar
+464.4375,469.4375,WQXK891,Businesses Security,J.L. Bar Ranch Security/Ops,J.L. Bar Ranch,CC 1|TG 100|SL 1,,DMR,RM,Business,bexar
+464.45,0, ,BearCom (Central Texas NexEdge),Site 004 North Central San Antonio,,,,NXDN,,TRS,bexar
+464.4625,0,WRBS529,Businesses Entertainment,Howl at the Moon Club - 112 E Crockett,Howl at the Moon,454 DPL,,FMN,BM,Business,bexar
+464.475,469.475,WNZW437,University of the Incarnate Word,Security,UIW Security,103.5 PL,,FMN,RM,Security,bexar
+464.475,469.475,WQZD545,Businesses Security,Randolph Brooks Federal Credit Union Headquarters Security,RBFCU Security,CC 8|TG 20|SL 1,,DMR,RM,Security,bexar
+464.5,469.5,WPVS493,Bexar County Services,Central Texas Detention Center (owned by GEO Group and under contract for prisoners of USMS and ICE),CenTexDetCtr,156.7 PL,,FMN,BM,Corrections,bexar
+464.5,0,,Businesses Entertainment,Merkaba Club Security,Merkaba Club Sec,103.5 PL,,FMN,M,Security,bexar
+464.5,0,,Businesses Hospitals & Healthcare,Downtown Baptist - ER Triage,DTB ER Triage,82.5 PL,,FMN,M,Business,bexar
+464.5,0,,Businesses Construction,Clark Construction Group,Clark Cnst 464.5,173.8 PL,,FMN,M,Business,bexar
+464.525,0, ,Omni La Mansion del Rio Hotel (San Antonio),Site 001 College St.,,,,DMR,,TRS,bexar
+464.55,0,,Businesses Entertainment,BIG LOU's - 2048 S WW White Rd,BIG LOU'S,67.0 PL,,FMN,M,Business,bexar
+464.55,0,,Businesses Hospitals & Healthcare,Med-Surg Unit Northeast Baptist Hospital/8811 Village Dr,NEBH MedSurg Unt,67.0 PL,,FMN,M,Business,bexar
+464.55,0,,Businesses Construction,Clark Construction Group,Clark Cnst 46455,173.8 PL,,FMN,M,Business,bexar
+464.575,469.575,WPEM725,Businesses Hotels,DT Hilton Airport,DT HiltonAirport,CC 1|TG 101|SL 1,,DMR,RM,Business,bexar
+464.575,469.575,WQTN494,Businesses Hotels,Marriott River Center Hotel Security,Marriot RC Sec A,100.0 PL,,FMN,RM,Security,bexar
+464.575,0,WPBN216,Businesses Retail,Rolling Oaks Mall Security,ROMall Sec,631 DPL,,FMN,M,Security,bexar
+464.5875,0, ,Industrial Communications (Northeast San Antonio),Site 001 NE Loop 1604,,,,LTR,,TRS,bexar
+464.6125,0, ,Saint Mary's University,Site 001 One Camino Santa Maria,,,,LTR,,TRS,bexar
+464.6375,469.6375,WQSR507,Businesses Retail,South Park Mall Security,SPMall Sec,167.9 PL,,FMN,RM,Security,bexar
+464.6625,0, ,Airwave Radio (Northeast San Antonio),Site 001 Queens Crown,,,,LTR,,TRS,bexar
+464.675,469.675,WYD573,Businesses Retail,Ingram Park Mall - Security,IP Mall Security,CC 15|TG 45270|SL 1,,DMR,RM,Security,bexar
+464.675,469.675,WYD573,Businesses Retail,Ingram Park Mall - Housekeeping,IP Mall Housekpg,CC 15|TG 45271|SL 2,,DMR,RM,Business,bexar
+464.675,0, ,Coca Cola Bottling Plant (San Antonio),Site 001 Coca Cola,,,,LTR,,TRS,bexar
+464.675,0, ,Sea World San Antonio,Site 001 Sea World,,,,DMR,,TRS,bexar
+464.6875,0, ,Industrial Communications (Downtown San Antonio),Site 001 Bowie Street,,,,LTR,,TRS,bexar
+464.7,0, ,Airwave Radio (Northeast San Antonio),Site 001 Queens Crown,,,,LTR,,TRS,bexar
+464.7375,0, ,Boeing Center at Tech Port,Site 001 Arena,,,,DMR,,TRS,bexar
+464.775,0,,Businesses Construction,JOERIS General Contractors - Crane Ops,JOERIS Crane Ops,606 DPL,,FMN,M,Business,bexar
+464.775,0, ,BearCom (North Central),Site 001 NW Military Hwy,,,,LTR,,TRS,bexar
+464.775,0, ,BearCom (Passport),Site 100 Military Hwy (NC-SA),,,,LTR,,TRS,bexar
+464.825,0, ,Calumet San Antonio Refining,Site 001 S Presa St,,,,DMR,,TRS,bexar
+464.85,469.85,WNZB204,Six Flags Fiesta Texas Six Flags Fiesta Texas,"Ch 5 Security, Safety, EMS",FstaTX 5 Sec/EMS,465 DPL,,FM,RM,Security,bexar
+464.85,469.85,WQRA221,Businesses Retail,Rivercenter Mall - Housekeeping,RCMall Hskpng,431 DPL,,FMN,RM,Business,bexar
+464.8625,469.8625,WQTP600,Businesses Hospitals & Healthcare,Christus Santa Rosa - Westover Hills Security,Christus WH Sec,152 DPL,,FMN,RM,Security,bexar
+464.8625,0,WQQQ792,Businesses Security,Bank of America - 300 Convent,Bank of America ,118.8 PL,,FMN,M,Business,bexar
+464.875,469.875,WPWE780,Businesses Industry,C H Guenther & Son,CH Guenther&Son,218.1 PL,,FMN,RM,Business,bexar
+464.8875,0,,North East Independent School District,Harris Middle School,NEISD Harris MS,205 DPL,,FMN,M,Schools,bexar
+464.925,0,,Businesses Hotels,Hilton Palacio Del Rio,Hilton PDR,107.2 PL,,FMN,RM,Security,bexar
+464.925,469.925,WQTT872,Cornerstone Christian Church and School,Channel 2 Security,CCS Ch. 2 Secur,4 RAN,,NXDN48,RM,Security,bexar
+464.9375,0,KB88649,Businesses Hotels,Courtyard by Marriott San Antonio Medical Center,Courtyd SAMC,,,FM,M,Business,bexar
+464.9375,0, ,HEB Retail Support Center Warehouse,Site 001 N PanAm Expw,,,,LTR,,TRS,bexar
+464.975,469.975,WPWE780,Businesses Industry,Pioneer Flour Mills,Pioneer Flour SA,346 DPL,,FMN,RM,Business,bexar
+464.975,0, ,Airwave Radio (Leon Springs),Site 001 Heuerman Road,,,,LTR,,TRS,bexar
+464.975,0, ,Airwave Radio (Northeast San Antonio),Site 001 Queens Crown,,,,LTR,,TRS,bexar
+467.1625,0,,Businesses Entertainment,San Antonio Missions Baseball Team,SAMissionsBB,,,FM,M,Business,bexar
+467.75,0,KD6542,Businesses Retail,Target Stores Ch 1,Target CH 1,115 DPL,,FMN,M,Business,bexar
+467.7625,0,,Businesses Hospitals & Healthcare,ER Triage Methodist MAIN HOSPITAL/7700 Floyd Curl,Meth MN ER Triag,67.0 PL,,FMN,M,Business,bexar
+467.775,0,,Businesses Retail,Target Stores Ch 2,Target CH 2,072 DPL,,FMN,BM,Business,bexar
+467.8125,0,,Businesses Hospitals & Healthcare,ER Triage Methodist TexSan/6700 IH 10 West -78201,Meth TX ER Triag,67.0 PL,,FMN,M,Business,bexar
+467.85,0,WPVT931,Businesses Entertainment,AMC Rivercenter 11 Movie Theatre with Alamo IMAX 849 E Commerce St,AMC Rivercenter,165 DPL,,FMN,M,Business,bexar
+467.85,0,,Businesses Entertainment,Landry's Seafood 517 N Presa,Landrys N Presa,67.0 PL,,FMN,BM,Business,bexar
+467.85,0,,Businesses Hospitals & Healthcare,ER Triage CHRISTUS Santa Rosa Westover Hills/11212 TX-151,Christ WH ER Trg,67.0 PL,,FMN,M,Business,bexar
+467.85,0,,Businesses Hospitals & Healthcare,Med-Surg Unit Northeast Baptist Hospital/8811 Village Dr,NEBH MedSurg Unt,67.0 PL,,FMN,M,Business,bexar
+467.85,0,,Businesses Hospitals & Healthcare,Downtown Baptist - Ch 3 Fifth Floor Surgical Unit,DTB 3 5FL Surg,67.0 PL,,FMN,M,Business,bexar
+467.85,0,,Businesses Restaurants/Hospitality,Cheddar's - Selma,Cheddars Selma,100.0 PL,,FMN,M,Business,bexar
+467.875,0,,Businesses Hospitals & Healthcare,ER Triage Northeast Baptist Hospital/8811 Village Dr,NEBH ER Triage,67.0 PL,,FMN,M,Business,bexar
+467.875,0,,Businesses Retail,Kohl's San Antonio West (10838 Potranco Road),Kohl's SA West,67.0 PL,,FMN,M,Business,bexar
+467.875,0,,Businesses Retail,HEB Plus Blanco/1604 - Store Ops,HEB 1604/Blan Op,97.4 PL,,FMN,M,Business,bexar
+467.925,0,KD6542,Businesses Retail,Target Stores Ch 3 Administration,Target CH 3 Admn,155 DPL,,FMN,M,Business,bexar
+467.925,0,KD6542,Businesses Retail,Apple Store - Northstar Mall,Apple Store NSM,67.0 PL,,FMN,M,Business,bexar
+467.925,0,KD6542,Businesses Retail,Best Buy Store - Northstar Mall,Best Buy NStar,506 DPL,,FMN,M,Business,bexar
+467.95,0,,Businesses Restaurants/Hospitality,Cracker Barrel - SW LP 410,CrackerBrrl410SW,,,FMN,BM,Business,bexar
+468.2875,0,WRJ855,Businesses Hotels,Marriott Riverwalk Hotel - Housekeeping,MarrRvrwkHkp,123.0 PL,,FMN,M,Business,bexar
+468.575,0,WQOK446,Businesses Hotels,Hotel Contessa,Contessa 468,532 DPL,,FMN,M,Business,bexar
+469.1,0,WQOK446,Businesses Hotels,Hotel Contessa - Housekeeping,ContessaHskp,223 DPL,,FMN,M,Business,bexar
+469.2625,0,WQXA810,Businesses Parking,Hospitality Parking (San Antonio Downtown/Riverwalk Area) - Valets,HospitalityP,82.5 PL,,FMN,M,Business,bexar
+469.8875,0,,North East Independent School District,Pre K Academy (West Ave),NEISD PreK West,261 DPL,,FMN,M,Schools,bexar
+469.8875,0,WQJY912,Businesses Hospitals & Healthcare,Southwest General Hospital - Ch. 2 ER Triage Main,SGH 2 ER Main,114 DPL,,FMN,M,Business,bexar
+769.10625,0, ,Alamo Area Regional Radio System (AARRS),Site 011 Frio,,,,Project 25,,TRS,bexar
+769.11875,0, ,Alamo Area Regional Radio System (AARRS),Site 014 Austin Highway,,,,Project 25,,TRS,bexar
+769.35625,0, ,Alamo Area Regional Radio System (AARRS),Site 013 Zarzamora,,,,Project 25,,TRS,bexar
+769.75625,0, ,Alamo Area Regional Radio System (AARRS),Site 015 Toepperwein,,,,Project 25,,TRS,bexar
+769.76875,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 035 Harlandale (South San Antonio),,,,Project 25,,TRS,bexar
+770.00625,0, ,Alamo Area Regional Radio System (AARRS),Site 012 Hallmark,,,,Project 25,,TRS,bexar
+770.28125,0, ,Alamo Area Regional Radio System (AARRS),Site 014 Austin Highway,,,,Project 25,,TRS,bexar
+770.29375,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 035 Harlandale (South San Antonio),,,,Project 25,,TRS,bexar
+770.53125,0, ,Alamo Area Regional Radio System (AARRS),Site 011 Frio,,,,Project 25,,TRS,bexar
+770.65625,0, ,Alamo Area Regional Radio System (AARRS),Site 015 Toepperwein,,,,Project 25,,TRS,bexar
+770.69375,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 055 NW San Antonio,,,,Project 25,,TRS,bexar
+770.78125,0, ,Alamo Area Regional Radio System (AARRS),Site 012 Hallmark,,,,Project 25,,TRS,bexar
+771.08125,0, ,Alamo Area Regional Radio System (AARRS),Site 013 Zarzamora,,,,Project 25,,TRS,bexar
+771.09375,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 035 Harlandale (South San Antonio),,,,Project 25,,TRS,bexar
+771.40625,0, ,Alamo Area Regional Radio System (AARRS),Site 014 Austin Highway,,,,Project 25,,TRS,bexar
+771.41875,0, ,Alamo Area Regional Radio System (AARRS),Site 012 Hallmark,,,,Project 25,,TRS,bexar
+771.65625,0, ,Alamo Area Regional Radio System (AARRS),Site 015 Toepperwein,,,,Project 25,,TRS,bexar
+771.66875,0, ,Alamo Area Regional Radio System (AARRS),Site 013 Zarzamora,,,,Project 25,,TRS,bexar
+771.98125,0, ,Alamo Area Regional Radio System (AARRS),Site 011 Frio,,,,Project 25,,TRS,bexar
+772.35625,0, ,Alamo Area Regional Radio System (AARRS),Site 012 Hallmark,,,,Project 25,,TRS,bexar
+772.36875,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 035 Harlandale (South San Antonio),,,,Project 25,,TRS,bexar
+772.60625,0, ,Alamo Area Regional Radio System (AARRS),Site 013 Zarzamora,,,,Project 25,,TRS,bexar
+772.88125,0, ,Alamo Area Regional Radio System (AARRS),Site 014 Austin Highway,,,,Project 25,,TRS,bexar
+773.13125,0, ,Alamo Area Regional Radio System (AARRS),Site 015 Toepperwein,,,,Project 25,,TRS,bexar
+773.14375,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 035 Harlandale (South San Antonio),,,,Project 25,,TRS,bexar
+773.48125,0, ,Alamo Area Regional Radio System (AARRS),Site 011 Frio,,,,Project 25,,TRS,bexar
+773.93125,0, ,Alamo Area Regional Radio System (AARRS),Site 012 Hallmark,,,,Project 25,,TRS,bexar
+774.06875,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 055 NW San Antonio,,,,Project 25,,TRS,bexar
+774.40625,0, ,Alamo Area Regional Radio System (AARRS),Site 013 Zarzamora,,,,Project 25,,TRS,bexar
+774.53125,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 055 NW San Antonio,,,,Project 25,,TRS,bexar
+774.65625,0, ,Alamo Area Regional Radio System (AARRS),Site 014 Austin Highway,,,,Project 25,,TRS,bexar
+774.66875,0, ,Alamo Area Regional Radio System (AARRS),Site 011 Frio,,,,Project 25,,TRS,bexar
+774.90625,0, ,Alamo Area Regional Radio System (AARRS),Site 015 Toepperwein,,,,Project 25,,TRS,bexar
+774.91875,0, ,Greater Austin/Travis Regional Radio System (GATRRS),Site 035 Harlandale (South San Antonio),,,,Project 25,,TRS,bexar
+851.075,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+851.1125,0, ,San Antonio VIA Metro Transit P25,Site 001 Medical Center (Northwest),,,,Project 25,,TRS,bexar
+851.2,0, ,San Antonio VIA Metro Transit P25,Site 001 Medical Center (Northwest),,,,Project 25,,TRS,bexar
+851.25,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+851.275,0, ,San Antonio VIA Metro Transit P25,Site 002 Lions Park (Southeast),,,,Project 25,,TRS,bexar
+851.325,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+851.3625,0, ,San Antonio VIA Metro Transit P25,Site 002 Lions Park (Southeast),,,,Project 25,,TRS,bexar
+851.4,0, ,San Antonio VIA Metro Transit P25,Site 001 Medical Center (Northwest),,,,Project 25,,TRS,bexar
+851.5375,0, ,San Antonio VIA Metro Transit P25,Site 002 Lions Park (Southeast),,,,Project 25,,TRS,bexar
+851.6,0, ,San Antonio VIA Metro Transit P25,Site 001 Medical Center (Northwest),,,,Project 25,,TRS,bexar
+851.625,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+851.675,0, ,San Antonio VIA Metro Transit P25,Site 002 Lions Park (Southeast),,,,Project 25,,TRS,bexar
+851.725,0, ,San Antonio VIA Metro Transit P25,Site 001 Medical Center (Northwest),,,,Project 25,,TRS,bexar
+851.775,0, ,San Antonio VIA Metro Transit P25,Site 002 Lions Park (Southeast),,,,Project 25,,TRS,bexar
+851.825,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+851.875,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+851.9125,0, ,San Antonio VIA Metro Transit P25,Site 002 Lions Park (Southeast),,,,Project 25,,TRS,bexar
+851.9375,0, ,San Antonio VIA Metro Transit P25,Site 002 Lions Park (Southeast),,,,Project 25,,TRS,bexar
+852.15,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+852.175,0, ,San Antonio VIA Metro Transit P25,Site 001 Medical Center (Northwest),,,,Project 25,,TRS,bexar
+852.275,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+852.35,0, ,San Antonio VIA Metro Transit P25,Site 002 Lions Park (Southeast),,,,Project 25,,TRS,bexar
+852.5875,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+852.625,0, ,San Antonio VIA Metro Transit P25,Site 001 Medical Center (Northwest),,,,Project 25,,TRS,bexar
+852.65,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+852.7,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+852.7375,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+852.7875,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+852.8375,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+852.8625,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+852.8875,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+852.9125,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+852.9375,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+853.1125,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+853.1375,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+853.1625,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+853.1875,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+853.2375,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+853.2625,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+853.3375,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+853.3875,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+853.4125,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+853.4875,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+853.5125,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+853.5625,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+853.675,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+853.7625,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+853.7875,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+853.8375,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+853.8875,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+853.9125,0, ,Lower Colorado River Authority (LCRA) P25,Site 019 Live Oak,,,,Project 25,,TRS,bexar
+853.9375,0, ,San Antonio VIA Metro Transit P25,Site 001 Medical Center (Northwest),,,,Project 25,,TRS,bexar
+854.0125,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+854.1125,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+854.2125,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+854.2375,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+854.5125,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+854.6375,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+854.6625,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+854.8125,0, ,Advantage Communications (South),Site 001 Jolly Rd,,,,DMR,,TRS,bexar
+854.9125,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+855.0625,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+855.1375,0, ,Communications Etc. (LTR 800 MHz West),Site 001 Leland,,,,LTR,,TRS,bexar
+855.4625,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+855.4875,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+855.5125,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+855.6125,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+855.6375,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+855.6625,0, ,Communications Etc. (LTR 800 MHz North),Site 001 US 281 North,,,,LTR,,TRS,bexar
+855.6625,0, ,Communications Etc. (LTR 800 MHz South),Site 001 Confirmed LCN,,,,LTR,,TRS,bexar
+855.7125,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+855.7375,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+855.9375,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+855.9875,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+856.0125,0, ,Mobile Communications America (Connect Plus),Site 002 North Central San Antonio,,,,DMR,,TRS,bexar
+856.1625,0, ,Mobile Communications America (Connect Plus),Site 005 South East San Antonio,,,,DMR,,TRS,bexar
+856.2125,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+856.2875,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+856.3625,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+856.6375,0, ,All Points Communications (North),Site 001 Fredericksburg Road,,,,DMR,,TRS,bexar
+856.7125,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+856.7625,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+856.7875,0, ,Mobile Communications America (Connect Plus),Site 002 North Central San Antonio,,,,DMR,,TRS,bexar
+856.8375,0, ,Martin Marietta Materials,Site 001 NW Military Hwy,,,,DMR,,TRS,bexar
+856.8625,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+856.9875,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+857.0125,0, ,Communication Professionals (LTR),Site 001 US 281 North,,,,LTR,,TRS,bexar
+857.1625,0, ,Mobile Communications America (Connect Plus),Site 005 South East San Antonio,,,,DMR,,TRS,bexar
+857.2125,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+857.2875,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+857.3625,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+857.4125,0, ,Communications Etc. (LTR 800 MHz South),Site 001 Confirmed LCN,,,,LTR,,TRS,bexar
+857.4375,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+857.6625,0, ,Alamo Area Regional Radio System (AARRS),Site 050 Northeast Simulcast,,,,Project 25,,TRS,bexar
+857.8375,0, ,Martin Marietta Materials,Site 001 NW Military Hwy,,,,DMR,,TRS,bexar
+857.9875,0, ,Alamo Area Regional Radio System (AARRS),Site 070 West Simulcast,,,,Project 25,,TRS,bexar
+858.0125,0, ,Communication Professionals (LTR),Site 001 US 281 North,,,,LTR,,TRS,bexar
+858.2875,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+858.3125,0, ,Communications Etc. (LTR 800 MHz North),Site 001 US 281 North,,,,LTR,,TRS,bexar
+858.3625,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+858.4375,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+858.7125,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+858.7625,0, ,Alamo Area Regional Radio System (AARRS),Site 170 Southeast Simulcast,,,,Project 25,,TRS,bexar
+858.8375,0, ,Martin Marietta Materials,Site 001 NW Military Hwy,,,,DMR,,TRS,bexar
+858.8875,0, ,Advantage Communications (South),Site 001 Jolly Rd,,,,DMR,,TRS,bexar
+858.9875,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+859.0125,0, ,Mobile Communications America (Connect Plus),Site 002 North Central San Antonio,,,,DMR,,TRS,bexar
+859.2125,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+859.2875,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+859.3125,0, ,Communications Etc. (LTR 800 MHz West),Site 001 Leland,,,,LTR,,TRS,bexar
+859.3625,0, ,Alamo Area Regional Radio System (AARRS),Site 020 Northwest Simulcast,,,,Project 25,,TRS,bexar
+859.4375,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+859.6125,0, ,All Points Communications (North),Site 001 Fredericksburg Road,,,,DMR,,TRS,bexar
+859.8375,0, ,Martin Marietta Materials,Site 001 NW Military Hwy,,,,DMR,,TRS,bexar
+859.9375,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+859.9875,0, ,Alamo Area Regional Radio System (AARRS),Site 140 Central Simulcast,,,,Project 25,,TRS,bexar
+860.0125,0, ,Communication Professionals (LTR),Site 001 US 281 North,,,,LTR,,TRS,bexar
+860.1625,0, ,Advantage Communications (South),Site 001 Jolly Rd,,,,DMR,,TRS,bexar
+860.8375,0, ,Martin Marietta Materials,Site 001 NW Military Hwy,,,,DMR,,TRS,bexar
+927.05,902.05,AA5RO,General Amateur Radio,Alamo Area Radio Organization (All-Star Link),AARO MC All-Star,110.9 PL,110.9 PL,FM,RM,Ham,bexar
+927.075,902.075,K5TRA,General Amateur Radio,"Red Cross Center HQ (San Antonio, Bexar County)",Red Cross - SATX,218.1 PL,218.1 PL,FM,RM,Ham,bexar
+935.225,0, ,Community Arena Management,Site 001 ATT Center,,,,DMR,,TRS,bexar
+936.25,0, ,Dailey and Wells Communications,Site 008 Downtown San Antonio,,,,DMR,,TRS,bexar
+936.5,0, ,Community Arena Management,Site 001 ATT Center,,,,DMR,,TRS,bexar
+937.4625,0, ,Community Arena Management,Site 001 ATT Center,,,,DMR,,TRS,bexar
+938.4125,0, ,Community Arena Management,Site 001 ATT Center,,,,DMR,,TRS,bexar
+938.7375,0, ,Community Arena Management,Site 001 ATT Center,,,,DMR,,TRS,bexar
+939.2375,0, ,Community Arena Management,Site 001 ATT Center,,,,DMR,,TRS,bexar
+1293.3,1281.3,WD5STR,General Amateur Radio,WD5STR San Antonio Repeater (23cm D-STAR),WD5STR 23cm SATX,,,D-STAR,RM,Ham,bexar
+145.19,144.59,KB5TX,Amateur Radio,Kendall Co. Amateur Radio Repeater (Fair Oaks Ranch) - Fusion Digital (AMS enabled),KARS 145.19D FOR,,,YSF,RM,Ham,kendall
+145.19,144.59,KB5TX,Amateur Radio,Kendall Co. Amateur Radio Repeater (Fair Oaks Ranch) - Analog FM (AMS Enabled),KARS 145.19A FOR,88.5 PL,,FMN,RM,Ham,kendall
+146.64,146.04,KB5TX,Amateur Radio,Kendall Co. Amateur Radio Repeater - Fusion Digital (AMS enabled),KARS 146.640 D,,,YSF,RM,Ham,kendall
+146.64,146.04,KB5TX,Amateur Radio,Kendall Co. Amateur Radio Repeater - Analog FM (AMS enabled),KARS 146.640 A,88.5 PL,,FMN,RM,Ham,kendall
+152.375,0,WNUR558,Volunteer Fire Departments,Boerne Fire Tactical,Boerne VFD Tac,203.5 PL,,FMN,BM,Fire-Tac,kendall
+152.3975,157.6575,WQGW904,Businesses Tapatio Springs Hill Country Resort and Spa,Resort Operations,Tapatio Spr Ops,CC 12|TG 500|SL 2,,DMR,RM,Business,kendall
+153.05,158.28,WQRR632,Boerne Independent School District,Boerne High School Admin,Boerne HS Admin,CC 10|TG 10001|SL 1,,DMR,RM,Schools,kendall
+153.05,158.28,WQRR632,Boerne Independent School District,Boerne High School Ch. 2,Boerne HS CH 2,CC 10|TG 10002|SL 2,,DMR,RM,Schools,kendall
+153.3575,158.3775,WQRZ609,Boerne Independent School District,Champion High School Ch. 2,Champion HS CH 2,CC 9|TG 9002|SL 2,,DMR,RM,Schools,kendall
+153.3575,158.3775,WQRZ609,Boerne Independent School District,Champion High School Admin,Champion HS Admn,CC 9|TG 9001|SL 1,,DMR,RM,Schools,kendall
+153.44,158.325,WNUR558,Volunteer Fire Departments,Boerne Fire Repeater,Boerne VFD Rept,203.5 PL,,FMN,RM,Fire-Tac,kendall
+154.13,0,WNDU935,Volunteer Fire Departments,Comfort Fire Tactical,Comfort VFD Tac,210.7 PL,,FMN,BM,Fire-Tac,kendall
+154.145,0,WNDU935,Volunteer Fire Departments,Comfort Fire Tactical,Comfort VFD Tac,210.7 PL,,FMN,BM,Fire-Tac,kendall
+154.515,0,WPZR911,Volunteer Fire Departments,Waring Fire Tactical,Waring VFD Tac,210.7 PL,,FMN,BM,Fire-Tac,kendall
+154.54,0,WNVL428,Volunteer Fire Departments,Kendalia Fire Tactical,Kendalia VFD Tac,210.7 PL,,FMN,BM,Fire-Tac,kendall
+154.9875,159.255,WQZG207,Kendall County,Office of Emergency Management,Kendall OEM,445 DPL,,FMN,RM,Emergency Ops,kendall
+155.055,159.165,WQET691,Volunteer Fire Departments,Comfort Fire Dispatch (when paged by Kerr County),Comfort VFD Disp,162.2 PL,,FMN,RM,Fire Dispatch,kendall
+155.355,153.86,WPWU448,Volunteer Fire Departments,Sisterdale Fire Repeater,Sisterdl VFD Rep,210.7 PL,,FMN,RM,Fire-Tac,kendall
+155.4,150.79,WPIN418,Kendall County,Fire/EMS Dispatch (linked to LCRA P25),Kendall Fire/EMS,125 DPL,,FMN,RM,Fire Dispatch,kendall
+155.655,154.875,KVF686,Kendall County,Sheriff Repeater (Primary on LCRA P25),Kendall SO Rept,203.5 PL,,FMN,RM,Law Tac,kendall
+155.82,0,WNHE539,Kendall County,Water Board,Kend Water,,,FMN,BM,Utilities,kendall
+409.8125,0,,Drug Enforcement Administration,DEA,DEA,156 NAC,,P25,RM,Federal,kendall
+444.9,449.9,KB5TX,Amateur Radio,Kendall Co. Amateur Radio Repeater (Boerne) - Fusion Digital,KARS 444.9D BRNE,,,YSF,RM,Ham,kendall
+444.9,449.9,KB5TX,Amateur Radio,Kendall Co. Amateur Radio Repeater (Boerne) - Analog FM,KARS 444.9A BRNE,88.5 PL,,FMN,RM,Ham,kendall
+452.425,0, ,BearCom (Boerne),Site 001 Boerne,,,,LTR,,TRS,kendall
+453.6125,458.6125,WRYE989,Kendall County,Jail Operations,Kendall Co Jail,CC 8|TG 100|SL 1,,DMR,RM,Corrections,kendall
+463.45,0,WRAJ402,Boerne Independent School District,Cibolo Creek Elementary Ch. 1,CCES Ch 1,CC 2|TG 2001|SL 1,,DMR,M,Schools,kendall
+463.5125,0,WRAJ402,Boerne Independent School District,Cibolo Creek Elementary Ch. 2,CCES Ch 2,CC 2|TG 2002|SL 1,,DMR,M,Schools,kendall
+463.9125,468.9125,WQFL249,Businesses The Clubs at Cordillera Ranch,Maintenance,Cordillera Maint,CC 2|TG 2400|SL 2,,DMR,RM,Business,kendall
+464.0125,469.0125,WRAJ402,Boerne Independent School District,Middle School North Admin,BMSN Admin,CC 8|TG 8001|SL 1,,DMR,RM,Schools,kendall
+464.0875,469.0875,WRAJ402,Boerne Independent School District,Middle School South Admin,BMSS Admin,CC 7|TG 7001|SL 1,,DMR,RM,Schools,kendall
+464.3625,469.3625,WRCM977,Boerne Independent School District,Mark T Voss Middle School Admin,MT Voss MS Admin,CC 1|TG 1001|SL 1,,DMR,RM,Schools,kendall
+464.8375,0,WRAJ402,Boerne Independent School District,Herff Elementary Ch. 1,Herff ES CH 1,CC 4|TG 40011|SL 1,,DMR,M,Schools,kendall
+464.875,0,WRAJ402,Boerne Independent School District,Herff Elementary Ch. 2,Herff ES CH 2,CC 4|TG 40012|SL 2,,DMR,M,Schools,kendall
+467.85,0,WQHE539,Businesses Retail,Home Depot,Home Depot Boern,,,FMN,M,Business,kendall
+467.875,0,WQHE539,Businesses Retail,Home Depot,Home Depot Boern,,,FMN,M,Business,kendall
+469.8375,0,WRAJ402,Boerne Independent School District,Curington Elementary,Curington ES,CC 4|TG 4002|SL 1,,DMR,M,Schools,kendall
+769.21875,0, ,Lower Colorado River Authority (LCRA) P25,Site 021 Luckenbach,,,,Project 25,,TRS,kendall
+769.41875,0, ,Lower Colorado River Authority (LCRA) P25,Site 022 Bergheim,,,,Project 25,,TRS,kendall
+769.43125,0, ,Lower Colorado River Authority (LCRA) P25,Site 020 Boerne,,,,Project 25,,TRS,kendall
+769.50625,0, ,Lower Colorado River Authority (LCRA) P25,Site 029 Comfort,,,,Project 25,,TRS,kendall
+769.68125,0, ,Lower Colorado River Authority (LCRA) P25,Site 021 Luckenbach,,,,Project 25,,TRS,kendall
+769.70625,0, ,Lower Colorado River Authority (LCRA) P25,Site 022 Bergheim,,,,Project 25,,TRS,kendall
+769.71875,0, ,Lower Colorado River Authority (LCRA) P25,Site 020 Boerne,,,,Project 25,,TRS,kendall
+769.84375,0, ,Lower Colorado River Authority (LCRA) P25,Site 029 Comfort,,,,Project 25,,TRS,kendall
+769.96875,0, ,Lower Colorado River Authority (LCRA) P25,Site 021 Luckenbach,,,,Project 25,,TRS,kendall
+770.16875,0, ,Lower Colorado River Authority (LCRA) P25,Site 022 Bergheim,,,,Project 25,,TRS,kendall
+770.18125,0, ,Lower Colorado River Authority (LCRA) P25,Site 020 Boerne,,,,Project 25,,TRS,kendall
+770.43125,0, ,Lower Colorado River Authority (LCRA) P25,Site 021 Luckenbach,,,,Project 25,,TRS,kendall
+770.45625,0, ,Lower Colorado River Authority (LCRA) P25,Site 022 Bergheim,,,,Project 25,,TRS,kendall
+770.46875,0, ,Lower Colorado River Authority (LCRA) P25,Site 020 Boerne,,,,Project 25,,TRS,kendall
+770.71875,0, ,Lower Colorado River Authority (LCRA) P25,Site 021 Luckenbach,,,,Project 25,,TRS,kendall
+770.91875,0, ,Lower Colorado River Authority (LCRA) P25,Site 022 Bergheim,,,,Project 25,,TRS,kendall
+770.93125,0, ,Lower Colorado River Authority (LCRA) P25,Site 020 Boerne,,,,Project 25,,TRS,kendall
+771.25625,0, ,Lower Colorado River Authority (LCRA) P25,Site 029 Comfort,,,,Project 25,,TRS,kendall
+771.70625,0, ,Lower Colorado River Authority (LCRA) P25,Site 029 Comfort,,,,Project 25,,TRS,kendall
+772.70625,0, ,Lower Colorado River Authority (LCRA) P25,Site 029 Comfort,,,,Project 25,,TRS,kendall
+935.425,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 081 Bergheim,,,,OpenSky,,TRS,kendall
+935.675,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 081 Bergheim,,,,OpenSky,,TRS,kendall
+936.225,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 081 Bergheim,,,,OpenSky,,TRS,kendall
+936.4125,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 082 Boerne Lake,,,,OpenSky,,TRS,kendall
+936.4625,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 083 Comfort,,,,OpenSky,,TRS,kendall
+937.3875,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 084 Luckenbach,,,,OpenSky,,TRS,kendall
+937.9,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 084 Luckenbach,,,,OpenSky,,TRS,kendall
+937.925,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 083 Comfort,,,,OpenSky,,TRS,kendall
+937.95,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 082 Boerne Lake,,,,OpenSky,,TRS,kendall
+938.2,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 082 Boerne Lake,,,,OpenSky,,TRS,kendall
+938.45,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 084 Luckenbach,,,,OpenSky,,TRS,kendall
+938.4875,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 081 Bergheim,,,,OpenSky,,TRS,kendall
+938.8875,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 081 Bergheim,,,,OpenSky,,TRS,kendall
+938.925,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 083 Comfort,,,,OpenSky,,TRS,kendall
+938.9625,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 082 Boerne Lake,,,,OpenSky,,TRS,kendall
+939.675,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 084 Luckenbach,,,,OpenSky,,TRS,kendall
+939.9125,0, ,Lower Colorado River Authority (LCRA) OpenSky,Site 082 Boerne Lake,,,,OpenSky,,TRS,kendall

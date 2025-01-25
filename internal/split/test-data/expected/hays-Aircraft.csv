@@ -1,0 +1,8 @@
+frequency output,frequency input,fcc callsign,agency/category,description,alpha tag,pl output tone,pl input tone,mode,class station code,tag,county
+119.000000,0.00000,,San Marcos Airport (KHYI) ATC,Austin Approach/Departure,Appr/Depart,CSQ,,AM,,Aircraft,hays
+120.125000,0.00000,,San Marcos Airport (KHYI) ATC,San Marcos Ground/CTAF,SM Ground,CSQ,,AM,,Aircraft,hays
+120.825000,0.00000,,San Marcos Airport (KHYI) ATC,San Marcos AWOS-WX,SM AWOS-WX,CSQ,,AM,,Aircraft,hays
+121.350000,0.00000,,San Marcos Airport (KHYI) ATC,San Marcos Clearance/Delivery (when KHYI ATC is closed),Clr/Delivery,CSQ,,AM,,Aircraft,hays
+126.825000,0.00000,,San Marcos Airport (KHYI) ATC,San Marcos Tower/AWOS,SM Twr/CTAF,CSQ,,AM,,Aircraft,hays
+131.150000,0.00000,,San Marcos Airport (KHYI) Fixed Base Operators,Berry Aviation Inc.,Berry Avtn,CSQ,,AM,,Aircraft,hays
+131.725000,0.00000,,San Marcos Airport (KHYI) Fixed Base Operators,Skyport,Skyport,CSQ,,AM,,Aircraft,hays

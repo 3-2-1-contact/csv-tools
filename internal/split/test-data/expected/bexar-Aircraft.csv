@@ -1,0 +1,60 @@
+frequency output,frequency input,fcc callsign,agency/category,description,alpha tag,pl output tone,pl input tone,mode,class station code,tag,county
+118.050000,0.00000,,San Antonio International Airport (SAT) Air Traffic Control,Tower VHF,Tower 118.05,CSQ,,AM,BM,Aircraft,bexar
+118.050000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep (141-270),App/Dep (141-270,CSQ,,AM,BM,Aircraft,bexar
+118.200000,0.00000,WRDE227,Stinson Field Air Traffic Control,Stinson Tower,StinsonTower,CSQ,,AM,,Aircraft,bexar
+118.900000,0.00000,,San Antonio International Airport (SAT) Air Traffic Control,Automatic Terminal Information Service (ATIS),ATIS,CSQ,,AM,B,Aircraft,bexar
+119.650000,0.00000,,Randolph Air Force Base ATC - Randolph,Randolph Ground Control,RAFB GND,CSQ,,AM,BM,Aircraft,bexar
+119.800000,0.00000,,San Antonio International Airport (SAT) Air Traffic Control,Tower VHF,Tower 119.8,CSQ,,AM,BM,Aircraft,bexar
+120.450000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Automatic Terminal Information Service (ATIS) VHF,ATIS VHF,CSQ,,AM,B,Aircraft,bexar
+120.500000,0.00000,,Randolph Air Force Base ATC - Randolph,Hangover Tower,RAFB TOWER,CSQ,,AM,BM,Aircraft,bexar
+120.550000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+121.200000,0.00000,,San Antonio International Airport (SAT) Air Traffic Control,Ground VHF Backup,Ground 121.2,CSQ,,AM,BM,Aircraft,bexar
+121.700000,0.00000,WRDE227,Stinson Field Air Traffic Control,Stinson Ground,Stinson Gnd,CSQ,,AM,,Aircraft,bexar
+121.800000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Ground VHF,Ground VHF,CSQ,,AM,BM,Aircraft,bexar
+121.900000,0.00000,,San Antonio International Airport (SAT) Air Traffic Control,Ground VHF,Ground 121.9,CSQ,,AM,BM,Aircraft,bexar
+123.000000,0.00000,,Boerne Stage Airport (5C1) Air Traffic,CTAF/Unicom,5C1 CTAF/Unicom,CSQ,,AM,BM,Aircraft,bexar
+124.300000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Tower VHF,Tower VHF,CSQ,,AM,BM,Aircraft,bexar
+124.450000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (360-090),App/Dev (360-090,CSQ,,AM,BM,Aircraft,bexar
+124.750000,0.00000,,Randolph Air Force Base ATC - Randolph,Hangover Ground Control,RAFB GND,CSQ,,AM,BM,Aircraft,bexar
+125.100000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (271-359),App/Dev (271-359,CSQ,,AM,BM,Aircraft,bexar
+125.700000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+126.700000,0.00000,,San Antonio International Airport (SAT) Air Traffic Control,Clearance Delivery,Clearance VHF,CSQ,,AM,BM,Aircraft,bexar
+127.100000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+128.050000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (091-140),App/Dev (091-140,CSQ,,AM,BM,Aircraft,bexar
+128.250000,0.00000,,Randolph Air Force Base ATC - Randolph,Randolph Tower,RAFB TOWER,CSQ,,AM,BM,Aircraft,bexar
+128.800000,0.00000,WRDE227,Stinson Field Air Traffic Control,Stinson ATIS,Stinson ATIS,CSQ,,AM,,Aircraft,bexar
+131.175000,0.00000,WDM3,San Antonio International Airport (SAT) Aviation - Airlines,ARINC San Francisco Radio,ARINC SF RADIO,CSQ,,AM,BM,Aircraft,bexar
+134.100000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 134.1,CSQ,,AM,BM,Aircraft,bexar
+134.100000,0.00000,,Randolph Air Force Base ATC - Randolph,Radar Approach,RAFB Radar,CSQ,,AM,BM,Aircraft,bexar
+139.900000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 139.9,CSQ,,AM,BM,Aircraft,bexar
+239.025000,0.00000,,San Antonio International Airport (SAT) Air Traffic Control,Clearance Delivery,Clearance UHF,CSQ,,AM,BM,Aircraft,bexar
+239.800000,0.00000,,Randolph Air Force Base ATC - Randolph,PMSV,RAFB PMSV,CSQ,,AM,BM,Aircraft,bexar
+251.125000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+257.625000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (115-154/35-56),App/Dev (115-154,CSQ,,AM,BM,Aircraft,bexar
+257.800000,0.00000,,San Antonio International Airport (SAT) Air Traffic Control,Tower UHF,Tower 257.8,CSQ,,AM,BM,Aircraft,bexar
+269.100000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep CRP Transition,App/Dep CRP Tran,CSQ,,AM,BM,Aircraft,bexar
+273.500000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Automatic Terminal Information Service (ATIS) UHF,ATIS UHF,CSQ,,AM,B,Aircraft,bexar
+275.800000,0.00000,,Randolph Air Force Base ATC - Randolph,Randolph Ground Control,RAFB GND,CSQ,,AM,BM,Aircraft,bexar
+289.200000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,Mil Cat VI Training Area,Mil Cat VI Train,CSQ,,AM,BM,Aircraft,bexar
+289.400000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Ground UHF,Ground UHF,CSQ,,AM,BM,Aircraft,bexar
+290.225000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep As Assigned,App/Dep As Assig,CSQ,,AM,BM,Aircraft,bexar
+290.525000,0.00000,,Randolph Air Force Base ATC - Randolph,Randolph ATIS,RAFB ATIS,CSQ,,AM,BM,Aircraft,bexar
+291.100000,0.00000,,Randolph Air Force Base ATC - Randolph,Hangover Tower,RAFB TOWER,CSQ,,AM,BM,Aircraft,bexar
+294.700000,0.00000,,Randolph Air Force Base ATC - Randolph,Randolph Tower,RAFB TOWER,CSQ,,AM,BM,Aircraft,bexar
+307.000000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (271-359),App/Dev (271-359,CSQ,,AM,BM,Aircraft,bexar
+318.100000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (091-140),App/Dev (091-140,CSQ,,AM,BM,Aircraft,bexar
+322.350000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Tower UHF,Tower UHF,CSQ,,AM,BM,Aircraft,bexar
+327.500000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 327.5,CSQ,,AM,BM,Aircraft,bexar
+327.800000,0.00000,,Randolph Air Force Base ATC - Randolph,Hangover ATIS,RAFB ATIS,CSQ,,AM,BM,Aircraft,bexar
+335.625000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dev (360-090),App/Dev (360-090,CSQ,,AM,BM,Aircraft,bexar
+338.350000,0.00000,,Randolph Air Force Base ATC - Randolph,Clearance Delivery,RAFB CD,CSQ,,AM,BM,Aircraft,bexar
+338.600000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 338.6,CSQ,,AM,BM,Aircraft,bexar
+348.400000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,Mil Cat VI Training Area,Mil Cat VI Train,CSQ,,AM,BM,Aircraft,bexar
+348.600000,0.00000,,San Antonio International Airport (SAT) Air Traffic Control,Ground UHF,Ground 348.6,CSQ,,AM,BM,Aircraft,bexar
+353.500000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,App/Dep (141-270),App/Dep (141-270,CSQ,,AM,BM,Aircraft,bexar
+353.750000,0.00000,,Randolph Air Force Base ATC - Randolph,Hangover Ground Control,RAFB GND,CSQ,,AM,BM,Aircraft,bexar
+372.200000,0.00000,,Randolph Air Force Base ATC - Randolph,PTD,RAFB PTD,CSQ,,AM,BM,Aircraft,bexar
+379.900000,0.00000,WRDE227,Stinson Field Air Traffic Control,Stinson Tower,StinsonTower,,,AM,,Aircraft,bexar
+389.900000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 389.9,CSQ,,AM,BM,Aircraft,bexar
+396.100000,0.00000,,Lackland Air Force Base/Kelly Field Air Traffic Control,Radar Approach,RdrApp 396.1,CSQ,,AM,BM,Aircraft,bexar
+397.000000,0.00000,,San Antonio Terminal Radar Approach Control (TRACON) Approach / Depature,Mil Cat VI Training Area,Mil Cat VI Train,CSQ,,AM,BM,Aircraft,bexar
