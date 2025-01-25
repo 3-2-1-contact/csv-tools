@@ -87,5 +87,4 @@ csvtools split --in transactions.csv --filter "type=expense" --split category --
 - File patterns (e.g., `*.csv`) can be used with the `--in` flag
 - Format specifications can handle spaces in column names using single quotes
 - Multiple filter values can be comma-separated
-
 ---
