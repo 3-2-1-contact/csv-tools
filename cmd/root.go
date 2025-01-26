@@ -2,9 +2,10 @@ package cmd
 
 import (
 	"fmt"
+	"os"
+
 	"github.com/3-2-1-contact/csv-tools/internal/version"
 	"github.com/spf13/cobra"
-	"os"
 )
 
 var verbose bool
@@ -12,7 +13,7 @@ var verbose bool
 var versionCmd = &cobra.Command{
 	Use:   "version",
 	Short: "Print version information",
-	Run: func(cmd *cobra.Command, args []string) {
+	Run: func(_ *cobra.Command, _ []string) {
 		fmt.Printf("csvtools version %s\n", version.Version)
 		fmt.Printf("commit: %s\n", version.CommitHash)
 		fmt.Printf("built: %s\n", version.BuildTime)
@@ -35,7 +36,6 @@ func init() {
 
 func Execute() error {
 	return rootCmd.Execute()
-
 }
 
 func init() {

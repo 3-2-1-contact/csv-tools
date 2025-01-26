@@ -15,7 +15,7 @@ type FilterConfig struct {
 	Values map[string]bool
 }
 
-// Execute is the main entry point
+// Execute is the main entry point.
 func Execute(flags Flags) error {
 	// Parse format string if provided
 	var err error
@@ -49,9 +49,8 @@ func Execute(flags Flags) error {
 	for i := range headers {
 		headers[i] = strings.ToLower(headers[i])
 	}
-	var formats []ColumnFormat
 	if flags.FormatStr != "" {
-		formats, err = ParseFormatString(flags.FormatStr)
+		_, err = ParseFormatString(flags.FormatStr)
 		if err != nil {
 			return fmt.Errorf("invalid format specification: %w", err)
 		}
@@ -61,8 +60,8 @@ func Execute(flags Flags) error {
 		return err
 	}
 
-	//filterValueStr := createFilterValueString(flags.Filter)
-	if err := writeOutputFiles(headers, flags.Filter, groupedRecords, formats); err != nil {
+	// filterValueStr := createFilterValueString(flags.Filter)
+	if err := writeOutputFiles(headers, flags.Filter, groupedRecords); err != nil {
 		return fmt.Errorf("error writing output files: %w", err)
 	}
 	return nil
@@ -70,7 +69,7 @@ func Execute(flags Flags) error {
 
 func validateFlags(args Flags) error {
 	if args.Filter == "" || args.SplitCol == "" {
-		return fmt.Errorf("filter and split column must be specified")
+		return errors.New("filter and split column must be specified")
 	}
 	return nil
 }
@@ -89,7 +88,7 @@ func getReader(inputFile string) (*csv.Reader, io.Closer, error) {
 func parseFilterArgument(filter string) (FilterConfig, error) {
 	filterParts := strings.Split(filter, "=")
 	if len(filterParts) != 2 {
-		return FilterConfig{}, fmt.Errorf("filter must be in format column=value1,value2,...")
+		return FilterConfig{}, errors.New("filter must be in format column=value1,value2")
 	}
 
 	filterValues := strings.Split(filterParts[1], ",")
@@ -166,22 +165,21 @@ func createFilterValueString(filter string) string {
 	return parts[1]
 }
 
-func writeOutputFiles(headers []string, filter string, recordGroups map[string][][]string, formats []ColumnFormat) error {
-	filter = strings.Replace(filter, " ", "-", -1)
-	filter = strings.Replace(filter, "=", "_", -1)
-	filter = strings.Replace(filter, ",", "_", -1)
+func writeOutputFiles(headers []string, filter string, recordGroups map[string][][]string) error {
+	filter = strings.ReplaceAll(filter, " ", "-")
+	filter = strings.ReplaceAll(filter, "=", "_")
+	filter = strings.ReplaceAll(filter, ",", "_")
 	for value, records := range recordGroups {
-
 		outputFilename := fmt.Sprintf("%s-%s.csv", value, strings.ToLower(filter))
-		if err := writeCSVFile(outputFilename, headers, records, formats); err != nil {
+		if err := writeCSVFile(outputFilename, headers, records); err != nil {
 			return err
 		}
 	}
 	return nil
 }
 
-// func writeCSVFile(filename string, headers []string, records [][]string) error {
-func writeCSVFile(filename string, headers []string, records [][]string, formats []ColumnFormat) error {
+// func writeCSVFile(filename string, headers []string, records [][]string) error {.
+func writeCSVFile(filename string, headers []string, records [][]string) error {
 	outputFile, err := os.Create(filename)
 	if err != nil {
 		return fmt.Errorf("error creating file %s: %w", filename, err)

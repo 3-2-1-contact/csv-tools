@@ -1,8 +1,9 @@
 package cmd
 
 import (
-	"github.com/3-2-1-contact/csv-tools/internal/split"
 	"github.com/spf13/cobra"
+
+	"github.com/3-2-1-contact/csv-tools/internal/split"
 )
 
 var splitArgs split.Flags
@@ -13,7 +14,7 @@ var splitCmd = &cobra.Command{
 	Short:   "Split CSV file based on criteria",
 	Long: `Split a CSV file into multiple files based on specified criteria.
 Filter rows and split them into separate files based on column values.`,
-	RunE: func(cmd *cobra.Command, args []string) error {
+	RunE: func(_ *cobra.Command, _ []string) error {
 		return split.Execute(splitArgs)
 	},
 }
@@ -28,6 +29,12 @@ func init() {
 		`Column format specifications (e.g., "Total Value:decimal:6,'Account Number':int")
 Available formats: string, int, decimal:<precision>`)
 
-	splitCmd.MarkFlagRequired("filter")
-	splitCmd.MarkFlagRequired("split")
+	err := splitCmd.MarkFlagRequired("filter")
+	if err != nil {
+		return
+	}
+	err = splitCmd.MarkFlagRequired("split")
+	if err != nil {
+		return
+	}
 }

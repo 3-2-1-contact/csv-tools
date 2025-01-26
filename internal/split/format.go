@@ -6,15 +6,15 @@ import (
 	"strings"
 )
 
-// ParseFormatString parses format string like "Total Value:decimal:6,'Account Number':int"
+// ParseFormatString parses format string like "Total Value:decimal:6,'Account Number':int".
 func ParseFormatString(formatStr string) ([]ColumnFormat, error) {
 	if formatStr == "" {
 		return nil, nil
 	}
 
-	var formats []ColumnFormat
 	// Split on comma but not within quotes
 	specs := splitUnquoted(formatStr, ',')
+	formats := make([]ColumnFormat, len(specs), 0)
 
 	for _, spec := range specs {
 		parts := splitUnquoted(spec, ':')
@@ -59,7 +59,7 @@ func ParseFormatString(formatStr string) ([]ColumnFormat, error) {
 	return formats, nil
 }
 
-// Helper function to split string on delimiter but respect quotes
+// Helper function to split string on delimiter but respect quotes.
 func splitUnquoted(s string, delimiter rune) []string {
 	var result []string
 	var current strings.Builder
@@ -86,7 +86,7 @@ func splitUnquoted(s string, delimiter rune) []string {
 	return result
 }
 
-// FormatValue formats a single value according to the specified format
+// FormatValue formats a single value according to the specified format.
 func FormatValue(value string, format ColumnFormat) (string, error) {
 	switch format.Type {
 	case FormatString:

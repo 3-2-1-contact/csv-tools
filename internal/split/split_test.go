@@ -1,11 +1,12 @@
 package split
 
 import (
-	"github.com/stretchr/testify/assert"
 	"os"
 	"path/filepath"
 	"strings"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 type testCase struct {
@@ -34,7 +35,7 @@ func TestExecute(t *testing.T) {
 				SplitCol:  "County",
 			},
 			expectFiles: []string{
-				//"internal/split/test-data/expected/bexar-Aircraft.csv",
+				// "internal/split/test-data/expected/bexar-Aircraft.csv",
 				"expected/bexar-Aircraft.csv",
 				"expected/bexar-Aircraft.csv",
 				"expected/comal-Aircraft.csv",
@@ -124,13 +125,12 @@ func TestExecute(t *testing.T) {
 				normalizedActual := strings.ReplaceAll(strings.ReplaceAll(string(actualContent), "\r\n", "\n"), "\r", "\n")
 
 				assert.Equal(t, normalizedExpected, normalizedActual)
-
 			}
 		})
 	}
 }
 
-// Helper functions
+// Helper functions.
 func cleanTmpDir(t *testing.T, dir string) {
 	entries, err := os.ReadDir(dir)
 	if err != nil {
@@ -148,5 +148,5 @@ func copyFile(src, dst string) error {
 	if err != nil {
 		return err
 	}
-	return os.WriteFile(dst, input, 0644)
+	return os.WriteFile(dst, input, 0o644)
 }

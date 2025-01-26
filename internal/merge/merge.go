@@ -2,6 +2,7 @@ package merge
 
 import (
 	"encoding/csv"
+	"errors"
 	"fmt"
 	"io"
 	"os"
@@ -15,7 +16,7 @@ type Flags struct {
 	NewColumn  string
 }
 
-// compareHeaders checks if two string slices are equal
+// compareHeaders checks if two string slices are equal.
 func compareHeaders(a, b []string) bool {
 	if len(a) != len(b) {
 		return false
@@ -30,12 +31,12 @@ func compareHeaders(a, b []string) bool {
 
 func Execute(args Flags) error {
 	if args.InputFiles == "" {
-		return fmt.Errorf("no input files specified")
+		return errors.New("no input files specified")
 	}
 
 	files := strings.Split(args.InputFiles, ",")
 	if len(files) == 0 {
-		return fmt.Errorf("no input files specified")
+		return errors.New("no input files specified")
 	}
 
 	var writer *csv.Writer

@@ -15,14 +15,14 @@ func TestExecute(t *testing.T) {
 	// Create test file 1
 	file1Content := "header1,header2\nvalue1,value2\nvalue3,value4"
 	file1Path := filepath.Join(tempDir, "test1.csv")
-	if err := os.WriteFile(file1Path, []byte(file1Content), 0644); err != nil {
+	if err := os.WriteFile(file1Path, []byte(file1Content), 0o644); err != nil {
 		t.Fatalf("Failed to create test file 1: %v", err)
 	}
 
 	// Create test file 2
 	file2Content := "header1,header2\nvalue5,value6\nvalue7,value8"
 	file2Path := filepath.Join(tempDir, "test2.csv")
-	if err := os.WriteFile(file2Path, []byte(file2Content), 0644); err != nil {
+	if err := os.WriteFile(file2Path, []byte(file2Content), 0o644); err != nil {
 		t.Fatalf("Failed to create test file 2: %v", err)
 	}
 

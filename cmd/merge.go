@@ -2,7 +2,6 @@ package cmd
 
 import (
 	"github.com/3-2-1-contact/csv-tools/internal/merge"
-
 	"github.com/spf13/cobra"
 )
 
@@ -16,7 +15,7 @@ var mergeCmd = &cobra.Command{
 Optionally add a new column with values derived from filenames.`,
 	Example: `  csvtools merge --col county --in "comal.csv,hays.csv" --out all.csv
   csvtools merge --col state --in "texas.csv,florida.csv" | csvtools split --filter "category=Aircraft" --split state`,
-	RunE: func(cmd *cobra.Command, args []string) error {
+	RunE: func(_ *cobra.Command, _ []string) error {
 		return merge.Execute(mergeArgs)
 	},
 }
@@ -28,5 +27,8 @@ func init() {
 	mergeCmd.Flags().StringVar(&mergeArgs.OutputFile, "out", "", "Output CSV file (optional)")
 	mergeCmd.Flags().StringVar(&mergeArgs.NewColumn, "col", "", "Name of new column to add with filename values")
 
-	mergeCmd.MarkFlagRequired("in")
+	err := mergeCmd.MarkFlagRequired("in")
+	if err != nil {
+		return
+	}
 }

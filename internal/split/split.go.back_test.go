@@ -1,7 +1,7 @@
 package split
 
 //
-//func TestExecute(t *testing.T) {
+// func TestExecute(t *testing.T) {
 //	// Create a temporary test directory
 //	tmpDir := t.TempDir()
 //	originalWd, _ := os.Getwd()
@@ -10,11 +10,11 @@ package split
 //
 //	// Create a test CSV file
 //	testData := `Header1,Header2,Header3
-//value1,group1,data1
-//value2,group1,data2
-//value3,group2,data3
-//value4,group2,data4
-//value5,group3,data5`
+// value1,group1,data1
+// value2,group1,data2
+// value3,group2,data3
+// value4,group2,data4
+// value5,group3,data5`
 //
 //	err := os.WriteFile("test.csv", []byte(testData), 0644)
 //	if err != nil {
@@ -139,12 +139,12 @@ package split
 //}
 //
 //// Helper function to check if a string contains another string
-//func contains(s, substr string) bool {
+// func contains(s, substr string) bool {
 //	return strings.Contains(s, substr)
 //}
 //
 //// TestExecuteWithStdin tests the function with stdin input
-//func TestExecuteWithStdin(t *testing.T) {
+// func TestExecuteWithStdin(t *testing.T) {
 //	// Save original stdin
 //	oldStdin := os.Stdin
 //	defer func() { os.Stdin = oldStdin }()
@@ -160,8 +160,8 @@ package split
 //
 //	// Write test data to pipe
 //	testData := `Header1,Header2,Header3
-//value1,group1,data1
-//value2,group1,data2`
+// value1,group1,data1
+// value2,group1,data2`
 //
 //	go func() {
 //		w.Write([]byte(testData))
